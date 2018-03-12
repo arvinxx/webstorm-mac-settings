@@ -98,8 +98,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="//*" value="/**&#10; * @desc: $desc$&#10; * @author ArvinX&#10; * @date $date$ &#10;*/&#10;" description="JSDoc comments" toReformat="false" toShortenFQNames="true">
-    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="//*" value="/**&#10; * @Description: $des$ &#10; * @author ArvinX&#10; * @date $date$ &#10;*/&#10;$END$" description="JSDoc comments" toReformat="false" toShortenFQNames="true">
+    <variable name="des" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
