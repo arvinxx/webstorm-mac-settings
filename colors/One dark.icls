@@ -1,15 +1,15 @@
-<scheme name="FullStar" version="142" parent_scheme="Darcula">
+<scheme name="One dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-01-27T13:54:09</property>
+    <property name="created">2018-01-22T08:34:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-03-04T11:07:01</property>
+    <property name="modified">2018-01-26T21:29:26</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
@@ -450,7 +450,7 @@
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ca85cc" />
+        <option name="FOREGROUND" value="fda5ff" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
@@ -614,9 +614,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff5e4d" />
+        <option name="EFFECT_COLOR" value="ff6767" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -627,8 +627,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9adcdb" />
-        <option name="BACKGROUND" value="3a605f" />
+        <option name="FOREGROUND" value="282c34" />
+        <option name="BACKGROUND" value="be5046" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -938,12 +938,12 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61bdff" />
+        <option name="FOREGROUND" value="5aaef1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="57a8e6" />
+        <option name="FOREGROUND" value="bdde68" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -1718,7 +1718,7 @@
     </option>
     <option name="SASS_EXTEND">
       <value>
-        <option name="FOREGROUND" value="c98fdb" />
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="SASS_FUNCTION">
@@ -2027,12 +2027,6 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
-    <option name="TYPO">
-      <value>
-        <option name="EFFECT_COLOR" value="57825b" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
@@ -2040,8 +2034,10 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f1d225" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="BACKGROUND" value="4a3f10" />
+        <option name="EFFECT_COLOR" value="a6b2c0" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
