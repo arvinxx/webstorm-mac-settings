@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="prettier.cmd" />
+      <option name="PARAMETERS" value="--write [other opts] $FilePathRelativeToProjectRoot$ " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$ " />
+    </exec>
+  </tool>
+</toolSet>

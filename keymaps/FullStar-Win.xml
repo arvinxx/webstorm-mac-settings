@@ -1,0 +1,142 @@
+<keymap version="1" name="FullStar-Win" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.Diff" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="OptimizeImports" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowReformatFileDialog" />
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
+  </action>
+  <action id="SmartTypeCompletion" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="Tool_CSS Tools_CSScomb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Tool_CSS Tools_Stylelint">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Tool_CSS Tools_stylelint">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Tool_External Tools_prettier">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.SetValue" />
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
