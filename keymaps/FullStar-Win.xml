@@ -36,6 +36,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -54,6 +57,9 @@
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">

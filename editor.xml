@@ -4,7 +4,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.4" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="100" chromeUpdateApp="true" chromeUpdateOnChanges="true">
+  <component name="LiveEditOptions" chromeAutoDelay="100" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
