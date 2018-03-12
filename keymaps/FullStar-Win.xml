@@ -88,6 +88,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="enter" />
