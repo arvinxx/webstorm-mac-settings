@@ -27,6 +27,10 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="EditorDeleteToWordStart" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
