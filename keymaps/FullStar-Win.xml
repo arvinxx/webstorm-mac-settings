@@ -27,6 +27,10 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="EditorDeleteToWordStart" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -35,6 +39,9 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
@@ -54,6 +61,9 @@
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
@@ -87,6 +97,9 @@
   <action id="QuickChangeScheme" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />

@@ -1,8 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
-    <option name="USE_PROXY_PAC" value="true" />
-    <option name="PROXY_HOST" value="localhost" />
-    <option name="PROXY_PORT" value="1086" />
-  </component>
-</application>
