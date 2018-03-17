@@ -8,5 +8,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/less" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
