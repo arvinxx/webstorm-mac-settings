@@ -1,5 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="VALID_GIT_AUTH" value="false" />
+    <option name="LOGIN" value="arvinx@foxmail.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
