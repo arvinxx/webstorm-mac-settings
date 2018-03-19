@@ -118,6 +118,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
