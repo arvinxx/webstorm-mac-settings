@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/koa" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/less" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

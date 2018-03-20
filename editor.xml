@@ -10,4 +10,7 @@
   <component name="LiveEditOptions" chromeAutoDelay="100" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>

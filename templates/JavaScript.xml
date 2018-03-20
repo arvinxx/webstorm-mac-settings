@@ -98,7 +98,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="//*" value="/**&#10; * $des$ &#10; * @Arg $arg$&#10;*/&#10;$END$" description="JSDoc comments" toReformat="false" toShortenFQNames="true">
+  <template name="//*" value="/**&#10; * $des$ &#10; * @param $arg$&#10;*/$END$" description="JSDoc comments" toReformat="false" toShortenFQNames="true">
     <variable name="des" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
