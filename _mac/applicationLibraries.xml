@@ -16,6 +16,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/puppeteer" type="javaScript">
       <CLASSES />
       <SOURCES />
