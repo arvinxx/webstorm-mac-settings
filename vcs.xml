@@ -66,8 +66,12 @@
           <option name="url" value="http://git.coding.net" />
           <option name="userName" value="arvinx@foxmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WuTheFWasThat/vimflowy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Tech\Github" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Tech" />
   </component>
 </application>
