@@ -7,4 +7,7 @@
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="debugger.watches.in.variables" value="false" />
+  </component>
 </application>
