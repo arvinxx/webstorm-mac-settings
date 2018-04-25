@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/egg.js" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/express" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -13,6 +17,10 @@
       <SOURCES />
     </library>
     <library name="@types/less" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
