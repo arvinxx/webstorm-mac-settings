@@ -135,6 +135,9 @@
   <action id="Tool_External Tools_prettier">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push">
