@@ -78,8 +78,12 @@
           <option name="url" value="https://github.com/arvinxx/egg-mongoose.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://arvinxx@bitbucket.org/arvinxx/lingmao-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Tech" />
+    <option name="cloneParentDir" value="E:\Tech\Github" />
   </component>
 </application>
