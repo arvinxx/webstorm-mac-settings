@@ -82,6 +82,10 @@
           <option name="url" value="https://arvinxx@bitbucket.org/arvinxx/lingmao-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="arvinxx" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Tech\Github" />
