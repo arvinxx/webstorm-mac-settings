@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="React  JSX.jsx" reformat="true" live-template-enabled="true" />
+      <template name="React TSX.tsx" reformat="false" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
