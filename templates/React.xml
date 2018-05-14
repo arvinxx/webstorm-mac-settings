@@ -1,5 +1,5 @@
 <templateSet group="React">
-  <template name="rcc" value="import React, { Component } from 'react';&#10;&#10;export default class $COMPONENT$ extends Component {&#10;  &#10;  defaultProps = {};&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;" description="React Class Component" toReformat="true" toShortenFQNames="true">
+  <template name="rcc" value="import React, { Component } from 'react';&#10;&#10;export default class $COMPONENT$ extends Component {&#10;  &#10;  static defaultProps = {};&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;" description="React Class Component" toReformat="true" toShortenFQNames="true">
     <variable name="COMPONENT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
