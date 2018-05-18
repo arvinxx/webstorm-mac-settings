@@ -339,7 +339,8 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="lss" value="import styles from './styles.less';" description="import style from './style.less'" toReformat="false" toShortenFQNames="true">
+  <template name="lss" value="import styles from './$Styles$.less';" description="import style from './style.less'" toReformat="false" toShortenFQNames="true">
+    <variable name="Styles" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
