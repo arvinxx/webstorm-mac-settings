@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="ReformatWithPrettierAction">
-        <abbreviation name="pre" />
-      </action>
-    </abbreviations>
-  </component>
-</application>
