@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Convert anonymous function to named function" />
-  </component>
-</application>
