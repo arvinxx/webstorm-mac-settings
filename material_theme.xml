@@ -6,9 +6,11 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="439afc" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="32" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="upperCaseTabs" value="true" />
+    <option name="customSidebarHeight" value="20" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="tabOpacity" value="60" />
