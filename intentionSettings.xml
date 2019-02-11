@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove attribute" />
+  </component>
+</application>
