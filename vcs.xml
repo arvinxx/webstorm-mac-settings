@@ -90,8 +90,16 @@
           <option name="url" value="https://gitlab.com/arvinxx/digital-currency-calc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.weixin.qq.com/arvinxx/kuakua-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.weixin.qq.com" />
+          <option name="userName" value="arvinxx" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Work/Tech/Git" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
   </component>
 </application>
