@@ -98,6 +98,10 @@
           <option name="url" value="http://git.weixin.qq.com" />
           <option name="userName" value="arvinxx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/arvinxx/athena.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
