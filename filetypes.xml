@@ -4,7 +4,6 @@
       <mapping pattern=".webpackrc" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
