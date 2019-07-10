@@ -4,12 +4,12 @@
     <property name="created">2018-01-27T13:54:09</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-04-25T20:27:31</property>
+    <property name="modified">2019-07-10T21:56:13</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Microsoft YaHei Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
