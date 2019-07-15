@@ -114,8 +114,12 @@
           <option name="url" value="https://git.topless.tech/topless/duoyi-landing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.topless.tech/topless/duoyi-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
+    <option name="cloneParentDir" value="C:\Users\ArvinX\CodeProject" />
   </component>
 </application>
