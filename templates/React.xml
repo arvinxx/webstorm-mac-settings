@@ -346,7 +346,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="tsrcc" value="import React, { Component } from 'react';&#10;import styles from './$COMPONENT$.less'&#10;interface I$COMPONENT$Props{}&#10;export default class $COMPONENT$ extends Component&lt;I$COMPONENT$Props&gt; {&#10;  &#10;  static defaultProps:I$COMPONENT$Props = {};&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$COMPONENT$$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;" description="Ttypescript React Component" toReformat="false" toShortenFQNames="true">
+  <template name="tsrcc" value="import React, { Component } from 'react';&#10;import styles from './style.less'&#10;interface I$COMPONENT$Props{}&#10;export default class $COMPONENT$ extends Component&lt;I$COMPONENT$Props&gt; {&#10;  &#10;  static defaultProps:I$COMPONENT$Props = {};&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$COMPONENT$$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;" description="Ttypescript React Component" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
