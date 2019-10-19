@@ -9,15 +9,15 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="60" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="tabsHeight" value="32" />
+    <option name="tabsHeight" value="28" />
     <option name="accentColor" value="439afc" />
     <option name="highlightColor" value="6eb6ff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="364817f2:16459d75b28:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
