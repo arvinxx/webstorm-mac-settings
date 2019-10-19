@@ -5,7 +5,6 @@
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
@@ -16,6 +15,7 @@
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="60" />
     <option name="treeFontSize" value="18" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="22" />
     <option name="accentColor" value="439afc" />
     <option name="highlightColor" value="6eb6ff" />
