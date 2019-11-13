@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".webpackrc" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
