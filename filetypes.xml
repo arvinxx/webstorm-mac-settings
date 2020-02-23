@@ -9,6 +9,7 @@
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
