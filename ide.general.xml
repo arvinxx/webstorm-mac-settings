@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
