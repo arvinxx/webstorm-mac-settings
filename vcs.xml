@@ -138,6 +138,10 @@
           <option name="url" value="http://git.stepbeats.io" />
           <option name="userName" value="arvinx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/wuling-tech/duoyi/duoyi-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
