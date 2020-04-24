@@ -142,6 +142,10 @@
           <option name="url" value="https://e.coding.net/wuling-tech/duoyi/duoyi-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://wuling-tech.coding.net/p/shengcai-contact/d/shengcai-contact-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
