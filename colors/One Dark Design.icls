@@ -1,25 +1,20 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Design" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-22T06:29:08</property>
-    <property name="description">Real Atom One Dark</property>
+    <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-22T06:43:38</property>
-    <property name="originalScheme">Atom One Dark</property>
-    <property name="vendorMail">arvinx@foxmail.com</property>
-    <property name="vendorName">arvinxx</property>
-    <property name="vendorUrl">https://github.com/arvinxx</property>
-    <property name="version">1.0</property>
+    <property name="modified">2020-07-22T07:04:30</property>
+    <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -29,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -551,7 +547,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffea80" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -577,7 +573,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="ffdf80" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -626,7 +622,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -1233,15 +1229,20 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
+    <option name="JS.EXPORTED.VARIABLE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffdf80" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1266,7 +1267,7 @@
     </option>
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="e5c17c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3555,7 +3556,7 @@
     </option>
     <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="e5c17c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

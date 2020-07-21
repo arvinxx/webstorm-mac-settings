@@ -1,8 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="javascript">
