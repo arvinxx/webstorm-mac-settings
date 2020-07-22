@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-22T08:07:40</property>
+    <property name="modified">2020-07-22T13:19:54</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -606,7 +606,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="2defbc" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -662,8 +662,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5bccef" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -1223,15 +1222,9 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="61aeef" />
-      </value>
-    </option>
     <option name="JS.EXPORTED.FUNCTION">
       <value>
         <option name="FOREGROUND" value="61aeef" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.EXPORTED.VARIABLE">
@@ -3557,6 +3550,11 @@
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
