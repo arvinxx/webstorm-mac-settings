@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-22T07:54:13</property>
+    <property name="modified">2020-07-22T08:07:40</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -1228,6 +1228,12 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.EXPORTED.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.EXPORTED.VARIABLE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -1235,7 +1241,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="5bccef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
