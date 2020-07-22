@@ -6,6 +6,10 @@
           <option name="url" value="http://code.alipay.com" />
           <option name="userName" value="wenbing.xwb" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="arvinxx" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
