@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-22T07:04:30</property>
+    <property name="modified">2020-07-22T08:07:40</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -176,7 +176,7 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="e06c75" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="BASH.BACKQUOTE">
@@ -414,7 +414,6 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -580,7 +579,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="e06c75" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -1229,6 +1228,12 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.EXPORTED.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.EXPORTED.VARIABLE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -1236,7 +1241,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="5bccef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1293,7 +1298,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_BACKGROUND">
