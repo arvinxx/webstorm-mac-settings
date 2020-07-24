@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-22T13:19:54</property>
+    <property name="modified">2020-07-24T15:52:23</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -414,6 +414,7 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
