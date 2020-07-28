@@ -10,6 +10,14 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="arvinxx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="arvinx@foxmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://e.coding.net" />
+          <option name="userName" value="arvinx@foxmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
