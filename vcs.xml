@@ -10,8 +10,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="arvinxx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.alipay.com/hitu/hitu-sketch-parser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
