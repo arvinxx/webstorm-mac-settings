@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/sketch-hq/sketch-assistant-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gaweph/p5-typescript-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
