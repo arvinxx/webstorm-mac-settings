@@ -68,6 +68,9 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ToggleRenderedDocPresentation" />
+  <action id="Tool_External Tools_fix stylelint">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt f" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
