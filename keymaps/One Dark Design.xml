@@ -1,4 +1,5 @@
 <keymap version="1" name="One Dark Design" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Diff" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -69,7 +70,7 @@
   </action>
   <action id="ToggleRenderedDocPresentation" />
   <action id="Tool_External Tools_fix stylelint">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
