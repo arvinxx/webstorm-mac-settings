@@ -78,9 +78,13 @@
           <option name="url" value="https://github.com/Airtable/blocks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/wuling-tech/duoyi/translation-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/airtable" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/wuling/duoyi" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
