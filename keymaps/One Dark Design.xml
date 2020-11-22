@@ -45,10 +45,6 @@
   <action id="QuickTypeDefinition">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
