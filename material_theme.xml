@@ -4,6 +4,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
