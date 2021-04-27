@@ -102,9 +102,13 @@
           <option name="url" value="https://github.com/arvinxx/components.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arvinxx/power-yuque.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/arvinxx" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
