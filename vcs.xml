@@ -118,6 +118,10 @@
           <option name="url" value="https://github.com/arvinxx/zotero-engine-list.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arvinxx/gitmoji-commit-workflow" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
