@@ -4,16 +4,16 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-07-24T15:52:23</property>
+    <property name="modified">2021-06-01T14:58:03</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <console-font>
@@ -414,7 +414,6 @@
       <value>
         <option name="FOREGROUND" value="c679dd" />
         <option name="EFFECT_COLOR" value="c679dd" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1205,8 +1204,6 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
