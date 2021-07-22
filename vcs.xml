@@ -138,6 +138,10 @@
           <option name="url" value="https://github.com/carrie-tanminyi/intelligent-recommendation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.alipay.com:kitchen-site/comoponents-decision-tree.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
