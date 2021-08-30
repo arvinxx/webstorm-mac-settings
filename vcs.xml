@@ -146,9 +146,13 @@
           <option name="url" value="git@code.alipay.com:kitchen/kitchen.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.alipay.com:hitu/ant-design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/kitchen" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
