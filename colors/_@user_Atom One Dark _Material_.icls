@@ -4,7 +4,7 @@
     <property name="created">2021-07-12T14:14:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-11-28T11:08:57</property>
+    <property name="modified">2021-12-05T23:55:52</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1370,7 +1370,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="3a3f4b" />
