@@ -11,6 +11,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="mtStatusBar" value="false" />
