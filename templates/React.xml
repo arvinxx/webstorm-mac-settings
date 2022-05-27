@@ -1,0 +1,5 @@
+<templateSet group="React">
+  <template name="props" value="props.$END$" description="Access component's props" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+</templateSet>

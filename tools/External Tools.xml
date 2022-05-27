@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="fix stylelint" description=" 修复 stylelint 的错误" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/stylelint" />
+      <option name="PARAMETERS" value="$FileName$ --fix" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
