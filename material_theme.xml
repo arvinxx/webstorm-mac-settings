@@ -3,7 +3,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,6 +18,6 @@
     <option name="accentColor" value="2979ff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="534784f7:173736383df:-8000" />
-    <option name="version" value="7.5.0.3" />
+    <option name="version" value="6.16.2" />
   </component>
 </application>
