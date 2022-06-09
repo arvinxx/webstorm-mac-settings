@@ -185,6 +185,10 @@
           <option name="url" value="https://code.alipay.com/hitu/ant-design.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.alipay.com/kitchen/c2d2c.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/kitchen" />
