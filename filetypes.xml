@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping ext="blockmap" type="AUTO_DETECTED" />
       <mapping ext="sketch" type="Native" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
