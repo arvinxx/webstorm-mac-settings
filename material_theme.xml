@@ -8,7 +8,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
@@ -18,6 +17,6 @@
     <option name="accentColor" value="1677ff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="534784f7:173736383df:-8000" />
-    <option name="version" value="6.16.2" />
+    <option name="version" value="7.6.2" />
   </component>
 </application>
