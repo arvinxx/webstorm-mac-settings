@@ -2,13 +2,11 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
