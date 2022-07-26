@@ -193,9 +193,13 @@
           <option name="url" value="https://code.alipay.com/TechUI/pro-editor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.alipay.com/kitchen/plugin-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/kitchen" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
