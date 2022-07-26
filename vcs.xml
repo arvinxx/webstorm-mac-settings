@@ -206,6 +206,7 @@
         <option value="Default.Subject" />
         <option value="Default.Date" />
         <option value="Default.Author" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
