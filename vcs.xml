@@ -201,9 +201,13 @@
           <option name="url" value="https://code.alipay.com/kitchen/kitchen-measure-view" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GoogleChromeLabs/ProjectVisBug.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects/kitchen" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
