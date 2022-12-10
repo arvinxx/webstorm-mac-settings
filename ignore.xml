@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" starredTemplates="" unignoreActions="true" notifyIgnoredEditing="true" foldableProjectViewAdvertiseShown="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" starredTemplates="" unignoreActions="true" notifyIgnoredEditing="true" foldableProjectViewAdvertisePresented="true">
     <languages>
       <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
       <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
@@ -23,6 +23,7 @@
       <language id="NuxtJS" NEW_FILE="true" ENABLE="false" />
       <language id="Perforce" NEW_FILE="true" ENABLE="false" />
       <language id="Prettier" NEW_FILE="true" ENABLE="false" />
+      <language id="Sourcegraph" NEW_FILE="true" ENABLE="false" />
       <language id="StyleLint" NEW_FILE="true" ENABLE="false" />
       <language id="Stylint" NEW_FILE="true" ENABLE="false" />
       <language id="Swagger Codegen" NEW_FILE="true" ENABLE="false" />
