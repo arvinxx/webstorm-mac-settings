@@ -1,9 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="autoSyncFiles" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
