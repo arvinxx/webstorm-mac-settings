@@ -5,7 +5,6 @@
       <mapping ext="blockmap" type="AUTO_DETECTED" />
       <mapping ext="sketch" type="Native" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="js " type="PLAIN_TEXT" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
