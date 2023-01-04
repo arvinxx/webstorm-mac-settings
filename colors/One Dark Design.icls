@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2023-01-03T15:08:50</property>
+    <property name="modified">2023-01-04T21:19:46</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -39,7 +39,7 @@
     <option name="DOC_COMMENT_LINK" value="56b6c2" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="98c379" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_DELETED" value="59626f" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
@@ -72,6 +72,7 @@
     <option name="MODIFIED_LINES_COLOR" value="61aeef" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
+    <option name="MT_FILESTATUS_DELETED" value="59626f" />
     <option name="MT_FILESTATUS_MODIFIED" value="e5c17c" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
