@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="组件 Markdown .md" file-name="index.md" reformat="true" live-template-enabled="false" />
-    </default_templates>
-  </component>
-</application>
