@@ -3,23 +3,26 @@
     <local-interpreter path="$USER_HOME$/CodeProjects/emsdk/node/14.18.2_64bit/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="$USER_HOME$/CodeProjects/kitchen/pro-editor/.node/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v19.3.0/bin/node">
-      <version-cache version="19.3.0" last-modified="1671019356000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.13.0/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="18.13.0" last-modified="1672958405000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.12.1/bin/node">
-      <version-cache version="18.12.1" last-modified="1667579253000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.19.0/bin/node">
+      <version-cache version="16.19.0" last-modified="1670915986000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/CodeProjects/kitchen/pro-editor/.node/bin/node">
+      <version-cache version="16.18.1" last-modified="1667564252000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.15.0/bin/node">
       <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="16.13.0" last-modified="1635246634000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
       <version-cache last-modified="0" />
