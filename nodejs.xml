@@ -16,7 +16,7 @@
       <version-cache version="16.19.0" last-modified="1670915986000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/CodeProjects/kitchen/pro-editor/.node/bin/node">
-      <version-cache version="16.18.1" last-modified="1667564252000" />
+      <version-cache version="16.19.1" last-modified="1676561795000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.15.0/bin/node">
       <version-cache version="16.15.0" last-modified="1651010457000" />
