@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="Antd CSS in JS 样式文件.ts" file-name="style.ts" reformat="true" live-template-enabled="false" />
-    </default_templates>
-  </component>
-</application>
