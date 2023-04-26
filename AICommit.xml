@@ -9,6 +9,13 @@
       </Prompt>
     </option>
     <option name="lastVersion" value="1.0.0" />
+    <option name="openAIHost" value="https://openai-proxy.arvinx.app" />
+    <option name="openAIHosts">
+      <set>
+        <option value="https://api.openai.com" />
+        <option value="https://openai-proxy.arvinx.app" />
+      </set>
+    </option>
     <option name="locale" value="zh" />
   </component>
 </application>
