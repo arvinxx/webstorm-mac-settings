@@ -1,0 +1,14 @@
+<application>
+  <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings">
+    <option name="currentPrompt">
+      <Prompt>
+        <option name="canBeChanged" value="false" />
+        <option name="content" value="Write a clean and comprehensive commit message in the conventional commit convention. I'll send you an output of 'git diff --staged' command, and you convert it into a commit message. Use GitMoji convention to preface the commit. Do NOT add any descriptions to the commit, only commit message. Use the present tense. Lines must not be longer than 74 characters. Use {locale} language to answer.&#10;{diff}" />
+        <option name="description" value="Prompt for commit message in the conventional commit convention with GitMoji convention." />
+        <option name="name" value="Emoji" />
+      </Prompt>
+    </option>
+    <option name="lastVersion" value="1.0.0" />
+    <option name="locale" value="zh" />
+  </component>
+</application>
