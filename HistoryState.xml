@@ -1,0 +1,8 @@
+<application>
+  <component name="HistoryState">
+    <option name="history">
+      <History />
+    </option>
+    <option name="jsonBlob" value="{&quot;items&quot;:[{&quot;id&quot;:&quot;da8ad2e9-34b1-4225-ac0d-b79aedf9835d&quot;,&quot;title&quot;:&quot;      const x = event.clientX + delta.x - over.rect.left;\n\n\nAdd javadoc\n&quot;,&quot;systemPrompt&quot;:&quot;You are an expert AI programmer which writes code documentation to explain code to other developers.\n\n- Add documentation for explaining non-obvious things\n- Do not write comments which are obvious in the code\n- ONLY WRITE DOCS\n- DO NOT EXPLAIN THE CODE\n- Use Chinese Comment&quot;,&quot;timestamp&quot;:1683809964477,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:&quot;      const x = event.clientX + delta.x - over.rect.left;\n\n\nAdd javadoc\n&quot;},{&quot;role&quot;:&quot;system&quot;,&quot;content&quot;:&quot;/**\n * 计算x坐标值，将鼠标光标位置的clientX值加上delta.x值，并减去over.rect.left值。\n * \n * @param {MouseEvent} event - 鼠标事件对象，包含clientX属性。\n * @param {number} delta.x - 偏移量，用于调整x值。\n * @param {DOMRect} over.rect - 包含元素的矩形对象，用于获取元素的左侧位置。\n * \n * @returns {number} - 返回计算后的x坐标值。\n */&quot;}]}]}" />
+  </component>
+</application>
