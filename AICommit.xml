@@ -9,7 +9,7 @@
       </Prompt>
     </option>
     <option name="lastVersion" value="1.2.1" />
-    <option name="openAIHost" value="https://openai-proxy.arvinx.app" />
+    <option name="openAIHost" value="https://api.openai.com" />
     <option name="openAIHosts">
       <set>
         <option value="https://api.openai.com" />
