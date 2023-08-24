@@ -11,11 +11,6 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
-    <entry key="ide.editor.tab.selection.animation" value="true" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="ide.animate.toolwindows" value="true" />
-    <entry key="editor.focus.mode.color.light" value="6b727d" />
-    <entry key="editor.focus.mode.color.dark" value="6b727d" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -23,6 +18,7 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="git" value="true" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
