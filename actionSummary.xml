@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CallSaul">
+      <i c="1" l="1692939752641" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1692939656533" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1692939747839" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="2" l="1692939759660" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1692939619063" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1692939757018" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1692939606399" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
+      <i c="1" l="1692939608130" />
+    </e>
+  </component>
+</application>

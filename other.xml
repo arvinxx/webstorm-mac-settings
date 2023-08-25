@@ -1,6 +1,7 @@
 <application>
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value=".SF NS Text" />
+    <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFontsWasMigrated" value="true" />
   </component>
@@ -8,14 +9,23 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "git\ng",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "PluginConfigurable.selectionTab": "1",
+    "appcds.runOnSecondStart": "WS-232.9559.58-da72cc8982a09952aa63fa7d32d52fede8061a0a52ad3626627c5fdb01d0cf29",
     "bundled.plugins.list.saved.version": "WS-232.9559.58",
     "evlsprt3.232": "25",
     "experimental.ui.used.version": "232.9559.58",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
     "previousColorScheme": "One Dark Design",
-    "tasks.pass.word.conversion.enforced": "true"
+    "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3",
+    "vcs.branch.view.splitter.proportion": "0.12697273"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
