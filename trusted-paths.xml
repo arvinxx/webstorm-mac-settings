@@ -3,6 +3,7 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine" value="true" />
         <entry key="$USER_HOME$/CodeProjects/alipay-antd" value="true" />
       </map>
     </option>
