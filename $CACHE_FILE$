@@ -2,9 +2,9 @@
   <component name="EventLogWhitelist">
     <update recorder-id="FUS" last-modified="0" />
     <options recorder-id="FUS">
+      <option name="dataThreshold" value="15000" />
       <option name="id_salt" value="" />
       <option name="groupAlertThreshold" value="6000" />
-      <option name="dataThreshold" value="15000" />
       <option name="groupDataThreshold" value="10000" />
       <option name="id_salt_revision" value="0" />
     </options>
@@ -19351,7 +19351,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1692939912223
   },
   "dependencies": {
     "featureMap": {
@@ -20959,158 +20960,158 @@
     "lastUpdateTime": 1692939796389
   }
 }]]></component>
-  <component name="PluginFeatureService"><![CDATA[{
-  "features": {
-    "com.intellij.facetType": {
+  <component name="PluginFeatureService">{
+  &quot;features&quot;: {
+    &quot;com.intellij.facetType&quot;: {
     },
-    "dependencySupport": {
-      "featureMap": {
-        "javascript:npm:postcss": {
-          "displayName": "PostCSS",
-          "pluginData": {
-            "pluginIdString": "org.intellij.plugins.postcss",
-            "nullablePluginName": "PostCSS",
-            "isBundled": true
+    &quot;dependencySupport&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;javascript:npm:postcss&quot;: {
+          &quot;displayName&quot;: &quot;PostCSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.intellij.plugins.postcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;PostCSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:docker": {
-          "displayName": "executable:docker",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:docker&quot;: {
+          &quot;displayName&quot;: &quot;executable:docker&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:podman": {
-          "displayName": "executable:podman",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:podman&quot;: {
+          &quot;displayName&quot;: &quot;executable:podman&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:react": {
-          "displayName": "React",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;javascript:npm:react&quot;: {
+          &quot;displayName&quot;: &quot;React&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:webpack": {
-          "displayName": "Webpack",
-          "pluginData": {
-            "pluginIdString": "intellij.webpack",
-            "nullablePluginName": "Webpack",
-            "isBundled": true
+        &quot;javascript:npm:webpack&quot;: {
+          &quot;displayName&quot;: &quot;Webpack&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.webpack&quot;,
+            &quot;nullablePluginName&quot;: &quot;Webpack&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vite": {
-          "displayName": "Vite",
-          "pluginData": {
-            "pluginIdString": "intellij.vitejs",
-            "nullablePluginName": "Vite",
-            "isBundled": true
+        &quot;javascript:npm:vite&quot;: {
+          &quot;displayName&quot;: &quot;Vite&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.vitejs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vite&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vue": {
-          "displayName": "Vue.js",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:vue&quot;: {
+          &quot;displayName&quot;: &quot;Vue.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:nuxt": {
-          "displayName": "Nuxt",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:nuxt&quot;: {
+          &quot;displayName&quot;: &quot;Nuxt&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tailwindcss": {
-          "displayName": "Tailwind CSS",
-          "pluginData": {
-            "pluginIdString": "com.intellij.tailwindcss",
-            "nullablePluginName": "Tailwind CSS",
-            "isBundled": true
+        &quot;javascript:npm:tailwindcss&quot;: {
+          &quot;displayName&quot;: &quot;Tailwind CSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.tailwindcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;Tailwind CSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:hbs": {
-          "displayName": "Handlebars",
-          "pluginData": {
-            "pluginIdString": "com.dmarcotte.handlebars",
-            "nullablePluginName": "Handlebars/Mustache",
-            "isBundled": true
+        &quot;javascript:npm:hbs&quot;: {
+          &quot;displayName&quot;: &quot;Handlebars&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.dmarcotte.handlebars&quot;,
+            &quot;nullablePluginName&quot;: &quot;Handlebars/Mustache&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tslint": {
-          "displayName": "TSLint",
-          "pluginData": {
-            "pluginIdString": "tslint",
-            "nullablePluginName": "TSLint",
-            "isBundled": true
+        &quot;javascript:npm:tslint&quot;: {
+          &quot;displayName&quot;: &quot;TSLint&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;tslint&quot;,
+            &quot;nullablePluginName&quot;: &quot;TSLint&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:styled-components": {
-          "displayName": "Styled Components",
-          "pluginData": {
-            "pluginIdString": "com.deadlock.scsyntax",
-            "nullablePluginName": "Styled Components & Styled JSX",
-            "isBundled": true
+        &quot;javascript:npm:styled-components&quot;: {
+          &quot;displayName&quot;: &quot;Styled Components&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.deadlock.scsyntax&quot;,
+            &quot;nullablePluginName&quot;: &quot;Styled Components &amp; Styled JSX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:ejs": {
-          "displayName": "EJS",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.lang.ejs",
-            "nullablePluginName": "EJS",
-            "isBundled": true
+        &quot;javascript:npm:ejs&quot;: {
+          &quot;displayName&quot;: &quot;EJS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.lang.ejs&quot;,
+            &quot;nullablePluginName&quot;: &quot;EJS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:prettier": {
-          "displayName": "Prettier",
-          "pluginData": {
-            "pluginIdString": "intellij.prettierJS",
-            "nullablePluginName": "Prettier",
-            "isBundled": true
+        &quot;javascript:npm:prettier&quot;: {
+          &quot;displayName&quot;: &quot;Prettier&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.prettierJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Prettier&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:next": {
-          "displayName": "Next.js",
-          "pluginData": {
-            "pluginIdString": "intellij.nextjs",
-            "nullablePluginName": "Next.js Support",
-            "isBundled": true
+        &quot;javascript:npm:next&quot;: {
+          &quot;displayName&quot;: &quot;Next.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.nextjs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Next.js Support&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:karma": {
-          "displayName": "Karma",
-          "pluginData": {
-            "pluginIdString": "Karma",
-            "nullablePluginName": "Karma",
-            "isBundled": true
+        &quot;javascript:npm:karma&quot;: {
+          &quot;displayName&quot;: &quot;Karma&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Karma&quot;,
+            &quot;nullablePluginName&quot;: &quot;Karma&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:@angular/core": {
-          "displayName": "Angular",
-          "pluginData": {
-            "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS",
-            "isBundled": true
+        &quot;javascript:npm:@angular/core&quot;: {
+          &quot;displayName&quot;: &quot;Angular&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;AngularJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Angular and AngularJS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:pug": {
-          "displayName": "Pug",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.plugins.jade",
-            "nullablePluginName": "Pug (ex-Jade)",
-            "isBundled": true
+        &quot;javascript:npm:pug&quot;: {
+          &quot;displayName&quot;: &quot;Pug&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.plugins.jade&quot;,
+            &quot;nullablePluginName&quot;: &quot;Pug (ex-Jade)&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     }
   }
-}]]></component>
+}</component>
 </application>

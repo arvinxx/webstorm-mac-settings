@@ -9,9 +9,6 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721078163" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo />
-              </option>
               <frame x="20" y="45" width="1400" height="835" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1692939587681" />
@@ -21,7 +18,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather">
           <value>
             <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – README.md" opened="true" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
-              <option name="activationTimestamp" value="1692939822886" />
+              <option name="activationTimestamp" value="1692939983819" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721078163" />
