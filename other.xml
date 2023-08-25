@@ -8,6 +8,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6018412",
     "GeneralSettings.initiallyConfigured": "true",
     "InstalledPluginsSearchHistory": "gittoo\npackage\nprett\npre\np",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
@@ -19,7 +20,7 @@
     "bundled.plugins.list.saved.version": "WS-232.9559.58",
     "evlsprt3.232": "25",
     "experimental.ui.used.version": "232.9559.58",
-    "file.gist.reindex.count": "2",
+    "file.gist.reindex.count": "3",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",

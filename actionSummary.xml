@@ -4,7 +4,7 @@
       <i c="2" l="1692952566285" />
     </e>
     <e n="$Delete">
-      <i c="2" l="1692952722015" />
+      <i c="3" l="1692956552356" />
     </e>
     <e n="$Paste">
       <i c="2" l="1692952567565" />
@@ -20,6 +20,9 @@
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
+    </e>
+    <e n="ChangesView.CreatePatch">
+      <i c="2" l="1692956609289" />
     </e>
     <e n="ChangesView.RemoveChangeList">
       <i c="2" l="1692946582021" />
@@ -172,7 +175,7 @@
       <i c="4" l="1692952588923" />
     </e>
     <e n="Rerun">
-      <i c="1" l="1692948490216" />
+      <i c="2" l="1692956556866" />
     </e>
     <e n="SaveAll">
       <i c="17" l="1692952573625" />
@@ -187,7 +190,7 @@
       <i c="1" l="1692953154037" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="3" l="1692949573811" />
+      <i c="4" l="1692956653386" />
     </e>
     <e n="Vcs.Push">
       <i c="9" l="1692947220369" />
@@ -232,7 +235,7 @@
       <i c="1" l="1692946174960" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="21" l="1692952551192" />
+      <i c="23" l="1692956663888" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="7" l="1692952599576" />
@@ -247,7 +250,7 @@
       <i c="4" l="1692949891456" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="87" l="1692952602841" />
+      <i c="92" l="1692956747790" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
