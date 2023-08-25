@@ -4,10 +4,13 @@
       <i c="2" l="1692943938492" />
     </e>
     <e n="$Undo">
-      <i c="11" l="1692946228995" />
+      <i c="15" l="1692948217185" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
+    </e>
+    <e n="ChangesView.RemoveChangeList">
+      <i c="2" l="1692946582021" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1692943479808" />
@@ -16,7 +19,7 @@
       <i c="1" l="1692941851763" />
     </e>
     <e n="CodeCompletion">
-      <i c="28" l="1692946225897" />
+      <i c="31" l="1692948394422" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1692946177817" />
@@ -25,13 +28,13 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="63" l="1692946265104" />
+      <i c="71" l="1692948458909" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="30" l="1692946203315" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="8" l="1692945937167" />
+      <i c="11" l="1692948395152" />
     </e>
     <e n="EditorCodeBlockEnd">
       <i c="1" l="1692946200831" />
@@ -43,7 +46,7 @@
       <i c="3" l="1692946225583" />
     </e>
     <e n="EditorDown">
-      <i c="55" l="1692946263075" />
+      <i c="57" l="1692947106093" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="7" l="1692946235318" />
@@ -82,7 +85,7 @@
       <i c="5" l="1692945953323" />
     </e>
     <e n="EditorPaste">
-      <i c="22" l="1692946240123" />
+      <i c="23" l="1692947207183" />
     </e>
     <e n="EditorPreviousWord">
       <i c="6" l="1692946133596" />
@@ -100,19 +103,22 @@
       <i c="3" l="1692946239851" />
     </e>
     <e n="EditorUp">
-      <i c="30" l="1692946240289" />
+      <i c="31" l="1692947105686" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="8" l="1692946145491" />
+      <i c="10" l="1692948362921" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="3" l="1692942457949" />
+      <i c="4" l="1692947093472" />
+    </e>
+    <e n="Git.Squash.Commits">
+      <i c="1" l="1692947103896" />
     </e>
     <e n="GitCheckoutAction">
       <i c="6" l="1692944097339" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="3" l="1692942451734" />
+      <i c="4" l="1692947090835" />
     </e>
     <e n="GotoDeclaration">
       <i c="3" l="1692945838440" />
@@ -136,7 +142,7 @@
       <i c="1" l="1692940972025" />
     </e>
     <e n="SaveAll">
-      <i c="8" l="1692946129666" />
+      <i c="10" l="1692948459258" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="2" l="1692941505066" />
@@ -148,7 +154,7 @@
       <i c="2" l="1692945757252" />
     </e>
     <e n="Vcs.Push">
-      <i c="6" l="1692942114333" />
+      <i c="9" l="1692947220369" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1692943906334" />
@@ -160,25 +166,28 @@
       <i c="1" l="1692942562923" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
-      <i c="5" l="1692946173677" />
+      <i c="6" l="1692948409400" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$ShowActionsAction">
-      <i c="1" l="1692946154885" />
+      <i c="2" l="1692948411889" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$ShowDocAction">
       <i c="3" l="1692946172417" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="5" l="1692944048640" />
+      <i c="7" l="1692948367943" />
+    </e>
+    <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
+      <i c="1" l="1692948140940" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="6" l="1692943909087" />
+      <i c="7" l="1692947153962" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="1" l="1692946174960" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="13" l="1692944279638" />
+      <i c="15" l="1692947086116" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1692939757018" />
@@ -187,13 +196,13 @@
       <i c="1" l="1692940973173" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="1" l="1692942115166" />
+      <i c="2" l="1692947220952" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="1" l="1692941528746" />
+      <i c="2" l="1692948446834" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="44" l="1692946183687" />
+      <i c="51" l="1692948442379" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />

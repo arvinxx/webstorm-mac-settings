@@ -5,7 +5,7 @@
     <feature id="navigation.goto.file.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="8" last-shown="1692941656266" last-used="1692945937189" shown-count="30" />
+    <feature id="editing.completion.replace" count="11" last-shown="1692941656266" last-used="1692948395165" shown-count="30" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -111,7 +111,7 @@
       <option name="lastDate" value="1692892800000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="6" />
+      <option name="invocations" value="7" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="1" />
       <option name="lastDate" value="1692892800000" />

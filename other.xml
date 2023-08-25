@@ -10,7 +10,7 @@
     "CWM_LOGGING_VERSION": "1",
     "GeneralSettings.initiallyConfigured": "true",
     "InstalledPluginsSearchHistory": "package\nprett\npre\np\ngit",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
     "Markdown 拆分编辑器Layout": "Editor only",
     "MarketplacePluginsSearchHistory": "package",
     "SettingsSearchHistory": "package\nprett\ngitmoji\npnpm",
@@ -32,7 +32,6 @@
     "previousColorScheme": "One Dark Design",
     "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
     "tasks.pass.word.conversion.enforced": "true",
-    "tooltips.show.actions.in.key": "false",
     "ts.lib.d.ts.version": "5.1.3",
     "vcs.branch.view.splitter.proportion": "0.12697273",
     "vcs.log.changes.splitter.proportion": "0.64218616"
