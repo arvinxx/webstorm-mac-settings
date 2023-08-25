@@ -1,55 +1,73 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="1" l="1692941286094" />
+      <i c="2" l="1692943938492" />
     </e>
     <e n="$Undo">
-      <i c="2" l="1692941369950" />
+      <i c="3" l="1692944742465" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1692943479808" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
       <i c="1" l="1692941851763" />
     </e>
     <e n="CodeCompletion">
-      <i c="3" l="1692941571645" />
+      <i c="4" l="1692944735338" />
     </e>
     <e n="EditorBackSpace">
-      <i c="27" l="1692942447864" />
+      <i c="29" l="1692944737974" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3" l="1692941572249" />
+      <i c="9" l="1692944736932" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="1" l="1692941656923" />
     </e>
     <e n="EditorCopy">
-      <i c="13" l="1692942443859" />
+      <i c="17" l="1692944731885" />
     </e>
     <e n="EditorDown">
-      <i c="7" l="1692941567332" />
+      <i c="11" l="1692944736515" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1692942453863" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1692941654698" />
     </e>
     <e n="EditorEnter">
-      <i c="3" l="1692941567572" />
+      <i c="5" l="1692944734941" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1692944741034" />
     </e>
     <e n="EditorLeft">
-      <i c="2" l="1692941592716" />
+      <i c="3" l="1692942452675" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1692944731589" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="2" l="1692944731397" />
     </e>
     <e n="EditorLineStart">
       <i c="1" l="1692941329812" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="3" l="1692941593335" />
+      <i c="4" l="1692942452876" />
     </e>
     <e n="EditorPaste">
-      <i c="8" l="1692942447583" />
+      <i c="16" l="1692944732943" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="4" l="1692941522286" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1692942453688" />
     </e>
     <e n="EditorSelectWord">
       <i c="1" l="1692941655088" />
@@ -58,10 +76,13 @@
       <i c="3" l="1692941440536" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="2" l="1692941855592" />
+      <i c="3" l="1692942457949" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="6" l="1692944097339" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="2" l="1692941591452" />
+      <i c="3" l="1692942451734" />
     </e>
     <e n="GotoDeclaration">
       <i c="1" l="1692941364424" />
@@ -79,10 +100,13 @@
       <i c="1" l="1692940972025" />
     </e>
     <e n="SaveAll">
-      <i c="5" l="1692942448166" />
+      <i c="6" l="1692944742732" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="2" l="1692941505066" />
+    </e>
+    <e n="ShowUmlDiagram">
+      <i c="1" l="1692944274843" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="1" l="1692941286841" />
@@ -90,14 +114,23 @@
     <e n="Vcs.Push">
       <i c="6" l="1692942114333" />
     </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1692943906334" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="3" l="1692943958919" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1692942562923" />
+    </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="1" l="1692941385464" />
+      <i c="5" l="1692944048640" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="5" l="1692941857998" />
+      <i c="6" l="1692943909087" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="12" l="1692941979102" />
+      <i c="13" l="1692944279638" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1692939757018" />
@@ -112,7 +145,10 @@
       <i c="1" l="1692941528746" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="20" l="1692942432321" />
+      <i c="40" l="1692944327701" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1692944166555" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1692941323039" />
@@ -122,6 +158,9 @@
     </e>
     <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
       <i c="1" l="1692939608130" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
+      <i c="1" l="1692944068090" />
     </e>
   </component>
 </application>
