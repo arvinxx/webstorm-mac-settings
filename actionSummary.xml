@@ -4,7 +4,7 @@
       <i c="2" l="1692943938492" />
     </e>
     <e n="$Undo">
-      <i c="3" l="1692944742465" />
+      <i c="11" l="1692946228995" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -16,64 +16,94 @@
       <i c="1" l="1692941851763" />
     </e>
     <e n="CodeCompletion">
-      <i c="4" l="1692944735338" />
+      <i c="28" l="1692946225897" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1692946177817" />
+    </e>
+    <e n="EditSource">
+      <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="29" l="1692944737974" />
+      <i c="63" l="1692946265104" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="9" l="1692944736932" />
+      <i c="30" l="1692946203315" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1692941656923" />
+      <i c="8" l="1692945937167" />
+    </e>
+    <e n="EditorCodeBlockEnd">
+      <i c="1" l="1692946200831" />
     </e>
     <e n="EditorCopy">
-      <i c="17" l="1692944731885" />
+      <i c="23" l="1692946239086" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1692946225583" />
     </e>
     <e n="EditorDown">
-      <i c="11" l="1692944736515" />
+      <i c="55" l="1692946263075" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="1" l="1692942453863" />
+      <i c="7" l="1692946235318" />
     </e>
     <e n="EditorDuplicate">
-      <i c="2" l="1692941654698" />
+      <i c="3" l="1692946237046" />
     </e>
     <e n="EditorEnter">
-      <i c="5" l="1692944734941" />
+      <i c="20" l="1692946219134" />
     </e>
     <e n="EditorEscape">
-      <i c="1" l="1692944741034" />
+      <i c="11" l="1692946230983" />
     </e>
     <e n="EditorLeft">
-      <i c="3" l="1692942452675" />
+      <i c="26" l="1692946239594" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1692944731589" />
     </e>
+    <e n="EditorLineEnd">
+      <i c="13" l="1692946264907" />
+    </e>
     <e n="EditorLineEndWithSelection">
-      <i c="2" l="1692944731397" />
+      <i c="7" l="1692946241694" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1692941329812" />
+      <i c="8" l="1692946263621" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="6" l="1692946240745" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="4" l="1692946264233" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="4" l="1692942452876" />
+      <i c="5" l="1692945953323" />
     </e>
     <e n="EditorPaste">
-      <i c="16" l="1692944732943" />
+      <i c="22" l="1692946240123" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="6" l="1692946133596" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="4" l="1692941522286" />
+      <i c="6" l="1692945953024" />
     </e>
     <e n="EditorRight">
-      <i c="2" l="1692942453688" />
+      <i c="15" l="1692946240410" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1692946238859" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1" l="1692941655088" />
+      <i c="3" l="1692946239851" />
     </e>
     <e n="EditorUp">
-      <i c="3" l="1692941440536" />
+      <i c="30" l="1692946240289" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="8" l="1692946145491" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="3" l="1692942457949" />
@@ -85,7 +115,7 @@
       <i c="3" l="1692942451734" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1" l="1692941364424" />
+      <i c="3" l="1692945838440" />
     </e>
     <e n="InvalidateCaches">
       <i c="2" l="1692939962432" />
@@ -93,14 +123,20 @@
     <e n="Markdown.Layout.EditorOnly">
       <i c="1" l="1692942438530" />
     </e>
+    <e n="MoveLineDown">
+      <i c="2" l="1692946237349" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1692945878013" />
+    </e>
     <e n="ReformatWithPrettierAction">
-      <i c="2" l="1692941526505" />
+      <i c="10" l="1692946147625" />
     </e>
     <e n="ReplaceInPath">
       <i c="1" l="1692940972025" />
     </e>
     <e n="SaveAll">
-      <i c="6" l="1692944742732" />
+      <i c="8" l="1692946129666" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="2" l="1692941505066" />
@@ -109,7 +145,7 @@
       <i c="1" l="1692944274843" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="1" l="1692941286841" />
+      <i c="2" l="1692945757252" />
     </e>
     <e n="Vcs.Push">
       <i c="6" l="1692942114333" />
@@ -123,11 +159,23 @@
     <e n="WelcomeScreen.RemoveSelected">
       <i c="1" l="1692942562923" />
     </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="5" l="1692946173677" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$ShowActionsAction">
+      <i c="1" l="1692946154885" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$ShowDocAction">
+      <i c="3" l="1692946172417" />
+    </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="5" l="1692944048640" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="6" l="1692943909087" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1692946174960" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="13" l="1692944279638" />
@@ -145,7 +193,7 @@
       <i c="1" l="1692941528746" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="40" l="1692944327701" />
+      <i c="44" l="1692946183687" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
@@ -158,6 +206,9 @@
     </e>
     <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
       <i c="1" l="1692939608130" />
+    </e>
+    <e n="copilot.disposeInlays">
+      <i c="1" l="1692946216597" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
       <i c="1" l="1692944068090" />
