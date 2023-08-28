@@ -14,13 +14,13 @@
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="1156" />
   </component>
   <component name="WindowManager">
-    <frame x="347" y="-1055" width="1317" height="1055" />
+    <frame x="20" y="45" width="1400" height="835" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="614" y="-554" width="800" height="650" key="WELCOME_SCREEN" timestamp="1692957980869">
-      <screen x="-256" y="-1055" width="1920" height="1055" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN" timestamp="1693187297913">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1692948578233" />
-    <state x="614" y="-554" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1692957980869" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1693039715411" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1693187297913" />
   </component>
 </application>
