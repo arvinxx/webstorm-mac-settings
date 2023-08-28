@@ -139,10 +139,10 @@
       <i c="1" l="1692947103896" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="7" l="1692949953661" />
+      <i c="9" l="1693188717533" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="1" l="1692949938435" />
+      <i c="3" l="1693188723067" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
       <i c="1" l="1692949943049" />
@@ -196,7 +196,7 @@
       <i c="9" l="1692947220369" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="2" l="1692952329257" />
+      <i c="5" l="1693188709664" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -214,7 +214,7 @@
       <i c="3" l="1692946172417" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="14" l="1692953163968" />
+      <i c="15" l="1693189569036" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1692950104004" />
@@ -229,7 +229,7 @@
       <i c="2" l="1692949325778" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="7" l="1692947153962" />
+      <i c="8" l="1693188696832" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="1" l="1692946174960" />
@@ -250,7 +250,7 @@
       <i c="4" l="1692949891456" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="92" l="1692956747790" />
+      <i c="96" l="1693189573510" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
@@ -274,7 +274,7 @@
       <i c="1" l="1692946216597" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
-      <i c="2" l="1692949927740" />
+      <i c="5" l="1693189578816" />
     </e>
   </component>
 </application>
