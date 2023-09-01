@@ -21326,6 +21326,14 @@
     }
   }
 }</component>
+  <component name="TypeScriptExternalDefinitionsRegistry">
+    <modules>
+      <module>
+        <name>@types/node</name>
+        <version>18.13.0</version>
+      </module>
+    </modules>
+  </component>
   <component name="editorConfigEncodings">
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_tasl_tmLanguage_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/postcss" charset="utf-8" />

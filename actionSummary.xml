@@ -43,7 +43,7 @@
       <i c="5" l="1693473304919" />
     </e>
     <e n="CommentByLineComment">
-      <i c="26" l="1693550580702" />
+      <i c="30" l="1693553901018" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1692946177817" />
@@ -76,7 +76,7 @@
       <i c="3" l="1693533849138" />
     </e>
     <e n="EditorDown">
-      <i c="407" l="1693550957883" />
+      <i c="408" l="1693553900541" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="57" l="1693550983593" />
@@ -202,7 +202,7 @@
       <i c="7" l="1693542426889" />
     </e>
     <e n="GotoDeclaration">
-      <i c="72" l="1693551919901" />
+      <i c="74" l="1693552678499" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1693470833908" />
@@ -250,10 +250,10 @@
       <i c="4" l="1692952588923" />
     </e>
     <e n="Rerun">
-      <i c="4" l="1693388002348" />
+      <i c="6" l="1693553903033" />
     </e>
     <e n="SaveAll">
-      <i c="132" l="1693550482470" />
+      <i c="134" l="1693553901496" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="17" l="1693545025908" />
@@ -265,7 +265,10 @@
       <i c="1" l="1692944274843" />
     </e>
     <e n="Stop">
-      <i c="3" l="1693482414882" />
+      <i c="4" l="1693554000383" />
+    </e>
+    <e n="SynchronizeCurrentFile">
+      <i c="2" l="1693553989718" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="16" l="1693545820025" />
@@ -337,7 +340,7 @@
       <i c="6" l="1693543901682" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="181" l="1693552018502" />
+      <i c="183" l="1693554028657" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
