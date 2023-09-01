@@ -17,6 +17,10 @@
     <frame x="0" y="25" width="1440" height="875" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
+    <state width="540" height="124" key="ShowUsagesActions.dimensionServiceKey" timestamp="1693544666295">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="540" height="124" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1693544666295" />
     <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1693532967081">
       <screen x="-256" y="-1055" width="1920" height="1055" />
     </state>
