@@ -98,22 +98,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – ~/CodeProjects/ant-design/pro-editor/.dumi/tmp/dumi/meta/atoms.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1693554045984" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721074046" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="405" y="25" width="1035" height="875" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1693532970352" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/kitchen/c2d2c">
           <value>
             <RecentProjectMetaInfo frameTitle="c2d2c – Mentions.ts" projectWorkspaceId="20ghvTm5GsCsU2tdzH5u12yrViN">
@@ -146,8 +130,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – configPanel.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1693804637106" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721038114" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="301" y="-1055" width="1363" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1693803023868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/alipay-antd" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-editor" />
   </component>
 </application>
