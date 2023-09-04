@@ -55,7 +55,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="890" l="1693804633689" />
+      <i c="891" l="1693804752338" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="233" l="1693804206556" />
@@ -130,7 +130,7 @@
       <i c="133" l="1693804632774" />
     </e>
     <e n="EditorRight">
-      <i c="276" l="1693804626072" />
+      <i c="277" l="1693804752027" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="111" l="1693804626399" />
@@ -256,7 +256,7 @@
       <i c="7" l="1693804436255" />
     </e>
     <e n="SaveAll">
-      <i c="137" l="1693804641223" />
+      <i c="138" l="1693804656328" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="31" l="1693804225663" />
@@ -352,7 +352,7 @@
       <i c="6" l="1693543901682" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="216" l="1693804589725" />
+      <i c="218" l="1693804760599" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
