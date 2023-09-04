@@ -10,13 +10,13 @@
       <i c="3" l="1693801958408" />
     </e>
     <e n="$Redo">
-      <i c="8" l="1693543613411" />
+      <i c="9" l="1693810978896" />
     </e>
     <e n="$SelectAll">
       <i c="15" l="1693470917997" />
     </e>
     <e n="$Undo">
-      <i c="200" l="1693803779037" />
+      <i c="201" l="1693810978276" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -55,7 +55,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="891" l="1693804752338" />
+      <i c="893" l="1693810969559" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="233" l="1693804206556" />
@@ -67,10 +67,10 @@
       <i c="1" l="1692946200831" />
     </e>
     <e n="EditorCodeBlockStart">
-      <i c="3" l="1693470921105" />
+      <i c="4" l="1693811406510" />
     </e>
     <e n="EditorCopy">
-      <i c="188" l="1693804213119" />
+      <i c="190" l="1693811410355" />
     </e>
     <e n="EditorCut">
       <i c="52" l="1693550431489" />
@@ -82,7 +82,7 @@
       <i c="437" l="1693804216621" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="62" l="1693804486972" />
+      <i c="63" l="1693810971423" />
     </e>
     <e n="EditorDuplicate">
       <i c="29" l="1693550895247" />
@@ -97,7 +97,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="339" l="1693804632548" />
+      <i c="341" l="1693810967983" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="122" l="1693804621618" />
@@ -118,19 +118,19 @@
       <i c="133" l="1693803829824" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="90" l="1693804485573" />
+      <i c="92" l="1693810969100" />
     </e>
     <e n="EditorPaste">
       <i c="238" l="1693804601046" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="175" l="1693804202725" />
+      <i c="178" l="1693810979782" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="133" l="1693804632774" />
     </e>
     <e n="EditorRight">
-      <i c="277" l="1693804752027" />
+      <i c="285" l="1693810980211" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="111" l="1693804626399" />
@@ -172,7 +172,7 @@
       <i c="1" l="1693545028047" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="10" l="1693804489605" />
+      <i c="11" l="1693810981631" />
     </e>
     <e n="Git.CreateNewTag">
       <i c="1" l="1693275408169" />
@@ -202,7 +202,7 @@
       <i c="1" l="1692949943049" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="9" l="1693804484222" />
+      <i c="11" l="1693810967291" />
     </e>
     <e n="GotoDeclaration">
       <i c="83" l="1693804229605" />
@@ -274,7 +274,7 @@
       <i c="2" l="1693553989718" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="16" l="1693545820025" />
+      <i c="17" l="1693810559648" />
     </e>
     <e n="Vcs.Push">
       <i c="12" l="1693801915113" />
@@ -352,7 +352,7 @@
       <i c="6" l="1693543901682" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="218" l="1693804760599" />
+      <i c="220" l="1693810993767" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
