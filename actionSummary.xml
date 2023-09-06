@@ -16,7 +16,7 @@
       <i c="21" l="1693891656868" />
     </e>
     <e n="$Undo">
-      <i c="305" l="1693965574905" />
+      <i c="307" l="1693966249415" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -61,7 +61,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1353" l="1693966114544" />
+      <i c="1357" l="1693966296414" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="333" l="1693965482631" />
@@ -88,7 +88,7 @@
       <i c="602" l="1693965487221" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="98" l="1693894549307" />
+      <i c="99" l="1693966290007" />
     </e>
     <e n="EditorDuplicate">
       <i c="36" l="1693883247759" />
@@ -103,13 +103,13 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="496" l="1693966140079" />
+      <i c="497" l="1693966288582" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="173" l="1693892890038" />
     </e>
     <e n="EditorLineEnd">
-      <i c="167" l="1693966100967" />
+      <i c="168" l="1693966294580" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="71" l="1693965570966" />
@@ -124,7 +124,7 @@
       <i c="187" l="1693893468392" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="128" l="1693894548273" />
+      <i c="129" l="1693966288815" />
     </e>
     <e n="EditorPaste">
       <i c="352" l="1693966101495" />
@@ -133,13 +133,13 @@
       <i c="262" l="1693966104028" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="201" l="1693965475702" />
+      <i c="202" l="1693966294922" />
     </e>
     <e n="EditorRight">
-      <i c="460" l="1693966113837" />
+      <i c="462" l="1693966289788" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="143" l="1693893310068" />
+      <i c="148" l="1693966296112" />
     </e>
     <e n="EditorSelectWord">
       <i c="86" l="1693965546123" />
@@ -178,7 +178,7 @@
       <i c="2" l="1693889172437" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="21" l="1693894567068" />
+      <i c="22" l="1693966297710" />
     </e>
     <e n="Git.CreateNewTag">
       <i c="1" l="1693275408169" />
@@ -223,7 +223,7 @@
       <i c="5" l="1693888047513" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="21" l="1693894546938" />
+      <i c="22" l="1693966287764" />
     </e>
     <e n="GotoDeclaration">
       <i c="134" l="1693966055536" />
@@ -385,10 +385,10 @@
       <i c="2" l="1693887980608" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="137" l="1693965876595" />
+      <i c="143" l="1693966285907" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="43" l="1693888389429" />
+      <i c="44" l="1693966278957" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="5" l="1693294740701" />
@@ -397,10 +397,10 @@
       <i c="4" l="1693888900260" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="6" l="1693543901682" />
+      <i c="7" l="1693966258046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="343" l="1693966167688" />
+      <i c="347" l="1693973728262" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1693965147038" />
