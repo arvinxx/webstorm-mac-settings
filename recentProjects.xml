@@ -164,15 +164,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine">
           <value>
-            <RecentProjectMetaInfo frameTitle="chat-plugin-search-engine – package.json" opened="true" projectWorkspaceId="2USNiPJgOUgYZzUXVDDp2vc694f">
-              <option name="activationTimestamp" value="1693974836034" />
+            <RecentProjectMetaInfo frameTitle="chat-plugin-search-engine – _utils.ts" projectWorkspaceId="2USNiPJgOUgYZzUXVDDp2vc694f">
+              <option name="activationTimestamp" value="1693979649101" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721050280" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
+              <frame x="134" y="-1055" width="1530" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1693965048581" />
             </RecentProjectMetaInfo>

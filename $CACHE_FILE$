@@ -21414,9 +21414,11 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/father" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-no-unneeded-full-reference-link" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-table-cell-padding" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/29" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-list-item-indent" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.0" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/26" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/21" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/eslint-import-resolver-alias" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/remark-lint-no-duplicate-definitions" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/public/sw.js" charset="utf-8" />
@@ -21556,14 +21558,18 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/configs/stylistic.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/remark-lint-code-block-style" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_javascript_tmLanguage_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/7d" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/7c" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/dumi-theme-antd-style/example/.dumi/theme/styles/algorithms/utils/netural.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobehub-desktop/electron-builder.config.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_php_tmLanguage_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/94" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.pnpm/global-prefix@3.0.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/93" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/@typescript-eslint" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/logs/refs/remotes/origin/master" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/postcss-lab-function" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/97" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/95" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/2c" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/chat-plugins-gateway/api" charset="utf-8" />
@@ -21573,6 +21579,8 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.cache/bundler-webpack" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/src/store/plugin/helpers.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-definition-case" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/42" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/src/HoverCard/Item.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/dumi-theme-antd-style/example/node_modules/.cache/dumi/md-loader/19eb76bace6f3ad266241bd5072bd6a1128f3eac" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/rules/no-duplicate-type-constituents.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/rules/lines-around-comment.js" charset="utf-8" />
@@ -21587,8 +21595,10 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/35" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_asm_tmLanguage_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/remark-lint-no-empty-sections" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/39" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-no-file-name-consecutive-dashes" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobehub-web/.gitignore" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/37" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/docs/guide/demos/Redo/App.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-frontmatter-schema" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.cache/mfsu/main.b9db8e85.js" charset="utf-8" />
@@ -21601,6 +21611,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/4a" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.pnpm/node_modules/fastest-levenshtein" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/node_modules/@babel/eslint-parser" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/60" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/64" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/63" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/chat-plugins-gateway/.git" charset="utf-8" />
@@ -21734,6 +21745,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-ui/.dumi/tmp/dumi/theme/ContextWrapper.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-list-item-content-indent" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/src/ProEditor/container" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/src/Card.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_apl_tmLanguage_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_hc_light_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/chat-plugins-gateway/.prettierrc.js" charset="utf-8" />
@@ -21771,6 +21783,7 @@
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/docs/guide/demos/Redo/index.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/@typescript-eslint/eslint-plugin" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-unsafe-enum-comparison.md" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.idea/shelf/_2023_9_6__13_43____.xml" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.pnpm/stylelint-config-recommended@7.0.0_stylelint@14.16.1" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.pnpm/svg-tags@1.0.0" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/export-marker.json" charset="utf-8" />
@@ -22076,6 +22089,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-sdk/ORIG_HEAD" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/node_modules/webpack-bundle-analyzer" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-chat/logs/refs/stash" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/src/HoverCard" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-ui/.dumi/tmp/dumi/exports.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_sql_tmLanguage_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/pages/404.html" charset="utf-8" />
@@ -22085,6 +22099,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/eslint-rule-composer" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobehub-web/tsconfig.json" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/node_modules/eslint-plugin-jest" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/c6" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/docs/guide/demos/edit-store/slices/configPanel.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-preset-lint-consistent" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/c9" charset="utf-8" />
@@ -22716,6 +22731,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.husky/_" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-search-engine/.dumirc.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_elm_tmLanguage_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/src/HoverCard/index.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-ui/.dumi/tmp/tsconfig.json" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-web-crawler/node_modules/.bin/dumi" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobehub-web/readme.md" charset="utf-8" />
@@ -22781,6 +22797,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/node_modules/lucide-react" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_groovy_tmLanguage_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/src/store/session/helpers.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.idea/shelf" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/rules/lines-around-comment.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/node_modules/.pnpm/@formatjs+intl@2.9.0_typescript@5.1.6/node_modules/tslib" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/src/middleware" charset="utf-8" />
@@ -22968,6 +22985,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/postcss-image-set-function" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/stylelint-config-clean-order" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobehub-web/prettier.config.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/ac/87390f4d69a813ea4987ad1746f75a4c87a4db" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/src/TipGuide/demos/controlled.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/jsdom" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_berry_tmLanguage_mjs.js" charset="utf-8" />
