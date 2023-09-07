@@ -46,7 +46,7 @@
       <i c="206" l="1693978645664" />
     </e>
     <e n="CollapseAllRegions">
-      <i c="23" l="1693977843357" />
+      <i c="25" l="1694069748375" />
     </e>
     <e n="CollapseRegion">
       <i c="5" l="1693473304919" />
@@ -61,7 +61,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1488" l="1693979129918" />
+      <i c="1497" l="1694069580590" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="380" l="1693978918565" />
@@ -76,7 +76,7 @@
       <i c="4" l="1693811406510" />
     </e>
     <e n="EditorCopy">
-      <i c="346" l="1693978753794" />
+      <i c="347" l="1694069550928" />
     </e>
     <e n="EditorCut">
       <i c="67" l="1693978674666" />
@@ -94,7 +94,7 @@
       <i c="37" l="1693976312217" />
     </e>
     <e n="EditorEnter">
-      <i c="498" l="1693978738235" />
+      <i c="500" l="1694069884077" />
     </e>
     <e n="EditorEscape">
       <i c="99" l="1693978460959" />
@@ -103,7 +103,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="553" l="1693979084082" />
+      <i c="556" l="1694069548844" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="185" l="1693978753426" />
@@ -121,22 +121,22 @@
       <i c="63" l="1693978625345" />
     </e>
     <e n="EditorNextWord">
-      <i c="217" l="1693978675438" />
+      <i c="219" l="1694069555300" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="141" l="1693979084330" />
     </e>
     <e n="EditorPaste">
-      <i c="414" l="1693978760144" />
+      <i c="415" l="1694069556897" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="288" l="1693979114256" />
+      <i c="292" l="1694069580329" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="226" l="1693978673877" />
+      <i c="228" l="1694069555796" />
     </e>
     <e n="EditorRight">
-      <i c="508" l="1693979128904" />
+      <i c="510" l="1694069579816" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="163" l="1693978693147" />
@@ -166,7 +166,7 @@
       <i c="28" l="1693978100387" />
     </e>
     <e n="ExpandRegion">
-      <i c="6" l="1693882296039" />
+      <i c="7" l="1694069748896" />
     </e>
     <e n="ExtractInterface">
       <i c="1" l="1693474359762" />
@@ -226,7 +226,7 @@
       <i c="23" l="1693979082665" />
     </e>
     <e n="GotoDeclaration">
-      <i c="137" l="1693977962981" />
+      <i c="142" l="1694069896907" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1693470833908" />
@@ -403,7 +403,7 @@
       <i c="7" l="1693966258046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="362" l="1693979126432" />
+      <i c="363" l="1694069475424" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1693965147038" />
