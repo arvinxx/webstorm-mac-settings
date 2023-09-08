@@ -19384,7 +19384,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694069479157
+    "lastUpdateTime": 1694161532838
   },
   "dependencies": {
     "featureMap": {
@@ -20989,7 +20989,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694069479463
+    "lastUpdateTime": 1694161533271
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -21828,6 +21828,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_one-dark-pro_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/configs/stylistic.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/node_modules_pnpm_shiki-es_0_14_0_node_modules_shiki-es_dist_chunks_matlab_tmLanguage_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/.git/refs/tags/v0.20.0" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/src/ProEditor/components/Canvas/index.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/.pnpm/dumi-theme-lobehub@1.6.0_@types+react@18.2.21_@types+three@0.155.1_antd-style@3.4.4_antd@5.8._dsgemmsusamd6fop74dkwfmm5e/node_modules/lucide-react/dist/esm/icons/shield-minus.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/src/ProEditor/store/__snapshots__" charset="utf-8" />
@@ -22112,6 +22113,7 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-preset-lint-consistent" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/c9" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/postcss-selector-parser" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/.git/refs/tags/v0.19.1" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/.git/refs/tags/v0.19.0" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-heading-style" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/stylelint-order" charset="utf-8" />

@@ -3,10 +3,10 @@
     <location key="find.popup.0.0.2880.1800@192dpi" x="392" y="396" />
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="888" y="-1716" />
     <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="1092" />
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2278" height="986" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2278" height="986" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2278" height="986" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2278" height="986" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2716" height="1266" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2716" height="1266" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2716" height="1266" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2716" height="1266" />
     <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="1938" height="624" />
     <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="1938" height="624" />
     <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="1938" height="624" />
@@ -26,17 +26,17 @@
     <size key="GridCell.Tab.3.bottom.-512.-2160.3840.2160@192dpi" width="3202" height="624" />
   </component>
   <component name="WindowManager">
-    <frame x="134" y="-1055" width="1530" height="1055" />
+    <frame x="-256" y="-1055" width="1920" height="1055" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="540" height="152" key="ShowUsagesActions.dimensionServiceKey" timestamp="1693803666561">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="540" height="152" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1693803666561" />
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1694069460511">
-      <screen x="-256" y="-1055" width="1920" height="1055" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN" timestamp="1694151014269">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1693980137884" />
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1694069460511" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1694151014269" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1694071359089" />
   </component>
 </application>

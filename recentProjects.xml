@@ -164,17 +164,17 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – redo-undo.md" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694069681966" />
+            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694162134337" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721076490" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="-253" y="-1055" width="1895" height="1049" extendedState="6" />
+              <frame x="-256" y="-1055" width="1920" height="1055" extendedState="6" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694069469894" />
+              <option name="projectOpenTimestamp" value="1694161526504" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
