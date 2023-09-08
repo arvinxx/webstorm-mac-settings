@@ -82,22 +82,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – message.ts" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1693819205387" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721038114" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="0" y="25" width="1185" height="875" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1693816506715" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
           <value>
             <RecentProjectMetaInfo frameTitle="antd-style – package.json" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
@@ -111,22 +95,6 @@
               <frame x="-256" y="-1055" width="960" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1693882321537" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/dumi-theme-antd-style">
-          <value>
-            <RecentProjectMetaInfo frameTitle="dumi-theme-antd-style – types.ts" projectWorkspaceId="2LfbF6q9MNb77endxsLrtwuywb5">
-              <option name="activationTimestamp" value="1693894590507" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721038114" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="486" y="-1055" width="1178" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1693887993641" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -164,22 +132,54 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694162134337" />
+            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694162240069" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721076490" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="-256" y="-1055" width="1920" height="1055" extendedState="6" />
+              <frame x="240" y="-1055" width="1424" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694161526504" />
+              <option name="projectOpenTimestamp" value="1694162240333" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – package.json" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
+              <option name="activationTimestamp" value="1694165015579" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721076490" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694163245644" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/dumi-theme-antd-style">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dumi-theme-antd-style – types.ts" opened="true" projectWorkspaceId="2LfbF6q9MNb77endxsLrtwuywb5">
+              <option name="activationTimestamp" value="1694166492858" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721076490" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="486" y="-1055" width="1178" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694165020970" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-editor" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/dumi-theme-antd-style" />
   </component>
 </application>
