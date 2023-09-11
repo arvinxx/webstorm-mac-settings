@@ -164,15 +164,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/dumi-theme-antd-style">
           <value>
-            <RecentProjectMetaInfo frameTitle="dumi-theme-antd-style – types.ts" opened="true" projectWorkspaceId="2LfbF6q9MNb77endxsLrtwuywb5">
-              <option name="activationTimestamp" value="1694166492858" />
+            <RecentProjectMetaInfo frameTitle="dumi-theme-antd-style – netural.ts" projectWorkspaceId="2LfbF6q9MNb77endxsLrtwuywb5">
+              <option name="activationTimestamp" value="1694166555444" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721076490" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="486" y="-1055" width="1178" height="1055" />
+              <frame x="239" y="-1055" width="1425" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1694165020970" />
             </RecentProjectMetaInfo>
