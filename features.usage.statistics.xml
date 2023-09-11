@@ -14,7 +14,7 @@
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.annotate" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.open.last.tool.window" count="1" last-shown="0" last-used="1693473501425" shown-count="0" />
+    <feature id="ui.open.last.tool.window" count="2" last-shown="0" last-used="1694398590791" shown-count="0" />
     <feature id="editing.reformat.code" count="1" last-shown="0" last-used="1693207931209" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="1" last-shown="0" last-used="1692950787925" shown-count="0" />
@@ -24,11 +24,11 @@
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1692952394600" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="59" last-shown="0" last-used="1694166127231" shown-count="0" />
+    <feature id="codeassists.comment.line" count="60" last-shown="0" last-used="1694398394154" shown-count="0" />
     <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.duplicate" count="37" last-shown="0" last-used="1693976312220" shown-count="0" />
+    <feature id="editing.duplicate" count="42" last-shown="0" last-used="1694398722230" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
