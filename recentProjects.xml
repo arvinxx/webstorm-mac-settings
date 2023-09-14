@@ -146,49 +146,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694488824716" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721032247" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="20" y="45" width="1400" height="835" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694488825650" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – MockDataModal.tsx" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
-              <option name="activationTimestamp" value="1694507894355" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721032247" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="20" y="45" width="1400" height="835" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694488871866" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
           <value>
-            <RecentProjectMetaInfo frameTitle="antd-style – package.json" opened="true" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
-              <option name="activationTimestamp" value="1694509459146" />
+            <RecentProjectMetaInfo frameTitle="antd-style – src/index.ts" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
+              <option name="activationTimestamp" value="1694590673107" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721032247" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <frame x="-256" y="-965" width="720" height="875" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1694508635942" />
             </RecentProjectMetaInfo>
@@ -196,21 +164,70 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1694581392318" />
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – CardProxy.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1694590529839" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721032247" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
+              <frame x="386" y="-1055" width="1278" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1694580253757" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – MockDataModal.tsx" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
+              <option name="activationTimestamp" value="1694656612100" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721077258" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694656506211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor [~/CodeProjects/ant-design/pro-editor] – index.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694656614357" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721077258" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-208" y="-1055" width="1840" height="1025" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694656518795" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/NFTEditor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NFTEditor – state.ts" opened="true" projectWorkspaceId="2VMr9CSu1U9mU9i8RU44ayY4ZqN">
+              <option name="activationTimestamp" value="1694657115867" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721077258" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694657040534" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/pokemon-cards-css" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/NFTEditor" />
   </component>
 </application>

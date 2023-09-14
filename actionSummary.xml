@@ -13,10 +13,10 @@
       <i c="12" l="1693892342656" />
     </e>
     <e n="$SelectAll">
-      <i c="24" l="1694580848298" />
+      <i c="28" l="1694581579589" />
     </e>
     <e n="$Undo">
-      <i c="359" l="1694508788193" />
+      <i c="363" l="1694581435945" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -61,7 +61,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1538" l="1694581411044" />
+      <i c="1539" l="1694656649879" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="386" l="1694508771800" />
@@ -76,7 +76,7 @@
       <i c="4" l="1693811406510" />
     </e>
     <e n="EditorCopy">
-      <i c="378" l="1694580848704" />
+      <i c="383" l="1694581579837" />
     </e>
     <e n="EditorCut">
       <i c="68" l="1694398739179" />
@@ -103,16 +103,16 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="569" l="1694508781242" />
+      <i c="570" l="1694581448963" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="191" l="1694398605299" />
+      <i c="193" l="1694581449533" />
     </e>
     <e n="EditorLineEnd">
       <i c="195" l="1694508768760" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="80" l="1694398705931" />
+      <i c="81" l="1694581449193" />
     </e>
     <e n="EditorLineStart">
       <i c="95" l="1694398696982" />
@@ -133,7 +133,7 @@
       <i c="298" l="1694508783028" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="228" l="1694069555796" />
+      <i c="233" l="1694581458333" />
     </e>
     <e n="EditorRight">
       <i c="515" l="1694508769985" />
@@ -202,7 +202,7 @@
       <i c="4" l="1693888698478" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="19" l="1694165043367" />
+      <i c="20" l="1694656818691" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="5" l="1693888116904" />
@@ -226,7 +226,7 @@
       <i c="23" l="1693979082665" />
     </e>
     <e n="GotoDeclaration">
-      <i c="146" l="1694580769366" />
+      <i c="149" l="1694656967607" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1693470833908" />
@@ -364,7 +364,7 @@
       <i c="1" l="1692952394594" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="7" l="1694507899931" />
+      <i c="8" l="1694656515671" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="1" l="1693883517340" />
@@ -403,7 +403,7 @@
       <i c="10" l="1694508898065" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="407" l="1694580727096" />
+      <i c="411" l="1694656976541" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1693965147038" />
