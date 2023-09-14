@@ -194,40 +194,40 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor [~/CodeProjects/ant-design/pro-editor] – index.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694656614357" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721077258" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="-208" y="-1055" width="1840" height="1025" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694656518795" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/NFTEditor">
           <value>
-            <RecentProjectMetaInfo frameTitle="NFTEditor – state.ts" opened="true" projectWorkspaceId="2VMr9CSu1U9mU9i8RU44ayY4ZqN">
-              <option name="activationTimestamp" value="1694657115867" />
+            <RecentProjectMetaInfo frameTitle="NFTEditor – state.ts" projectWorkspaceId="2VMr9CSu1U9mU9i8RU44ayY4ZqN">
+              <option name="activationTimestamp" value="1694657531016" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721077258" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="704" y="-1055" width="960" height="1055" />
+              <frame x="371" y="-1055" width="1293" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1694657040534" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor [~/CodeProjects/ant-design/pro-editor] – index.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694658435975" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721060990" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-208" y="-1055" width="1840" height="1025" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694657747812" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/NFTEditor" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-editor" />
   </component>
 </application>
