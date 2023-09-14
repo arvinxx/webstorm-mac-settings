@@ -210,19 +210,35 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+        <entry key="$USER_HOME$/CodeProjects/lenis/website">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor [~/CodeProjects/ant-design/pro-editor] – index.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694670361952" />
+            <RecentProjectMetaInfo frameTitle="website – home/index.js" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
+              <option name="activationTimestamp" value="1694672198269" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721060990" />
               <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694671942885" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694673526788" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721042848" />
+              <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="-208" y="-1055" width="1840" height="1025" extendedState="6" />
+              <frame x="552" y="-1055" width="1112" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694657747812" />
+              <option name="projectOpenTimestamp" value="1694672915879" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
