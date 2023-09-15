@@ -178,54 +178,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – MockDataModal.tsx" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
-              <option name="activationTimestamp" value="1694656612100" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721077258" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694656506211" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/lenis/website">
-          <value>
-            <RecentProjectMetaInfo frameTitle="website – home/index.js" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
-              <option name="activationTimestamp" value="1694672198269" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721060990" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="704" y="-1055" width="960" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694671942885" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – store.ts" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1694674702849" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721042848" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="232" y="-1055" width="1432" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694672915879" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/NFTEditor">
           <value>
             <RecentProjectMetaInfo frameTitle="NFTEditor – state.ts" projectWorkspaceId="2VMr9CSu1U9mU9i8RU44ayY4ZqN">
@@ -244,22 +196,103 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/antd-tuning">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2VPpMNCUXMEmFC2AhvvPBo4B9Yr">
-              <option name="activationTimestamp" value="1694747766656" />
+            <RecentProjectMetaInfo frameTitle="antd-tuning – package.json" projectWorkspaceId="2VPpMNCUXMEmFC2AhvvPBo4B9Yr">
+              <option name="activationTimestamp" value="1694751147665" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721043318" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
+              <frame x="304" y="-1055" width="1360" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694747521811" />
+              <option name="projectOpenTimestamp" value="1694751148061" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/lenis/website">
+          <value>
+            <RecentProjectMetaInfo frameTitle="website – home/index.js" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
+              <option name="activationTimestamp" value="1694752556327" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694751231947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – ~/CodeProjects/TechUI/pro-editor/node_modules/@types/react/index.d.ts" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
+              <option name="activationTimestamp" value="1694752904410" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="499" y="-1055" width="1165" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694752568097" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/satus">
+          <value>
+            <RecentProjectMetaInfo frameTitle="satus – raf.js" projectWorkspaceId="2VQ36aMt3TyvcDcNGxZ8EbSuEAH">
+              <option name="activationTimestamp" value="1694755081483" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694754302124" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/fly">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fly – App.tsx" projectWorkspaceId="2VQ4jbvBoUxBdDS5VdRhhHas6MH">
+              <option name="activationTimestamp" value="1694755619508" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="20" y="45" width="1400" height="835" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694755105850" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – AppContainer.tsx" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1694756058791" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="499" y="-1055" width="1165" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1694756059304" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/antd-tuning" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-editor" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>

@@ -1409,6 +1409,16 @@
   <component name="TypeScriptExternalDefinitionsRegistry">
     <modules>
       <module>
+        <name>@types/react-dom</name>
+        <version>18.2.0</version>
+        <dependencies>
+          <dependency value="@types/react" />
+          <dependency value="@types/prop-types" />
+          <dependency value="@types/scheduler" />
+          <dependency value="csstype" />
+        </dependencies>
+      </module>
+      <module>
         <name>@types/node</name>
         <version>18.13.0</version>
       </module>
