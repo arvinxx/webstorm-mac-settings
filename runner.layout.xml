@@ -57,5 +57,12 @@
         <option name="index" value="3" />
       </TabImpl>
     </runner>
+    <runner id="none">
+      <ViewImpl>
+        <option name="ID" value="none" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <TabImpl />
+    </runner>
   </component>
 </application>
