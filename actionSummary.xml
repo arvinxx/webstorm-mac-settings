@@ -61,7 +61,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1642" l="1695019322829" />
+      <i c="1659" l="1695019432288" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="399" l="1694762614415" />
@@ -76,7 +76,7 @@
       <i c="4" l="1693811406510" />
     </e>
     <e n="EditorCopy">
-      <i c="397" l="1694673623760" />
+      <i c="398" l="1695019329175" />
     </e>
     <e n="EditorCut">
       <i c="74" l="1694674811511" />
@@ -88,7 +88,7 @@
       <i c="702" l="1694755197935" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="134" l="1694756200793" />
+      <i c="135" l="1695019383661" />
     </e>
     <e n="EditorDuplicate">
       <i c="42" l="1694398722227" />
@@ -103,7 +103,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="617" l="1694762712392" />
+      <i c="618" l="1695019382033" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="200" l="1695019322116" />
@@ -121,28 +121,28 @@
       <i c="69" l="1695019288740" />
     </e>
     <e n="EditorNextWord">
-      <i c="233" l="1695019306918" />
+      <i c="234" l="1695019325155" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="146" l="1694762654711" />
+      <i c="147" l="1695019382034" />
     </e>
     <e n="EditorPaste">
-      <i c="458" l="1695019288928" />
+      <i c="459" l="1695019329979" />
     </e>
     <e n="EditorPreviousWord">
       <i c="313" l="1694762711792" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="243" l="1695019307285" />
+      <i c="245" l="1695019331195" />
     </e>
     <e n="EditorRight">
-      <i c="546" l="1695019321603" />
+      <i c="548" l="1695019383477" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="175" l="1694747795236" />
     </e>
     <e n="EditorSelectWord">
-      <i c="127" l="1694673623471" />
+      <i c="130" l="1695019326804" />
     </e>
     <e n="EditorStartNewLine">
       <i c="4" l="1693534782748" />
@@ -178,7 +178,7 @@
       <i c="2" l="1693889172437" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="27" l="1694762715758" />
+      <i c="28" l="1695019390680" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="1" l="1695019281291" />
@@ -202,7 +202,7 @@
       <i c="2" l="1693979128243" />
     </e>
     <e n="Git.Squash.Commits">
-      <i c="4" l="1693888698478" />
+      <i c="5" l="1695019429852" />
     </e>
     <e n="GitCheckoutAction">
       <i c="23" l="1694756261460" />
@@ -229,7 +229,7 @@
       <i c="10" l="1694674715934" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="28" l="1694762652773" />
+      <i c="29" l="1695019380078" />
     </e>
     <e n="GotoDeclaration">
       <i c="185" l="1694768832090" />
@@ -289,7 +289,7 @@
       <i c="33" l="1693977846016" />
     </e>
     <e n="ReplaceInPath">
-      <i c="4" l="1692952588923" />
+      <i c="5" l="1695019327534" />
     </e>
     <e n="Rerun">
       <i c="23" l="1694508813416" />
@@ -331,7 +331,7 @@
       <i c="1" l="1693885208921" />
     </e>
     <e n="Vcs.Push">
-      <i c="22" l="1694673333515" />
+      <i c="25" l="1695019482804" />
     </e>
     <e n="Vcs.Push.Force">
       <i c="4" l="1694673335672" />
@@ -367,7 +367,7 @@
       <i c="2" l="1693888361675" />
     </e>
     <e n="com.intellij.diff.merge.MergeThreesideViewer$ApplyNonConflictsAction">
-      <i c="2" l="1693801906370" />
+      <i c="3" l="1695019465249" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="37" l="1694508708424" />
@@ -406,10 +406,10 @@
       <i c="3" l="1695019217740" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="174" l="1694759496779" />
+      <i c="182" l="1695019577112" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="44" l="1693966278957" />
+      <i c="46" l="1695019472448" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="5" l="1693294740701" />
@@ -421,7 +421,7 @@
       <i c="10" l="1694508898065" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="512" l="1695019301511" />
+      <i c="514" l="1695019426892" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />

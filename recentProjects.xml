@@ -210,22 +210,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/fly">
-          <value>
-            <RecentProjectMetaInfo frameTitle="fly – App.tsx" projectWorkspaceId="2VQ4jbvBoUxBdDS5VdRhhHas6MH">
-              <option name="activationTimestamp" value="1694755619508" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721043318" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="20" y="45" width="1400" height="835" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694755105850" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
             <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
@@ -292,22 +276,39 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-flow">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2QB9ZyyToiHdHAvviUa6RwbHG1a">
-              <option name="activationTimestamp" value="1695019299518" />
+            <RecentProjectMetaInfo frameTitle="pro-flow – package.json" projectWorkspaceId="2QB9ZyyToiHdHAvviUa6RwbHG1a">
+              <option name="activationTimestamp" value="1695019577250" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721043318" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
+                <RecentProjectColorInfo associatedIndex="8" />
               </option>
+              <frame x="-256" y="-1055" width="1706" height="918" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1695019264688" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/fly">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fly – App.tsx" projectWorkspaceId="2VQ4jbvBoUxBdDS5VdRhhHas6MH">
+              <option name="activationTimestamp" value="1695028053463" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721043318" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="20" y="45" width="1400" height="835" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1695028054499" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-flow" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/fly" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
