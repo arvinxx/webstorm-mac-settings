@@ -15,7 +15,7 @@
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.annotate" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="2" last-shown="0" last-used="1694398590791" shown-count="0" />
-    <feature id="editing.reformat.code" count="5" last-shown="0" last-used="1694755273683" shown-count="0" />
+    <feature id="editing.reformat.code" count="6" last-shown="0" last-used="1695270340660" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="1" last-shown="0" last-used="1692950787925" shown-count="0" />
     <feature id="navigation.find.in.files" count="4" last-shown="0" last-used="1692952596505" shown-count="0" />
@@ -28,7 +28,7 @@
     <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.duplicate" count="42" last-shown="0" last-used="1694398722230" shown-count="0" />
+    <feature id="editing.duplicate" count="44" last-shown="0" last-used="1695270354315" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -36,7 +36,7 @@
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="141" last-shown="0" last-used="1695019326808" shown-count="0" />
+    <feature id="editing.select.word" count="145" last-shown="0" last-used="1695270378627" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -69,14 +69,14 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="185" last-shown="0" last-used="1694768832111" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="191" last-shown="0" last-used="1695193717814" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="2" last-shown="0" last-used="1693820290820" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="36" last-shown="0" last-used="1694671781542" shown-count="0" />
+    <feature id="codeassists.context.actions" count="37" last-shown="0" last-used="1695193476817" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="2" last-shown="0" last-used="1693470851686" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
