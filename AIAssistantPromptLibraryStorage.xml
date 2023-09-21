@@ -1,0 +1,48 @@
+<application>
+  <component name="AIAssistantPromptLibraryStorage">
+    <option name="prompts">
+      <map>
+        <entry key="builtin_findproblems">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_findproblems" />
+              <option name="name" value="Find problems in code" />
+              <option name="priority" value="30" />
+              <option name="showInInput" value="false" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_newchat">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="content" value="&#10;&#10;$SELECTION" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_newchat" />
+              <option name="name" value="New chat using selection" />
+              <option name="priority" value="20" />
+              <option name="showInInput" value="false" />
+              <option name="waitForInput" value="true" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_refactoring">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="content" value="Refactor the following code:&#10;&#10;$SELECTION" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_refactoring" />
+              <option name="name" value="Suggest refactoring" />
+              <option name="priority" value="40" />
+              <option name="showInInput" value="false" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
