@@ -1,10 +1,10 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="12" l="1695275980086" />
+      <i c="13" l="1695291777268" />
     </e>
     <e n="$Delete">
-      <i c="38" l="1695290159629" />
+      <i c="44" l="1695292699259" />
     </e>
     <e n="$Paste">
       <i c="8" l="1695275983306" />
@@ -16,7 +16,7 @@
       <i c="45" l="1695289478412" />
     </e>
     <e n="$Undo">
-      <i c="431" l="1695289840823" />
+      <i c="439" l="1695292730498" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -49,13 +49,13 @@
       <i c="234" l="1695277524066" />
     </e>
     <e n="CollapseAllRegions">
-      <i c="51" l="1695287772124" />
+      <i c="53" l="1695291349972" />
     </e>
     <e n="CollapseRegion">
-      <i c="13" l="1695277320882" />
+      <i c="14" l="1695291349969" />
     </e>
     <e n="CommentByLineComment">
-      <i c="66" l="1694675095164" />
+      <i c="68" l="1695291302496" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1692946177817" />
@@ -64,7 +64,7 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1817" l="1695289458003" />
+      <i c="1840" l="1695292796144" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="408" l="1695288193583" />
@@ -82,7 +82,7 @@
       <i c="6" l="1695276081642" />
     </e>
     <e n="EditorCopy">
-      <i c="431" l="1695289927814" />
+      <i c="433" l="1695292764983" />
     </e>
     <e n="EditorCut">
       <i c="78" l="1695277749558" />
@@ -94,7 +94,7 @@
       <i c="766" l="1695289457351" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="140" l="1695289456025" />
+      <i c="141" l="1695292660464" />
     </e>
     <e n="EditorDuplicate">
       <i c="45" l="1695277531503" />
@@ -103,7 +103,7 @@
       <i c="562" l="1695288218645" />
     </e>
     <e n="EditorEscape">
-      <i c="108" l="1695289453035" />
+      <i c="109" l="1695292614949" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
@@ -124,7 +124,7 @@
       <i c="108" l="1695289457767" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="79" l="1695289454535" />
+      <i c="81" l="1695292726818" />
     </e>
     <e n="EditorNextWord">
       <i c="244" l="1695288224015" />
@@ -163,7 +163,7 @@
       <i c="511" l="1695289456793" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="59" l="1695289405071" />
+      <i c="61" l="1695292634496" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1693473903373" />
@@ -178,7 +178,7 @@
       <i c="1" l="1693474359762" />
     </e>
     <e n="Find">
-      <i c="5" l="1695289401008" />
+      <i c="6" l="1695292612626" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1692952596420" />
@@ -241,7 +241,7 @@
       <i c="29" l="1695019380078" />
     </e>
     <e n="GotoDeclaration">
-      <i c="214" l="1695289332954" />
+      <i c="215" l="1695292642724" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1693470833908" />
@@ -310,10 +310,10 @@
       <i c="27" l="1695279720128" />
     </e>
     <e n="RevealIn">
-      <i c="3" l="1695279702707" />
+      <i c="5" l="1695291516757" />
     </e>
     <e n="SaveAll">
-      <i c="347" l="1695289300203" />
+      <i c="356" l="1695292804609" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="98" l="1695290065372" />
@@ -340,10 +340,13 @@
       <i c="35" l="1695273676611" />
     </e>
     <e n="Tree-selectNext">
-      <i c="55" l="1695286071038" />
+      <i c="61" l="1695292603834" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1695291109550" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="9" l="1695286074186" />
+      <i c="11" l="1695292601352" />
     </e>
     <e n="Vcs.CherryPick">
       <i c="1" l="1693888666246" />
@@ -394,7 +397,7 @@
       <i c="44" l="1695289951198" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="1" l="1695276072308" />
+      <i c="2" l="1695292614790" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1692950104004" />
@@ -451,7 +454,7 @@
       <i c="10" l="1694508898065" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="569" l="1695290152529" />
+      <i c="578" l="1695292708053" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
