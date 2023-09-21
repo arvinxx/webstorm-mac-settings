@@ -21400,6 +21400,10 @@
           <dependency value="csstype" />
         </dependencies>
       </module>
+      <module>
+        <name>@types/jasmine</name>
+        <version>4.3.6</version>
+      </module>
     </modules>
   </component>
   <component name="editorConfigEncodings">
