@@ -290,38 +290,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1695286052524" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721065568" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="386" y="-1055" width="1278" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1695273061473" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/react-cards-pokemon">
-          <value>
-            <RecentProjectMetaInfo frameTitle="react-cards-pokemon – helpers.js" projectWorkspaceId="2Vh1lAM72rm8fkeQxTtc5FvsEMt">
-              <option name="activationTimestamp" value="1695274192395" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721065568" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="221" y="-1055" width="1443" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1695273648258" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
             <RecentProjectMetaInfo frameTitle="techui-lab – Card.tsx" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
@@ -335,6 +303,22 @@
               <frame x="704" y="-1055" width="960" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1695275686482" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – alternate-arts.json" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1695288182396" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721065568" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1695287751618" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

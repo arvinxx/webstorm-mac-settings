@@ -14,7 +14,7 @@
     <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.annotate" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.open.last.tool.window" count="2" last-shown="0" last-used="1694398590791" shown-count="0" />
+    <feature id="ui.open.last.tool.window" count="4" last-shown="0" last-used="1695287963315" shown-count="0" />
     <feature id="editing.reformat.code" count="6" last-shown="0" last-used="1695270340660" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="1" last-shown="0" last-used="1692950787925" shown-count="0" />
@@ -30,9 +30,9 @@
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="45" last-shown="0" last-used="1695277531513" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="3" last-shown="0" last-used="1695279549063" shown-count="0" />
+    <feature id="navigation.find" count="4" last-shown="0" last-used="1695287840593" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="407" last-shown="0" last-used="1695277724473" shown-count="0" />
+    <feature id="editing.completion.basic" count="408" last-shown="0" last-used="1695288193625" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -104,8 +104,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="2357" />
-      <option name="invocations" value="371" />
+      <option name="sparedCharacters" value="2363" />
+      <option name="invocations" value="372" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="12" />
       <option name="lastDate" value="1695225600000" />
