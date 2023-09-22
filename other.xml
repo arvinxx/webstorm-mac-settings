@@ -17,6 +17,7 @@
     "MarketplacePluginsSearchHistory": "package",
     "PluginConfigurable.selectionTab": "1",
     "SettingsSearchHistory": "prett\npnpm\ngittoo\npackage\ngitmoji",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6981908",
     "VitestJavaScriptTestRunner.Splitter.Proportion": "0.18446602",
     "VitestJavaScriptTestRunnerSupport.hideIgnoredTests": "true",
     "VitestJavaScriptTestRunnerSupport.hidePassedTests": "false",
@@ -28,7 +29,7 @@
     "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "evlsprt3.232": "25",
     "experimental.ui.used.version": "232.9559.58",
-    "file.gist.reindex.count": "56",
+    "file.gist.reindex.count": "66",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",
@@ -43,9 +44,10 @@
     "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3",
-    "vcs.branch.view.splitter.proportion": "0.17329094",
+    "vcs.branch.view.splitter.proportion": "0.21907601",
     "vcs.history.diff.splitter.proportion": "0.31877023",
-    "vcs.log.changes.splitter.proportion": "0.7729184"
+    "vcs.log.changes.splitter.proportion": "0.7729184",
+    "vcs.log.details.splitter.proportion": "0.65048546"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
