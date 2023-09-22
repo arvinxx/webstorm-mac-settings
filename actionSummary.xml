@@ -4,7 +4,7 @@
       <i c="13" l="1695291777268" />
     </e>
     <e n="$Delete">
-      <i c="47" l="1695348033236" />
+      <i c="49" l="1695351928690" />
     </e>
     <e n="$Paste">
       <i c="8" l="1695275983306" />
@@ -46,7 +46,7 @@
       <i c="2" l="1694161574934" />
     </e>
     <e n="CodeCompletion">
-      <i c="234" l="1695277524066" />
+      <i c="236" l="1695351517587" />
     </e>
     <e n="CollapseAllRegions">
       <i c="53" l="1695291349972" />
@@ -64,13 +64,13 @@
       <i c="1" l="1692946179170" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1858" l="1695348932087" />
+      <i c="1861" l="1695352003293" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="408" l="1695288193583" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="136" l="1695277359897" />
+      <i c="137" l="1695351521403" />
     </e>
     <e n="EditorCloneCaretAbove">
       <i c="1" l="1695277540024" />
@@ -91,7 +91,7 @@
       <i c="18" l="1694675093005" />
     </e>
     <e n="EditorDown">
-      <i c="770" l="1695348657431" />
+      <i c="771" l="1695351521259" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="147" l="1695348458736" />
@@ -103,13 +103,13 @@
       <i c="566" l="1695348930204" />
     </e>
     <e n="EditorEscape">
-      <i c="109" l="1695292614949" />
+      <i c="110" l="1695350126911" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="649" l="1695348929685" />
+      <i c="650" l="1695352001422" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="218" l="1695348767278" />
@@ -199,7 +199,7 @@
       <i c="1" l="1693462629030" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="56" l="1695271180731" />
+      <i c="59" l="1695351676938" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -220,7 +220,7 @@
       <i c="6" l="1694671802693" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="8" l="1694674727995" />
+      <i c="9" l="1695350302301" />
     </e>
     <e n="GitNewBranchAction">
       <i c="3" l="1695193785060" />
@@ -307,13 +307,13 @@
       <i c="5" l="1695019327534" />
     </e>
     <e n="Rerun">
-      <i c="30" l="1695348036083" />
+      <i c="31" l="1695351931529" />
     </e>
     <e n="RevealIn">
       <i c="5" l="1695291516757" />
     </e>
     <e n="SaveAll">
-      <i c="368" l="1695348932807" />
+      <i c="370" l="1695352004369" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="106" l="1695348716587" />
@@ -367,7 +367,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="21" l="1694768814027" />
+      <i c="22" l="1695350094033" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -421,7 +421,7 @@
       <i c="1" l="1693883517340" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="20" l="1694769020806" />
+      <i c="21" l="1695351524209" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.JsbtTaskTreeView$RunAction">
       <i c="1" l="1693469443279" />
@@ -430,7 +430,7 @@
       <i c="1" l="1693979058488" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="15" l="1694754385393" />
+      <i c="16" l="1695350076751" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="1" l="1692946174960" />
@@ -439,7 +439,7 @@
       <i c="3" l="1695019217740" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="202" l="1695348394839" />
+      <i c="204" l="1695351988998" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="46" l="1695019472448" />
@@ -457,7 +457,7 @@
       <i c="10" l="1694508898065" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="588" l="1695348546551" />
+      <i c="601" l="1695351908591" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
@@ -473,6 +473,9 @@
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="2" l="1695350084834" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="9" l="1695275895209" />
