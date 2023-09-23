@@ -309,7 +309,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
           <value>
             <RecentProjectMetaInfo frameTitle="lobehub-monorepo – package.json" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1695463880156" />
+              <option name="activationTimestamp" value="1695466740470" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721056750" />
@@ -324,8 +324,8 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
           <value>
-            <RecentProjectMetaInfo frameTitle="antd-style – ssr.md" opened="true" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
-              <option name="activationTimestamp" value="1695464032597" />
+            <RecentProjectMetaInfo frameTitle="antd-style – useAntdToken.ts" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
+              <option name="activationTimestamp" value="1695466627937" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721056750" />
@@ -340,7 +340,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/antd-style" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
