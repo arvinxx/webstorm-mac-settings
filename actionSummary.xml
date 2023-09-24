@@ -13,7 +13,7 @@
       <i c="27" l="1695348644643" />
     </e>
     <e n="$SelectAll">
-      <i c="55" l="1695486302533" />
+      <i c="56" l="1695487121836" />
     </e>
     <e n="$Undo">
       <i c="565" l="1695486377519" />
@@ -148,7 +148,7 @@
       <i c="256" l="1695486747916" />
     </e>
     <e n="EditorPaste">
-      <i c="749" l="1695486449879" />
+      <i c="753" l="1695487122290" />
     </e>
     <e n="EditorPreviousWord">
       <i c="485" l="1695486752162" />
@@ -217,7 +217,7 @@
       <i c="2" l="1695483570025" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="80" l="1695486801389" />
+      <i c="81" l="1695486926927" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -385,7 +385,7 @@
       <i c="1" l="1693885208921" />
     </e>
     <e n="Vcs.Push">
-      <i c="34" l="1695483648478" />
+      <i c="38" l="1695487075676" />
     </e>
     <e n="Vcs.Push.Force">
       <i c="7" l="1695483652879" />
@@ -457,7 +457,7 @@
       <i c="1" l="1693883517340" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="29" l="1695486855414" />
+      <i c="30" l="1695486870213" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.JsbtTaskTreeView$RunAction">
       <i c="1" l="1693469443279" />
@@ -466,7 +466,7 @@
       <i c="2" l="1695368693319" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="26" l="1695483482809" />
+      <i c="28" l="1695487074203" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1695469603006" />
@@ -496,7 +496,7 @@
       <i c="11" l="1695466296596" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="903" l="1695486799548" />
+      <i c="908" l="1695486923205" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
