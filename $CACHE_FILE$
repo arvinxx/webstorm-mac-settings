@@ -1044,14 +1044,14 @@
     }
   }
 }</component>
-  <component name="PluginFeatureCacheService"><![CDATA[{
-  "extensions": {
-    "lastUpdateTime": 1695463795181
+  <component name="PluginFeatureCacheService">{
+  &quot;extensions&quot;: {
+    &quot;lastUpdateTime&quot;: 1695463795181
   },
-  "dependencies": {
-    "lastUpdateTime": 1695463795182
+  &quot;dependencies&quot;: {
+    &quot;lastUpdateTime&quot;: 1695463795182
   }
-}]]></component>
+}</component>
   <component name="PluginFeatureService">{
   &quot;features&quot;: {
     &quot;com.intellij.facetType&quot;: {
@@ -1460,17 +1460,17 @@
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/iconv-lite" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/public/manifest-dev.json" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/arvinxx/react-layout-kit/node_modules/@vitest/coverage-v8" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/BorderlessTableOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/stylelint-less" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/BorderlessTableOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/RedditSquareFilled.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/ChromeFilled.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/jsx-ast-utils" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/ant-design/pro-editor/node_modules/.pnpm/@dnd-kit+accessibility@3.0.1_react@18.2.0/node_modules/tslib" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/CodeSandboxOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@types_normalize-package-data@2.4.1@@types" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/configs/strict-type-checked.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/MehFilled.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/_sc_client_node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_mojo_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/MehFilled.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/@typescript-eslint/eslint-plugin/dist/configs/strict-type-checked.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/06" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_unicode-match-property-ecmascript@2.0.0@unicode-match-property-ecmascript" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-no-shortcut-reference-link" charset="utf-8" />
@@ -1498,27 +1498,27 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_tasl_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-ui/es/ChatInputArea/style.mobile.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_vue-html_mjs.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/SlackSquareOutlined.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/object.hasown" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/dumi-theme-antd-style/node_modules/eslint-plugin-jest" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/conventional-changelog-core" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-ui/refs/tags/v1.87.1" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/dumi-theme-antd-style/node_modules/eslint-plugin-jest" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/object.hasown" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/SlackSquareOutlined.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/0c" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-ui/refs/tags/v1.87.1" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/0b" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-ui/refs/tags/v1.87.2" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-sdk/FETCH_HEAD" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.3" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/next-font-manifest.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.2" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/next-font-manifest.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/camel-case" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/father" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/clone-response" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/PaperClipOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-lint-no-unneeded-full-reference-link" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/PaperClipOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/@bloomberg" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/29" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.1" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/server/app/chat/settings" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.1" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/FilePdfOutlined.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/chat-plugins-gateway/refs/tags/v1.5.0" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/26" charset="utf-8" />
@@ -1526,14 +1526,14 @@
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/.git/objects/21" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/uuid@9.0.1/node_modules/uuid" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_file-entry-cache@6.0.1@file-entry-cache" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@alipay_bigfish@4.0.170@@alipay" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-ui/refs/tags/v1.87.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@alipay_bigfish@4.0.170@@alipay" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/is-finalizationregistry" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-web-crawler/node_modules/react" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/static/chunks/_app-client_node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_verilog_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-web-crawler/node_modules/react" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/cache/webpack/server-development/11.pack" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_postcss_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/arvinxx/react-layout-kit/node_modules/.pnpm/@testing-library+react@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/@babel/runtime" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_postcss_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/identity-obj-proxy" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/@umijs+ast@4.0.81/node_modules/@umijs" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/word-wrap" charset="utf-8" />
@@ -1544,9 +1544,9 @@
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@galacean_engine-toolkit-stats@1.0.0-beta.7@@galacean" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/server/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_stylus_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/_sc_client_node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_csharp_mjs.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-web-crawler/.dumirc.ts" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-maximum-line-length" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/node_modules/ai" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine/node_modules/remark-lint-maximum-line-length" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-web-crawler/.dumirc.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/docs/Deploy-with-Azure-OpenAI.md" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_haskell_mjs.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/dumi-theme-antd-style/example/node_modules/.cache/mfsu/mf-dep_node_modules_cache_mfsu_mf-va_rc-tree_js.0f2b026d.async.js" charset="utf-8" />
@@ -1560,17 +1560,17 @@
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_merge-stream@2.0.0@merge-stream" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/.git/modules/packages/lobe-ui/COMMIT_EDITMSG" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/packages/chat-plugin-realtime-weather/node_modules" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/SafetyCertificateTwoTone.d.ts" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/raw-body" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/js-tiktoken@1.0.7/node_modules/js-tiktoken" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/webpack/webpack.23a10f6448fc529c.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/js-tiktoken@1.0.7/node_modules/js-tiktoken" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/raw-body" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/SafetyCertificateTwoTone.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@types_istanbul-lib-report@3.0.0@@types" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/server/_error.js" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/semantic-release-config-gitmoji" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/packages/lobe-chat/.next/static/webpack/webpack.1ba397583f84021a.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_commander@2.20.3@commander" charset="utf-8" />
-    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-stringify" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobe-chat/.next/static/chunks/node_modules_pnpm_shikiji_0_6_8_node_modules_shikiji_dist_langs_stata_mjs.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/node_modules/remark-stringify" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_commander@2.20.3@commander" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/@formatjs+intl-displaynames@6.5.2/node_modules/@formatjs/intl-displaynames" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/_@ant-design_icons@5.2.6@@ant-design/icons/AppleOutlined.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/NFTEditor/node_modules/decompress-response" charset="utf-8" />
