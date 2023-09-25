@@ -322,26 +322,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – ~/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/react-layout-kit@1.7.3_react@18.2.0/node_modules/react-layout-kit/lib/index.d.ts" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1695652403573" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721076924" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1695651999305" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/arvinxx/react-layout-kit">
           <value>
-            <RecentProjectMetaInfo frameTitle="react-layout-kit – package.json" opened="true" projectWorkspaceId="2JytiYyzY52lVXuTND6G7AwkcI8">
-              <option name="activationTimestamp" value="1695653181507" />
+            <RecentProjectMetaInfo frameTitle="react-layout-kit – tsconfig.json" projectWorkspaceId="2JytiYyzY52lVXuTND6G7AwkcI8">
+              <option name="activationTimestamp" value="1695653209980" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721076924" />
@@ -354,9 +338,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – ~/CodeProjects/LobeHub/lobehub-monorepo/node_modules/.pnpm/react-layout-kit@1.7.3_react@18.2.0/node_modules/react-layout-kit/lib/index.d.ts" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
+              <option name="activationTimestamp" value="1695654226151" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721076924" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1695653317655" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/arvinxx/react-layout-kit" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>

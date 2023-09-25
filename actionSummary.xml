@@ -4,7 +4,7 @@
       <i c="14" l="1695468871493" />
     </e>
     <e n="$Delete">
-      <i c="54" l="1695468949154" />
+      <i c="55" l="1695653228436" />
     </e>
     <e n="$Paste">
       <i c="8" l="1695275983306" />
@@ -61,7 +61,7 @@
       <i c="1" l="1695472754847" />
     </e>
     <e n="CodeCompletion">
-      <i c="307" l="1695652882543" />
+      <i c="309" l="1695654362954" />
     </e>
     <e n="CollapseAllRegions">
       <i c="67" l="1695468184119" />
@@ -79,13 +79,13 @@
       <i c="3" l="1695469640451" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2828" l="1695653018446" />
+      <i c="2833" l="1695654309012" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="609" l="1695486483655" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="184" l="1695652883701" />
+      <i c="186" l="1695654365630" />
     </e>
     <e n="EditorCloneCaretAbove">
       <i c="1" l="1695277540024" />
@@ -106,7 +106,7 @@
       <i c="19" l="1695354469892" />
     </e>
     <e n="EditorDown">
-      <i c="1068" l="1695486498927" />
+      <i c="1069" l="1695654365452" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="216" l="1695486749591" />
@@ -118,7 +118,7 @@
       <i c="867" l="1695486485196" />
     </e>
     <e n="EditorEscape">
-      <i c="137" l="1695486489694" />
+      <i c="138" l="1695654331136" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
@@ -127,16 +127,16 @@
       <i c="973" l="1695652952219" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="303" l="1695486867701" />
+      <i c="304" l="1695653345971" />
     </e>
     <e n="EditorLineEnd">
-      <i c="329" l="1695652953054" />
+      <i c="331" l="1695654308801" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="149" l="1695486867423" />
     </e>
     <e n="EditorLineStart">
-      <i c="157" l="1695473941259" />
+      <i c="159" l="1695654307510" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="122" l="1695486865473" />
@@ -163,7 +163,7 @@
       <i c="282" l="1695486749227" />
     </e>
     <e n="EditorSelectWord">
-      <i c="217" l="1695486862071" />
+      <i c="219" l="1695654298906" />
     </e>
     <e n="EditorStartNewLine">
       <i c="6" l="1695366234549" />
@@ -175,7 +175,7 @@
       <i c="17" l="1695464578606" />
     </e>
     <e n="EditorUp">
-      <i c="705" l="1695473983773" />
+      <i c="706" l="1695654298328" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="85" l="1695473939014" />
@@ -196,7 +196,7 @@
       <i c="8" l="1695486300714" />
     </e>
     <e n="FindInPath">
-      <i c="9" l="1695471399904" />
+      <i c="10" l="1695654299493" />
     </e>
     <e n="FindUsages">
       <i c="10" l="1695468909438" />
@@ -262,7 +262,7 @@
       <i c="49" l="1695486746903" />
     </e>
     <e n="GotoDeclaration">
-      <i c="401" l="1695652774556" />
+      <i c="402" l="1695653810053" />
     </e>
     <e n="HideAllWindows">
       <i c="3" l="1695468758470" />
@@ -325,7 +325,7 @@
       <i c="7" l="1695486841493" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1166" l="1695652848263" />
+      <i c="1167" l="1695653329172" />
     </e>
     <e n="RenameElement">
       <i c="58" l="1695469071101" />
@@ -334,13 +334,13 @@
       <i c="5" l="1695019327534" />
     </e>
     <e n="Rerun">
-      <i c="48" l="1695462297831" />
+      <i c="49" l="1695653726948" />
     </e>
     <e n="RevealIn">
       <i c="5" l="1695291516757" />
     </e>
     <e n="SaveAll">
-      <i c="483" l="1695652884176" />
+      <i c="485" l="1695654365983" />
     </e>
     <e n="SearchEverywhere">
       <i c="2" l="1695483902097" />
@@ -355,7 +355,7 @@
       <i c="1" l="1692944274843" />
     </e>
     <e n="Stop">
-      <i c="22" l="1695472387740" />
+      <i c="23" l="1695653813705" />
     </e>
     <e n="SynchronizeCurrentFile">
       <i c="3" l="1693881300082" />
@@ -457,7 +457,7 @@
       <i c="1" l="1693883517340" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="32" l="1695652886119" />
+      <i c="34" l="1695653651609" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.JsbtTaskTreeView$RunAction">
       <i c="1" l="1693469443279" />
@@ -478,16 +478,16 @@
       <i c="1" l="1695376328747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="345" l="1695652859669" />
+      <i c="347" l="1695653812012" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="59" l="1695652103667" />
+      <i c="60" l="1695654330888" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="5" l="1693294740701" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="4" l="1693888900260" />
+      <i c="5" l="1695653743195" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LineStatusMarkerPopupRenderer$CopyLineStatusRangeAction">
       <i c="3" l="1695468579295" />
@@ -499,13 +499,13 @@
       <i c="11" l="1695466296596" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="930" l="1695652944478" />
+      <i c="937" l="1695654356338" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
-      <i c="21" l="1695472393156" />
+      <i c="22" l="1695653720055" />
     </e>
     <e n="com.intellij.terminal.actions.TerminalActionWrapper">
       <i c="3" l="1695358854133" />
@@ -526,10 +526,10 @@
       <i c="2" l="1695467577778" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="38" l="1695468289651" />
+      <i c="52" l="1695654328499" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="4" l="1695468285871" />
+      <i c="5" l="1695654322093" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="1" l="1695276069023" />
