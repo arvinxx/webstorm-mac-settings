@@ -4,7 +4,7 @@
       <i c="14" l="1695468871493" />
     </e>
     <e n="$Delete">
-      <i c="55" l="1695653228436" />
+      <i c="59" l="1695656340084" />
     </e>
     <e n="$Paste">
       <i c="8" l="1695275983306" />
@@ -16,7 +16,7 @@
       <i c="58" l="1695654987813" />
     </e>
     <e n="$Undo">
-      <i c="565" l="1695486377519" />
+      <i c="567" l="1695656278824" />
     </e>
     <e n="Annotate">
       <i c="1" l="1695376298006" />
@@ -70,7 +70,7 @@
       <i c="20" l="1695468184116" />
     </e>
     <e n="CommentByLineComment">
-      <i c="85" l="1695472167523" />
+      <i c="86" l="1695656572149" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1692946177817" />
@@ -79,7 +79,7 @@
       <i c="3" l="1695469640451" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2849" l="1695655271564" />
+      <i c="2852" l="1695656568394" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="611" l="1695654680106" />
@@ -106,10 +106,10 @@
       <i c="19" l="1695354469892" />
     </e>
     <e n="EditorDown">
-      <i c="1069" l="1695654365452" />
+      <i c="1070" l="1695656572368" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="217" l="1695654976741" />
+      <i c="220" l="1695656571358" />
     </e>
     <e n="EditorDuplicate">
       <i c="60" l="1695471432513" />
@@ -118,7 +118,7 @@
       <i c="868" l="1695654758613" />
     </e>
     <e n="EditorEscape">
-      <i c="140" l="1695655274663" />
+      <i c="143" l="1695656269730" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
@@ -145,10 +145,10 @@
       <i c="365" l="1695654776933" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="258" l="1695654974920" />
+      <i c="260" l="1695656084332" />
     </e>
     <e n="EditorPaste">
-      <i c="759" l="1695654896435" />
+      <i c="760" l="1695656567403" />
     </e>
     <e n="EditorPreviousWord">
       <i c="485" l="1695486752162" />
@@ -163,7 +163,7 @@
       <i c="284" l="1695654866208" />
     </e>
     <e n="EditorSelectWord">
-      <i c="221" l="1695654469998" />
+      <i c="222" l="1695656083018" />
     </e>
     <e n="EditorStartNewLine">
       <i c="6" l="1695366234549" />
@@ -172,13 +172,13 @@
       <i c="8" l="1695486376811" />
     </e>
     <e n="EditorUnSelectWord">
-      <i c="17" l="1695464578606" />
+      <i c="18" l="1695656083479" />
     </e>
     <e n="EditorUp">
       <i c="706" l="1695654298328" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="85" l="1695473939014" />
+      <i c="86" l="1695656571876" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1693473903373" />
@@ -196,7 +196,7 @@
       <i c="8" l="1695486300714" />
     </e>
     <e n="FindInPath">
-      <i c="11" l="1695654470426" />
+      <i c="12" l="1695656566683" />
     </e>
     <e n="FindUsages">
       <i c="10" l="1695468909438" />
@@ -325,10 +325,10 @@
       <i c="7" l="1695486841493" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1173" l="1695654919007" />
+      <i c="1179" l="1695656572748" />
     </e>
     <e n="RenameElement">
-      <i c="59" l="1695655333119" />
+      <i c="60" l="1695656119960" />
     </e>
     <e n="ReplaceInPath">
       <i c="5" l="1695019327534" />
@@ -340,13 +340,13 @@
       <i c="5" l="1695291516757" />
     </e>
     <e n="SaveAll">
-      <i c="486" l="1695654785596" />
+      <i c="487" l="1695656578378" />
     </e>
     <e n="SearchEverywhere">
       <i c="7" l="1695654896025" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="130" l="1695471438686" />
+      <i c="132" l="1695656268074" />
     </e>
     <e n="ShowIntentionActions">
       <i c="55" l="1695472150948" />
@@ -426,6 +426,15 @@
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
       <i c="2" l="1693888361675" />
     </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextChangeAction">
+      <i c="11" l="1695656445049" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+      <i c="1" l="1695656421882" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyOpenInEditorAction">
+      <i c="1" l="1695656455755" />
+    </e>
     <e n="com.intellij.diff.merge.MergeThreesideViewer$ApplyNonConflictsAction">
       <i c="4" l="1695486825283" />
     </e>
@@ -439,7 +448,7 @@
       <i c="2" l="1695486304424" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="7" l="1695654472467" />
+      <i c="8" l="1695656569713" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="2" l="1692952598215" />
@@ -478,7 +487,7 @@
       <i c="1" l="1695376328747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="361" l="1695655275286" />
+      <i c="371" l="1695656370122" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="65" l="1695654897002" />
@@ -496,10 +505,10 @@
       <i c="1" l="1695652101198" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="11" l="1695466296596" />
+      <i c="12" l="1695656589024" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="972" l="1695655276842" />
+      <i c="984" l="1695656593113" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
