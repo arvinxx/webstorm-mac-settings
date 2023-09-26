@@ -1,8 +1,8 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.2880.1800@192dpi" x="1050" y="376" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="388" y="372" />
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="888" y="-1716" />
-    <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="956" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="2002" height="1428" />
     <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
     <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
     <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
