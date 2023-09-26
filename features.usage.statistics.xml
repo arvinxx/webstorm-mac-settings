@@ -24,7 +24,7 @@
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1692952394600" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="86" last-shown="0" last-used="1695656572187" shown-count="0" />
+    <feature id="codeassists.comment.line" count="88" last-shown="0" last-used="1695698778940" shown-count="0" />
     <feature id="SearchEverywhere" count="7" last-shown="0" last-used="1695654896089" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -50,7 +50,7 @@
     <feature id="navigation.find.usages" count="10" last-shown="0" last-used="1695468909512" shown-count="0" />
     <feature id="editing.clipboard.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="60" last-shown="0" last-used="1695656135350" shown-count="0" />
+    <feature id="refactoring.rename" count="73" last-shown="0" last-used="1695659454013" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.forget.cached.schemas" count="0" last-shown="0" last-used="0" shown-count="0" />
