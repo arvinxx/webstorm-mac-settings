@@ -162,22 +162,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/lenis/website">
-          <value>
-            <RecentProjectMetaInfo frameTitle="website – home/index.js" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
-              <option name="activationTimestamp" value="1694752556327" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721043318" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="704" y="-1055" width="960" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1694751231947" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
           <value>
             <RecentProjectMetaInfo frameTitle="pro-editor – ~/CodeProjects/TechUI/pro-editor/node_modules/@types/react/index.d.ts" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
@@ -325,7 +309,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
           <value>
             <RecentProjectMetaInfo frameTitle="lobehub-monorepo – settings/index.tsx" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1695739809948" />
+              <option name="activationTimestamp" value="1695743103782" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721038855" />
@@ -340,8 +324,8 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
           <value>
-            <RecentProjectMetaInfo frameTitle="antd-style – fix-switch-theme-fouc.md" opened="true" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
-              <option name="activationTimestamp" value="1695740143873" />
+            <RecentProjectMetaInfo frameTitle="antd-style – fix-switch-theme-fouc.md" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
+              <option name="activationTimestamp" value="1695740574907" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721038855" />
@@ -354,9 +338,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/lenis/website">
+          <value>
+            <RecentProjectMetaInfo frameTitle="website – home/index.js" opened="true" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
+              <option name="activationTimestamp" value="1695743065343" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721038855" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1695743034485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/antd-style" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
