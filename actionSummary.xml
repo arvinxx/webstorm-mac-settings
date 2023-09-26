@@ -4,7 +4,7 @@
       <i c="14" l="1695468871493" />
     </e>
     <e n="$Delete">
-      <i c="59" l="1695656340084" />
+      <i c="60" l="1695698849266" />
     </e>
     <e n="$Paste">
       <i c="8" l="1695275983306" />
@@ -244,7 +244,7 @@
       <i c="14" l="1695652461171" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="5" l="1695368068399" />
+      <i c="6" l="1695698807080" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1693880624664" />
@@ -334,7 +334,7 @@
       <i c="5" l="1695019327534" />
     </e>
     <e n="Rerun">
-      <i c="55" l="1695659309434" />
+      <i c="57" l="1695698851332" />
     </e>
     <e n="RevealIn">
       <i c="5" l="1695291516757" />
@@ -490,7 +490,7 @@
       <i c="1" l="1695376328747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="372" l="1695658867210" />
+      <i c="373" l="1695699425705" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="65" l="1695654897002" />
@@ -511,7 +511,7 @@
       <i c="12" l="1695656589024" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1003" l="1695659402571" />
+      <i c="1009" l="1695699422090" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
