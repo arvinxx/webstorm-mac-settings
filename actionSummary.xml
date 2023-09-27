@@ -19,7 +19,7 @@
       <i c="631" l="1695782262322" />
     </e>
     <e n="Annotate">
-      <i c="2" l="1695739833142" />
+      <i c="4" l="1695786649864" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1692939752641" />
@@ -265,7 +265,7 @@
       <i c="61" l="1695782742905" />
     </e>
     <e n="GotoDeclaration">
-      <i c="458" l="1695785891607" />
+      <i c="459" l="1695785897305" />
     </e>
     <e n="HideAllWindows">
       <i c="3" l="1695468758470" />
@@ -496,10 +496,10 @@
       <i c="3" l="1695019217740" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
-      <i c="2" l="1695739857321" />
+      <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="417" l="1695782367628" />
+      <i c="420" l="1695786658671" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="74" l="1695781491921" />
@@ -520,7 +520,7 @@
       <i c="13" l="1695780914450" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1128" l="1695785853914" />
+      <i c="1129" l="1695785935461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
