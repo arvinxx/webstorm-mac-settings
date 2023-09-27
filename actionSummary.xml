@@ -220,7 +220,7 @@
       <i c="2" l="1695483570025" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="93" l="1695740153729" />
+      <i c="100" l="1695820456193" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -393,11 +393,14 @@
     <e n="Vcs.GetVersion">
       <i c="1" l="1693885208921" />
     </e>
+    <e n="Vcs.Log.Refresh">
+      <i c="1" l="1695820398178" />
+    </e>
     <e n="Vcs.Push">
-      <i c="50" l="1695736355071" />
+      <i c="52" l="1695820458080" />
     </e>
     <e n="Vcs.Push.Force">
-      <i c="9" l="1695706971170" />
+      <i c="10" l="1695820461699" />
     </e>
     <e n="Vcs.RevertSelectedChanges">
       <i c="2" l="1695376320817" />
@@ -412,7 +415,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="30" l="1695703089389" />
+      <i c="31" l="1695820341566" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -487,7 +490,7 @@
       <i c="4" l="1695654404447" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="30" l="1695732773407" />
+      <i c="31" l="1695820388393" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1695469603006" />
@@ -499,7 +502,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="420" l="1695786658671" />
+      <i c="421" l="1695786664516" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="74" l="1695781491921" />
@@ -520,7 +523,7 @@
       <i c="13" l="1695780914450" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1129" l="1695785935461" />
+      <i c="1136" l="1695820471178" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
@@ -532,7 +535,7 @@
       <i c="3" l="1695358854133" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1693965147038" />
+      <i c="2" l="1695820335729" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1692944166555" />
@@ -595,10 +598,10 @@
       <i c="3" l="1694673283012" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$RebaseAction">
-      <i c="7" l="1695706904316" />
+      <i c="10" l="1695820451312" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
-      <i c="5" l="1695652366444" />
+      <i c="6" l="1695820443312" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$RemoteDeleteAction">
       <i c="3" l="1695652467187" />
@@ -607,7 +610,7 @@
       <i c="1" l="1693888639677" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
-      <i c="5" l="1695271167801" />
+      <i c="6" l="1695820317096" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
       <i c="17" l="1695737972122" />

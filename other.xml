@@ -17,7 +17,7 @@
     "MarketplacePluginsSearchHistory": "package",
     "PluginConfigurable.selectionTab": "1",
     "SettingsSearchHistory": "代理\ngithub\nprett\npnpm\ngittoo",
-    "TextEditorWithPreview.SplitterProportionKey": "0.6981908",
+    "TextEditorWithPreview.SplitterProportionKey": "0.80131006",
     "VitestJavaScriptTestRunner.Splitter.Proportion": "0.23944686",
     "VitestJavaScriptTestRunnerSupport.hideIgnoredTests": "true",
     "VitestJavaScriptTestRunnerSupport.hidePassedTests": "false",
@@ -48,7 +48,7 @@
     "ts.lib.d.ts.version": "5.1.3",
     "vcs.branch.view.splitter.proportion": "0.2071535",
     "vcs.history.diff.splitter.proportion": "0.31877023",
-    "vcs.log.changes.splitter.proportion": "0.8579492",
+    "vcs.log.changes.splitter.proportion": "0.7695202",
     "vcs.log.details.splitter.proportion": "0.65048546"
   },
   "keyToStringList": {
