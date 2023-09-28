@@ -308,15 +308,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – settings/index.tsx" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1695824809061" />
+            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – client.ts" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
+              <option name="activationTimestamp" value="1695827019533" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721038855" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="477" y="25" width="963" height="875" />
+              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1695701008941" />
             </RecentProjectMetaInfo>

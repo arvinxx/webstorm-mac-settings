@@ -82,7 +82,7 @@
       <i c="4" l="1695734388208" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3444" l="1695824518315" />
+      <i c="3447" l="1695824873764" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="713" l="1695821428538" />
@@ -214,7 +214,7 @@
       <i c="1" l="1695465571242" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="49" l="1695824522653" />
+      <i c="50" l="1695824877725" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="1" l="1695019281291" />
@@ -244,13 +244,13 @@
       <i c="12" l="1695706343058" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="39" l="1695737977394" />
+      <i c="40" l="1695824853782" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="10" l="1695739184850" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="15" l="1695706873575" />
+      <i c="17" l="1695824867113" />
     </e>
     <e n="GitNewBranchAction">
       <i c="7" l="1695705833672" />
@@ -265,7 +265,7 @@
       <i c="2" l="1695739181080" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="13" l="1695738005181" />
+      <i c="14" l="1695824846288" />
     </e>
     <e n="Gitmoji.GitCommitAction">
       <i c="62" l="1695824512865" />
