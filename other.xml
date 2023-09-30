@@ -9,7 +9,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6018412",
-    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.6042553",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.70657897",
     "FindSplitterProportion": "0.37209302",
     "GeneralSettings.initiallyConfigured": "true",
     "InstalledPluginsSearchHistory": "p\nprett\npret\n[r\n[",
@@ -29,7 +29,7 @@
     "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "evlsprt3.232": "25",
     "experimental.ui.used.version": "232.9559.58",
-    "file.gist.reindex.count": "158",
+    "file.gist.reindex.count": "162",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",
