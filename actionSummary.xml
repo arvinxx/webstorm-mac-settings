@@ -250,7 +250,7 @@
       <i c="12" l="1695706343058" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="43" l="1696051416399" />
+      <i c="44" l="1696094880144" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="11" l="1696090030322" />
@@ -271,7 +271,7 @@
       <i c="2" l="1695739181080" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="18" l="1696051438212" />
+      <i c="19" l="1696094884816" />
     </e>
     <e n="Gitmoji.GitCommitAction">
       <i c="74" l="1696089914472" />
@@ -631,7 +631,7 @@
       <i c="8" l="1696053554189" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
-      <i c="22" l="1696051414461" />
+      <i c="23" l="1696094872747" />
     </e>
   </component>
 </application>
