@@ -322,22 +322,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – .env" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1696427411001" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721039204" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="441" y="25" width="999" height="875" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1696053510511" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – .env" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
@@ -351,6 +335,22 @@
               <frame x="0" y="0" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1696130653688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobehub-monorepo – page.ts" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
+              <option name="activationTimestamp" value="1696428971970" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721039204" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1696428260613" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

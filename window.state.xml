@@ -7,10 +7,10 @@
     <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
     <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
     <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2862" height="1008" />
-    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="1816" height="770" />
-    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="1816" height="770" />
-    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="1816" height="770" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="1816" height="770" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="680" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="680" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2748" height="680" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2748" height="680" />
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="956" />
     <size key="GridCell.Tab.1.left.-512.-2160.3840.2160@192dpi" width="3202" height="624" />
     <size key="GridCell.Tab.1.center.-512.-2160.3840.2160@192dpi" width="3202" height="624" />
@@ -34,10 +34,10 @@
     </state>
     <state width="579" height="890" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1696055358791" />
     <state width="540" height="152" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1693803666561" />
-    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN" timestamp="1696053506928">
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN" timestamp="1696428142656">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1696053506928" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1696428142656" />
     <state x="704" y="-595" width="1186" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1695369283740" />
   </component>
 </application>
