@@ -106,7 +106,7 @@
       <i c="7" l="1695466075567" />
     </e>
     <e n="EditorCopy">
-      <i c="1054" l="1696129317310" />
+      <i c="1059" l="1696130899116" />
     </e>
     <e n="EditorCut">
       <i c="169" l="1696129048684" />
@@ -133,7 +133,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="1445" l="1696129318895" />
+      <i c="1446" l="1696130680598" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="456" l="1696129061671" />
@@ -142,7 +142,7 @@
       <i c="484" l="1696129259569" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="230" l="1696128906053" />
+      <i c="234" l="1696130844170" />
     </e>
     <e n="EditorLineStart">
       <i c="326" l="1696129279351" />
@@ -232,7 +232,7 @@
       <i c="2" l="1695483570025" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="101" l="1696053541718" />
+      <i c="103" l="1696389911028" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -430,7 +430,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="36" l="1696053651393" />
+      <i c="37" l="1696389905825" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -490,7 +490,7 @@
       <i c="1" l="1695289459431" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="26" l="1696059365768" />
+      <i c="27" l="1696130652085" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="1" l="1693883517340" />
@@ -523,7 +523,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="528" l="1696128165473" />
+      <i c="529" l="1696130664341" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="85" l="1696092524592" />
@@ -544,7 +544,7 @@
       <i c="14" l="1695912869602" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1454" l="1696129904421" />
+      <i c="1456" l="1696389901195" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />

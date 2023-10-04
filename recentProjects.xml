@@ -325,7 +325,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
           <value>
             <RecentProjectMetaInfo frameTitle="lobehub-monorepo – .env" opened="true" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
-              <option name="activationTimestamp" value="1696130597900" />
+              <option name="activationTimestamp" value="1696389921580" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721039204" />
@@ -340,8 +340,8 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – page.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1696060459734" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – page.tsx" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1696389898999" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721039204" />
@@ -350,7 +350,7 @@
               </option>
               <frame x="371" y="25" width="1069" height="875" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1696059367210" />
+              <option name="projectOpenTimestamp" value="1696130653688" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
