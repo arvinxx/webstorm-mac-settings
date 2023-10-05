@@ -85,7 +85,7 @@
       <i c="6" l="1696051710019" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4184" l="1696475214908" />
+      <i c="4185" l="1696475398557" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="924" l="1696475214357" />
@@ -118,7 +118,7 @@
       <i c="1651" l="1696430915752" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="357" l="1696430917580" />
+      <i c="358" l="1696475399521" />
     </e>
     <e n="EditorDuplicate">
       <i c="108" l="1696427760358" />
@@ -133,7 +133,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="1517" l="1696430853312" />
+      <i c="1519" l="1696475396704" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="490" l="1696427224305" />
@@ -154,7 +154,7 @@
       <i c="609" l="1696430845713" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="376" l="1696429136751" />
+      <i c="377" l="1696475396895" />
     </e>
     <e n="EditorPaste">
       <i c="1331" l="1696430890459" />
@@ -166,7 +166,7 @@
       <i c="596" l="1696430842973" />
     </e>
     <e n="EditorRight">
-      <i c="1388" l="1696430916841" />
+      <i c="1390" l="1696475399338" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="453" l="1696426518479" />
@@ -220,7 +220,7 @@
       <i c="1" l="1695465571242" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="61" l="1696430919923" />
+      <i c="62" l="1696475405365" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="1" l="1695019281291" />
@@ -274,10 +274,10 @@
       <i c="19" l="1696094884816" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="77" l="1696429126869" />
+      <i c="79" l="1696475393157" />
     </e>
     <e n="GotoDeclaration">
-      <i c="591" l="1696475202439" />
+      <i c="593" l="1696475259489" />
     </e>
     <e n="HideAllWindows">
       <i c="5" l="1696060250749" />
@@ -466,7 +466,7 @@
       <i c="7" l="1695706955733" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="60" l="1696428286887" />
+      <i c="61" l="1696488356123" />
     </e>
     <e n="com.intellij.execution.ui.AllRunConfigurationsToggle">
       <i c="1" l="1695736021386" />
@@ -523,7 +523,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="578" l="1696475198808" />
+      <i c="579" l="1696475262374" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="89" l="1696429160164" />
@@ -544,7 +544,7 @@
       <i c="15" l="1696426334032" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1583" l="1696475210142" />
+      <i c="1588" l="1696488586294" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
