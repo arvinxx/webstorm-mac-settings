@@ -1,6 +1,6 @@
 <application>
   <component name="FeatureUsageStatistics" first-run="1692939307985" have-been-shown="false" show-in-other="true" show-in-compilation="true">
-    <feature id="editing.completion.camelHumps" count="27" last-shown="0" last-used="1696127733088" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="28" last-shown="0" last-used="1696430860570" shown-count="0" />
     <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.file.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -32,11 +32,11 @@
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="8" last-shown="0" last-used="1695486300792" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="922" last-shown="0" last-used="1696427659304" shown-count="0" />
+    <feature id="editing.completion.basic" count="923" last-shown="0" last-used="1696430860582" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="358" last-shown="0" last-used="1696427719427" shown-count="0" />
+    <feature id="editing.select.word" count="360" last-shown="0" last-used="1696430849970" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -104,8 +104,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="5940" />
-      <option name="invocations" value="868" />
+      <option name="sparedCharacters" value="5952" />
+      <option name="invocations" value="869" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="23" />
       <option name="lastDate" value="1696348800000" />
