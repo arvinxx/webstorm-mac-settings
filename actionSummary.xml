@@ -49,10 +49,10 @@
       <i c="2" l="1692946582021" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="13" l="1696059375365" />
+      <i c="14" l="1696565129818" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
-      <i c="8" l="1696001233690" />
+      <i c="9" l="1696565231517" />
     </e>
     <e n="ChangesView.UnshelveSilently">
       <i c="1" l="1695372336910" />
@@ -85,7 +85,7 @@
       <i c="7" l="1696499476560" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4582" l="1696518123083" />
+      <i c="4586" l="1696565228574" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1078" l="1696518115280" />
@@ -118,7 +118,7 @@
       <i c="1878" l="1696518130403" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="408" l="1696514527024" />
+      <i c="410" l="1696565227367" />
     </e>
     <e n="EditorDuplicate">
       <i c="116" l="1696502722693" />
@@ -127,13 +127,13 @@
       <i c="1568" l="1696518125631" />
     </e>
     <e n="EditorEscape">
-      <i c="222" l="1696518123691" />
+      <i c="223" l="1696565229887" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="1686" l="1696517936365" />
+      <i c="1687" l="1696565225741" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="541" l="1696517937007" />
@@ -154,7 +154,7 @@
       <i c="675" l="1696517934911" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="406" l="1696514400381" />
+      <i c="407" l="1696565226052" />
     </e>
     <e n="EditorPaste">
       <i c="1482" l="1696518118392" />
@@ -166,7 +166,7 @@
       <i c="645" l="1696518110890" />
     </e>
     <e n="EditorRight">
-      <i c="1521" l="1696518113756" />
+      <i c="1523" l="1696565227119" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="472" l="1696514560644" />
@@ -220,7 +220,7 @@
       <i c="1" l="1695465571242" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="62" l="1696475405365" />
+      <i c="63" l="1696565235519" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="1" l="1695019281291" />
@@ -259,7 +259,7 @@
       <i c="23" l="1696051428072" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="10" l="1696128951076" />
+      <i c="11" l="1696565028216" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1693880624664" />
@@ -274,7 +274,7 @@
       <i c="20" l="1696489608194" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="79" l="1696475393157" />
+      <i c="80" l="1696565224688" />
     </e>
     <e n="GotoDeclaration">
       <i c="679" l="1696518078574" />
@@ -526,7 +526,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="648" l="1696518599524" />
+      <i c="650" l="1696565220998" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="91" l="1696502790515" />
@@ -547,7 +547,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1721" l="1696518587529" />
+      <i c="1723" l="1696565114901" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
