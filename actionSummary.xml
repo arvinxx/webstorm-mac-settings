@@ -85,7 +85,7 @@
       <i c="11" l="1696668313668" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5106" l="1696668339041" />
+      <i c="5126" l="1696668444410" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1217" l="1696668173936" />
@@ -109,16 +109,16 @@
       <i c="1373" l="1696668325765" />
     </e>
     <e n="EditorCut">
-      <i c="247" l="1696667224812" />
+      <i c="249" l="1696668447166" />
     </e>
     <e n="EditorDelete">
       <i c="31" l="1696667252820" />
     </e>
     <e n="EditorDown">
-      <i c="2052" l="1696668338570" />
+      <i c="2055" l="1696668372007" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="451" l="1696668297084" />
+      <i c="453" l="1696668436003" />
     </e>
     <e n="EditorDuplicate">
       <i c="117" l="1696656201563" />
@@ -127,19 +127,19 @@
       <i c="1727" l="1696668318124" />
     </e>
     <e n="EditorEscape">
-      <i c="251" l="1696667788044" />
+      <i c="252" l="1696668365664" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="1864" l="1696668295518" />
+      <i c="1865" l="1696668434724" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="581" l="1696668194228" />
     </e>
     <e n="EditorLineEnd">
-      <i c="655" l="1696668338778" />
+      <i c="657" l="1696668447700" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="309" l="1696668193946" />
@@ -151,22 +151,22 @@
       <i c="259" l="1696665722589" />
     </e>
     <e n="EditorNextWord">
-      <i c="752" l="1696665937311" />
+      <i c="763" l="1696668378751" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="497" l="1696668295729" />
+      <i c="498" l="1696668434937" />
     </e>
     <e n="EditorPaste">
-      <i c="1608" l="1696668326834" />
+      <i c="1609" l="1696668448650" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="874" l="1696667207627" />
+      <i c="883" l="1696668446106" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="700" l="1696667232052" />
+      <i c="702" l="1696668446576" />
     </e>
     <e n="EditorRight">
-      <i c="1758" l="1696668296781" />
+      <i c="1760" l="1696668435700" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="502" l="1696668194438" />
@@ -187,7 +187,7 @@
       <i c="29" l="1696668328401" />
     </e>
     <e n="EditorUp">
-      <i c="1277" l="1696668341245" />
+      <i c="1279" l="1696668376787" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="150" l="1696663846763" />
@@ -220,7 +220,7 @@
       <i c="1" l="1695465571242" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="72" l="1696667794950" />
+      <i c="74" l="1696668460541" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="1" l="1695019281291" />
@@ -256,7 +256,7 @@
       <i c="16" l="1696666673877" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="48" l="1696666857221" />
+      <i c="49" l="1696668430002" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="11" l="1696090030322" />
@@ -280,7 +280,7 @@
       <i c="22" l="1696666873180" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="91" l="1696668290874" />
+      <i c="92" l="1696668432153" />
     </e>
     <e n="GotoDeclaration">
       <i c="730" l="1696665774592" />
@@ -382,7 +382,7 @@
       <i c="241" l="1696667166226" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="98" l="1696662786723" />
+      <i c="99" l="1696668365073" />
     </e>
     <e n="ShowUmlDiagram">
       <i c="1" l="1692944274843" />
@@ -445,7 +445,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="39" l="1696668017809" />
+      <i c="40" l="1696668457573" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -538,7 +538,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="771" l="1696668312682" />
+      <i c="772" l="1696668392832" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="92" l="1696661372780" />
@@ -559,7 +559,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1986" l="1696668319890" />
+      <i c="1988" l="1696668350501" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
