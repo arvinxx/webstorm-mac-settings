@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="56" l="1696648402949" />
+      <i c="57" l="1696655454184" />
     </e>
     <e n="$Delete">
       <i c="85" l="1696649956405" />
@@ -76,7 +76,7 @@
       <i c="7" l="1696647101766" />
     </e>
     <e n="CommentByLineComment">
-      <i c="164" l="1696649991035" />
+      <i c="165" l="1696650103653" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1692946177817" />
@@ -277,7 +277,7 @@
       <i c="80" l="1696565224688" />
     </e>
     <e n="GotoDeclaration">
-      <i c="690" l="1696650027260" />
+      <i c="693" l="1696650128301" />
     </e>
     <e n="HideAllWindows">
       <i c="5" l="1696060250749" />
@@ -337,7 +337,7 @@
       <i c="13" l="1696050357208" />
     </e>
     <e n="QuickJavaDoc">
-      <i c="31" l="1696498169402" />
+      <i c="32" l="1696650107782" />
     </e>
     <e n="RecentFiles">
       <i c="1" l="1696517160066" />
@@ -472,7 +472,7 @@
       <i c="7" l="1695706955733" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="66" l="1696648906507" />
+      <i c="67" l="1696650070964" />
     </e>
     <e n="com.intellij.execution.ui.AllRunConfigurationsToggle">
       <i c="1" l="1695736021386" />
@@ -529,7 +529,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="678" l="1696649985305" />
+      <i c="681" l="1696650120194" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="91" l="1696502790515" />
@@ -550,7 +550,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1758" l="1696649829565" />
+      <i c="1759" l="1696650074819" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
