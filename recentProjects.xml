@@ -341,7 +341,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat-agents">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WPvKZ3Qrk2Zdab0ipS3EBWx8c1">
-              <option name="activationTimestamp" value="1696657972466" />
+              <option name="activationTimestamp" value="1696658944314" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721041540" />
@@ -356,7 +356,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – List.tsx" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1696657271716" />
+              <option name="activationTimestamp" value="1696659152148" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721041540" />
@@ -371,7 +371,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat-agents" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>

@@ -232,7 +232,7 @@
       <i c="2" l="1695483570025" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="107" l="1696414620807" />
+      <i c="108" l="1696658956778" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -250,13 +250,13 @@
       <i c="12" l="1695706343058" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="45" l="1696489613498" />
+      <i c="46" l="1696659157040" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="11" l="1696090030322" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="23" l="1696051428072" />
+      <i c="24" l="1696659163838" />
     </e>
     <e n="GitNewBranchAction">
       <i c="12" l="1696656564937" />
@@ -496,7 +496,7 @@
       <i c="1" l="1695289459431" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="29" l="1696657270685" />
+      <i c="30" l="1696658949567" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="1" l="1693883517340" />
@@ -550,7 +550,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1792" l="1696658146121" />
+      <i c="1800" l="1696659169493" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
@@ -637,7 +637,7 @@
       <i c="1" l="1693888639677" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$UpdateSelectedBranchAction">
-      <i c="8" l="1696053554189" />
+      <i c="9" l="1696658955850" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
       <i c="24" l="1696489502598" />
