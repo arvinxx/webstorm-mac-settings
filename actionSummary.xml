@@ -85,7 +85,7 @@
       <i c="11" l="1696668313668" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5126" l="1696668444410" />
+      <i c="5130" l="1696749393244" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1217" l="1696668173936" />
@@ -124,10 +124,10 @@
       <i c="117" l="1696656201563" />
     </e>
     <e n="EditorEnter">
-      <i c="1727" l="1696668318124" />
+      <i c="1729" l="1696749380486" />
     </e>
     <e n="EditorEscape">
-      <i c="252" l="1696668365664" />
+      <i c="253" l="1696749394462" />
     </e>
     <e n="EditorIndentSelection">
       <i c="1" l="1693474374887" />
@@ -157,7 +157,7 @@
       <i c="498" l="1696668434937" />
     </e>
     <e n="EditorPaste">
-      <i c="1609" l="1696668448650" />
+      <i c="1610" l="1696749380060" />
     </e>
     <e n="EditorPreviousWord">
       <i c="883" l="1696668446106" />
@@ -166,7 +166,7 @@
       <i c="702" l="1696668446576" />
     </e>
     <e n="EditorRight">
-      <i c="1760" l="1696668435700" />
+      <i c="1761" l="1696749381581" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="502" l="1696668194438" />
@@ -187,7 +187,7 @@
       <i c="29" l="1696668328401" />
     </e>
     <e n="EditorUp">
-      <i c="1279" l="1696668376787" />
+      <i c="1282" l="1696749381209" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="150" l="1696663846763" />
@@ -376,7 +376,7 @@
       <i c="853" l="1696668341490" />
     </e>
     <e n="SearchEverywhere">
-      <i c="9" l="1696092521781" />
+      <i c="10" l="1696749386173" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="241" l="1696667166226" />
@@ -541,7 +541,7 @@
       <i c="772" l="1696668392832" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="92" l="1696661372780" />
+      <i c="93" l="1696749387371" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="6" l="1696517160851" />
