@@ -322,22 +322,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – welcome/layout.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1696833844756" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721045563" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="429" y="-1055" width="1235" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1696822635232" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo">
           <value>
             <RecentProjectMetaInfo frameTitle="lobehub-monorepo – lightAlgorithm.ts" projectWorkspaceId="2SScwv7AfePb5UNVtufAkdiEUn7">
@@ -356,15 +340,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
-            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – base.css" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1696837508300" />
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1696903556462" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721045563" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="18" y="25" width="1422" height="875" extendedState="6" />
+              <frame x="363" y="-1055" width="1301" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1696835572057" />
             </RecentProjectMetaInfo>
@@ -372,8 +356,8 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
-            <RecentProjectMetaInfo frameTitle="techui-lab – Card.tsx" opened="true" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1696837507204" />
+            <RecentProjectMetaInfo frameTitle="techui-lab – card.ts" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
+              <option name="activationTimestamp" value="1696903559533" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721045563" />
@@ -388,14 +372,34 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/arvinxx/react-holographic-card">
           <value>
-            <RecentProjectMetaInfo opened="true">
-              <option name="activationTimestamp" value="1696837517505" />
+            <RecentProjectMetaInfo frameTitle="react-holographic-card – Card.tsx" projectWorkspaceId="2WW62629d21GCtQ3tzxfBj1k66w">
+              <option name="activationTimestamp" value="1696837685793" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="270" y="-1055" width="1394" height="1055" extendedState="6" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-chat – fetch.ts" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697004612748" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721045563" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-197" y="-1055" width="1861" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1696903566773" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/arvinxx/react-holographic-card" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>

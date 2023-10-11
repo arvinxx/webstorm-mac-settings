@@ -5,7 +5,7 @@
     <feature id="navigation.goto.file.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="346" last-shown="1692941656266" last-used="1696668160199" shown-count="30" />
+    <feature id="editing.completion.replace" count="349" last-shown="1692941656266" last-used="1696837694929" shown-count="30" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -24,7 +24,7 @@
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1692952394600" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="187" last-shown="0" last-used="1696836272942" shown-count="0" />
+    <feature id="codeassists.comment.line" count="194" last-shown="0" last-used="1697000164418" shown-count="0" />
     <feature id="SearchEverywhere" count="10" last-shown="0" last-used="1696749386632" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -32,11 +32,11 @@
     <feature id="editing.copy.reference" count="1" last-shown="0" last-used="1696757409867" shown-count="0" />
     <feature id="navigation.find" count="10" last-shown="0" last-used="1696667783635" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="1220" last-shown="0" last-used="1696837566581" shown-count="0" />
+    <feature id="editing.completion.basic" count="1223" last-shown="0" last-used="1696989289771" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="496" last-shown="0" last-used="1696837319033" shown-count="0" />
+    <feature id="editing.select.word" count="497" last-shown="0" last-used="1697004422288" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -69,14 +69,14 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695465571391" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="734" last-shown="0" last-used="1696837382982" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="738" last-shown="0" last-used="1696989305234" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="0" last-used="1696426600936" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="102" last-shown="0" last-used="1696668365073" shown-count="0" />
+    <feature id="codeassists.context.actions" count="106" last-shown="0" last-used="1696999364996" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="7" last-shown="0" last-used="1696666887521" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -104,17 +104,17 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="7571" />
-      <option name="invocations" value="1138" />
+      <option name="sparedCharacters" value="7600" />
+      <option name="invocations" value="1144" />
       <option name="startDate" value="1692892800000" />
-      <option name="dayCount" value="26" />
-      <option name="lastDate" value="1696694400000" />
+      <option name="dayCount" value="28" />
+      <option name="lastDate" value="1696953600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="111" />
+      <option name="invocations" value="115" />
       <option name="startDate" value="1692892800000" />
-      <option name="dayCount" value="21" />
-      <option name="lastDate" value="1696780800000" />
+      <option name="dayCount" value="22" />
+      <option name="lastDate" value="1696953600000" />
     </fixesStatsTag>
   </component>
 </application>
