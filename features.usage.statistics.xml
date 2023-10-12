@@ -15,7 +15,7 @@
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.annotate" count="5" last-shown="0" last-used="1696051631691" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="6" last-shown="0" last-used="1696657229257" shown-count="0" />
-    <feature id="editing.reformat.code" count="9" last-shown="0" last-used="1696836372729" shown-count="0" />
+    <feature id="editing.reformat.code" count="10" last-shown="0" last-used="1697091822878" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="8" last-shown="0" last-used="1696833933128" shown-count="0" />
     <feature id="navigation.find.in.files" count="54" last-shown="0" last-used="1696822679138" shown-count="0" />
@@ -28,7 +28,7 @@
     <feature id="SearchEverywhere" count="10" last-shown="0" last-used="1696749386632" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.duplicate" count="117" last-shown="0" last-used="1696656201566" shown-count="0" />
+    <feature id="editing.duplicate" count="120" last-shown="0" last-used="1697091836289" shown-count="0" />
     <feature id="editing.copy.reference" count="1" last-shown="0" last-used="1696757409867" shown-count="0" />
     <feature id="navigation.find" count="10" last-shown="0" last-used="1696667783635" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />

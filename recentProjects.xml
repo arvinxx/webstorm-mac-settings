@@ -354,22 +354,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
-          <value>
-            <RecentProjectMetaInfo frameTitle="techui-lab – card.ts" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1696903559533" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721045563" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="391" y="-1055" width="1273" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1696835693675" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/arvinxx/react-holographic-card">
           <value>
             <RecentProjectMetaInfo frameTitle="react-holographic-card – Card.tsx" projectWorkspaceId="2WW62629d21GCtQ3tzxfBj1k66w">
@@ -397,9 +381,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
+          <value>
+            <RecentProjectMetaInfo frameTitle="techui-lab – card.ts" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
+              <option name="activationTimestamp" value="1697091859397" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721068906" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-256" y="-1055" width="1273" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697091804620" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/TechUI/techui-lab" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
