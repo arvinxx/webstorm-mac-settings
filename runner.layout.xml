@@ -39,8 +39,8 @@
       </ViewImpl>
       <TabImpl>
         <option name="displayName" value="线程和变量" />
-        <option name="leftProportion" value="0.19302325" />
-        <option name="rightProportion" value="0.19302325" />
+        <option name="leftProportion" value="0.19294117" />
+        <option name="rightProportion" value="0.19294117" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
