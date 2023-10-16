@@ -37,10 +37,10 @@
     <frame x="579" y="-1055" width="1085" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697441315726">
-      <screen x="-256" y="-1055" width="1920" height="1055" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697443854402">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1697184363347" />
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1697443854402" />
     <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697441315726" />
   </component>
 </application>
