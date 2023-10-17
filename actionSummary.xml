@@ -16,7 +16,7 @@
       <i c="125" l="1697187031668" />
     </e>
     <e n="$Undo">
-      <i c="1000" l="1697511089375" />
+      <i c="1006" l="1697512726398" />
     </e>
     <e n="Annotate">
       <i c="5" l="1696051631688" />
@@ -64,7 +64,7 @@
       <i c="1" l="1695472754847" />
     </e>
     <e n="CodeCompletion">
-      <i c="605" l="1697512029955" />
+      <i c="606" l="1697512043793" />
     </e>
     <e n="CollapseAllRegions">
       <i c="136" l="1696837523992" />
@@ -232,7 +232,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="85" l="1697511855177" />
+      <i c="86" l="1697512064553" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="2" l="1697511598290" />
@@ -421,7 +421,7 @@
       <i c="1" l="1697184650376" />
     </e>
     <e n="Stop">
-      <i c="42" l="1696835656654" />
+      <i c="43" l="1697512048672" />
     </e>
     <e n="SynchronizeCurrentFile">
       <i c="16" l="1696661802028" />
@@ -547,7 +547,7 @@
       <i c="1" l="1693883517340" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="67" l="1697511993058" />
+      <i c="68" l="1697512033922" />
     </e>
     <e n="com.intellij.lang.documentation.ide.ui.DocumentationPopupUI$OpenInToolwindowAction">
       <i c="1" l="1696087418817" />
@@ -574,7 +574,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="799" l="1697511947073" />
+      <i c="800" l="1697512062431" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="100" l="1697180925259" />
@@ -595,7 +595,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2117" l="1697511973726" />
+      <i c="2121" l="1697512705396" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
