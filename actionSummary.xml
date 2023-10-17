@@ -232,7 +232,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="86" l="1697512064553" />
+      <i c="87" l="1697512774066" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="2" l="1697511598290" />
@@ -574,7 +574,7 @@
       <i c="3" l="1695785937237" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="800" l="1697512062431" />
+      <i c="801" l="1697512772000" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="100" l="1697180925259" />
@@ -595,7 +595,7 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2121" l="1697512705396" />
+      <i c="2123" l="1697513835292" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
