@@ -381,26 +381,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – market/index.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697511462151" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721069963" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="360" y="-1055" width="1304" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697510883930" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather">
           <value>
-            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – manifest.json" opened="true" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
-              <option name="activationTimestamp" value="1697513833811" />
+            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – index.tsx" opened="true" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
+              <option name="activationTimestamp" value="1697517254446" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721069963" />
@@ -409,7 +393,23 @@
               </option>
               <frame x="-256" y="-1055" width="1356" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697511579074" />
+              <option name="projectOpenTimestamp" value="1697514661491" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-chat – market/index.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697516617438" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721069963" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697516618458" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
