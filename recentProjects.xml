@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather">
-          <value>
-            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – manifest.json" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
-              <option name="activationTimestamp" value="1692940923213" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721078163" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="-256" y="-1055" width="1356" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1692939595384" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo">
           <value>
             <RecentProjectMetaInfo frameTitle="lobechat-plugin-monorepo – chat-plugin-web-crawler/package.json" projectWorkspaceId="2USrmi5XmVpPCA2Fnsq2hLaMVKz">
@@ -399,23 +383,39 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – const.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697511351219" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – market/index.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697511462151" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721069963" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
+              <frame x="360" y="-1055" width="1304" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1697510883930" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – manifest.json" opened="true" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
+              <option name="activationTimestamp" value="1697511991643" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721069963" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-256" y="-1055" width="1356" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697511579074" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
