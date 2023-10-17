@@ -16,7 +16,7 @@
       <i c="125" l="1697187031668" />
     </e>
     <e n="$Undo">
-      <i c="998" l="1697181504360" />
+      <i c="1000" l="1697511089375" />
     </e>
     <e n="Annotate">
       <i c="5" l="1696051631688" />
@@ -64,7 +64,7 @@
       <i c="1" l="1695472754847" />
     </e>
     <e n="CodeCompletion">
-      <i c="600" l="1697182105598" />
+      <i c="602" l="1697511055686" />
     </e>
     <e n="CollapseAllRegions">
       <i c="136" l="1696837523992" />
@@ -97,7 +97,7 @@
       <i c="1270" l="1697186579712" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="363" l="1697186579064" />
+      <i c="364" l="1697511056594" />
     </e>
     <e n="EditorCloneCaretAbove">
       <i c="4" l="1696087473409" />
@@ -112,7 +112,7 @@
       <i c="10" l="1696758590800" />
     </e>
     <e n="EditorCopy">
-      <i c="1422" l="1697187031959" />
+      <i c="1423" l="1697510916272" />
     </e>
     <e n="EditorCut">
       <i c="259" l="1697181476272" />
@@ -181,7 +181,7 @@
       <i c="515" l="1697180928225" />
     </e>
     <e n="EditorSelectWord">
-      <i c="489" l="1697186272376" />
+      <i c="490" l="1697510915683" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1695739900023" />
@@ -298,7 +298,7 @@
       <i c="97" l="1697118678832" />
     </e>
     <e n="GotoDeclaration">
-      <i c="742" l="1697180969407" />
+      <i c="743" l="1697511126443" />
     </e>
     <e n="GotoTypeDeclaration">
       <i c="1" l="1697000496889" />
@@ -388,7 +388,7 @@
       <i c="7" l="1696660301778" />
     </e>
     <e n="Rerun">
-      <i c="137" l="1697186586503" />
+      <i c="138" l="1697511099140" />
     </e>
     <e n="Resume">
       <i c="2" l="1697185670540" />
@@ -400,7 +400,7 @@
       <i c="1" l="1696647966897" />
     </e>
     <e n="SaveAll">
-      <i c="876" l="1697186580263" />
+      <i c="877" l="1697511057106" />
     </e>
     <e n="SearchEverywhere">
       <i c="12" l="1697180924406" />
@@ -478,7 +478,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="47" l="1697178729224" />
+      <i c="48" l="1697510932578" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="3" l="1692943958919" />
@@ -547,7 +547,7 @@
       <i c="1" l="1693883517340" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="61" l="1696989260347" />
+      <i c="63" l="1697511059667" />
     </e>
     <e n="com.intellij.lang.documentation.ide.ui.DocumentationPopupUI$OpenInToolwindowAction">
       <i c="1" l="1696087418817" />
@@ -595,13 +595,13 @@
       <i c="16" l="1696498613046" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2095" l="1697186945298" />
+      <i c="2107" l="1697511365034" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
-      <i c="119" l="1696661773940" />
+      <i c="120" l="1697511364033" />
     </e>
     <e n="com.intellij.terminal.actions.TerminalActionWrapper">
       <i c="6" l="1696428665892" />

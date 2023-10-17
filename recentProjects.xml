@@ -349,22 +349,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – const.ts" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697182250381" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721066992" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697180597954" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/tsx-eval">
           <value>
             <RecentProjectMetaInfo frameTitle="tsx-eval – Checker.tsx" projectWorkspaceId="2WhJNPVCBGVA6hDQuNajls6tDdw">
@@ -413,9 +397,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-chat – const.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697511351219" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721069963" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697510883930" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/tsx-eval" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>

@@ -5,7 +5,7 @@
     <feature id="navigation.goto.file.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="363" last-shown="1692941656266" last-used="1697186579074" shown-count="30" />
+    <feature id="editing.completion.replace" count="364" last-shown="1692941656266" last-used="1697511056668" shown-count="30" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -36,7 +36,7 @@
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="518" last-shown="0" last-used="1697186272381" shown-count="0" />
+    <feature id="editing.select.word" count="519" last-shown="0" last-used="1697510915693" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -69,7 +69,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695465571391" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="742" last-shown="0" last-used="1697180969439" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="743" last-shown="0" last-used="1697511126478" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="5" last-shown="0" last-used="1697181528251" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
