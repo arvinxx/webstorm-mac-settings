@@ -349,22 +349,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/antd-tuning">
-          <value>
-            <RecentProjectMetaInfo frameTitle="antd-tuning – package.json" projectWorkspaceId="2VPpMNCUXMEmFC2AhvvPBo4B9Yr">
-              <option name="activationTimestamp" value="1697186898837" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721066992" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="304" y="-1055" width="1360" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697186899430" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
             <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
@@ -383,15 +367,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather">
           <value>
-            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – index.tsx" opened="true" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
-              <option name="activationTimestamp" value="1697517254446" />
+            <RecentProjectMetaInfo frameTitle="chat-plugin-realtime-weather – .gitignore" projectWorkspaceId="2UN78BDtAYC37Daz11dLhon6lE2">
+              <option name="activationTimestamp" value="1697521935687" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721069963" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="-256" y="-1055" width="1356" height="1055" />
+              <frame x="573" y="-1055" width="1091" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1697514661491" />
             </RecentProjectMetaInfo>
@@ -399,23 +383,23 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – market/index.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697516617438" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – ResponsiveLayout.client.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697522055375" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721069963" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+              <frame x="573" y="-1055" width="1091" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697516618458" />
+              <option name="projectOpenTimestamp" value="1697521956372" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-realtime-weather" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
