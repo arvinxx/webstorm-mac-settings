@@ -1,9 +1,10 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2050" height="974" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2050" height="974" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2050" height="974" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2050" height="974" />
+    <location key="find.popup.-512.-2160.3840.2160@192dpi" x="888" y="-1716" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2814" height="1552" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2814" height="1552" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2814" height="1552" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2814" height="1552" />
     <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="1308" height="764" />
     <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="1308" height="764" />
     <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="1308" height="764" />
@@ -32,15 +33,16 @@
     <size key="GridCell.Tab.3.center.-512.-2160.3840.2160@192dpi" width="1704" height="1018" />
     <size key="GridCell.Tab.3.right.-512.-2160.3840.2160@192dpi" width="1704" height="1018" />
     <size key="GridCell.Tab.3.bottom.-512.-2160.3840.2160@192dpi" width="1704" height="1018" />
+    <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="956" />
   </component>
   <component name="WindowManager">
-    <frame x="573" y="-1055" width="1091" height="1055" />
+    <frame x="191" y="-1055" width="1473" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697529516717">
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697530315356">
       <screen x="-256" y="-1055" width="1920" height="1055" />
     </state>
     <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1697443854402" />
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697529516717" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697530315356" />
   </component>
 </application>

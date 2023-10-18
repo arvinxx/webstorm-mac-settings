@@ -30,7 +30,7 @@
     "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "evlsprt3.232": "25",
     "experimental.ui.used.version": "232.9559.58",
-    "file.gist.reindex.count": "276",
+    "file.gist.reindex.count": "278",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",
@@ -47,9 +47,9 @@
     "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3",
-    "vcs.branch.view.splitter.proportion": "0.103183314",
+    "vcs.branch.view.splitter.proportion": "0.16959386",
     "vcs.history.diff.splitter.proportion": "0.31877023",
-    "vcs.log.changes.splitter.proportion": "0.8326923",
+    "vcs.log.changes.splitter.proportion": "0.54990816",
     "vcs.log.details.splitter.proportion": "0.86417323"
   },
   "keyToStringList": {
