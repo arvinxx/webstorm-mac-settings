@@ -91,7 +91,7 @@
       <i c="12" l="1697511919059" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5376" l="1697596005571" />
+      <i c="5378" l="1697596127912" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1272" l="1697594196085" />
@@ -172,10 +172,10 @@
       <i c="913" l="1697181310152" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="728" l="1697596003059" />
+      <i c="729" l="1697596121645" />
     </e>
     <e n="EditorRight">
-      <i c="1875" l="1697596035457" />
+      <i c="1876" l="1697596121283" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="515" l="1697180928225" />
@@ -232,7 +232,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="92" l="1697594635638" />
+      <i c="93" l="1697596131052" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="2" l="1697511598290" />
@@ -595,7 +595,7 @@
       <i c="17" l="1697593878198" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2179" l="1697595806510" />
+      <i c="2180" l="1697596081746" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
