@@ -16,7 +16,7 @@
       <i c="125" l="1697187031668" />
     </e>
     <e n="$Undo">
-      <i c="1007" l="1697517050775" />
+      <i c="1008" l="1697595928726" />
     </e>
     <e n="Annotate">
       <i c="6" l="1697514143338" />
@@ -121,7 +121,7 @@
       <i c="31" l="1696667252820" />
     </e>
     <e n="EditorDown">
-      <i c="2126" l="1697594207791" />
+      <i c="2127" l="1697595930153" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="472" l="1697594257267" />
@@ -175,7 +175,7 @@
       <i c="727" l="1697594213143" />
     </e>
     <e n="EditorRight">
-      <i c="1871" l="1697594624003" />
+      <i c="1872" l="1697595930147" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="515" l="1697180928225" />
@@ -232,7 +232,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="91" l="1697594549871" />
+      <i c="92" l="1697594635638" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="2" l="1697511598290" />
@@ -379,7 +379,7 @@
       <i c="10" l="1697091822863" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="2739" l="1697594625596" />
+      <i c="2741" l="1697595933116" />
     </e>
     <e n="RenameElement">
       <i c="175" l="1697594218407" />
@@ -562,7 +562,7 @@
       <i c="6" l="1696001384100" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="45" l="1697594565284" />
+      <i c="46" l="1697594638677" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="4" l="1696648302935" />
@@ -595,7 +595,7 @@
       <i c="17" l="1697593878198" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2177" l="1697594606279" />
+      <i c="2179" l="1697595806510" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
