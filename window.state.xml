@@ -1,10 +1,10 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="888" y="-1716" />
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2950" height="692" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2950" height="692" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2950" height="692" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2950" height="692" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="1788" height="692" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="1788" height="692" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="1788" height="692" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="1788" height="692" />
     <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="1308" height="764" />
     <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="1308" height="764" />
     <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="1308" height="764" />
@@ -39,10 +39,10 @@
     <frame x="207" y="-1055" width="1457" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="919" y="-589" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697622490463">
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697680400590">
       <screen x="-256" y="-1055" width="1920" height="1055" />
     </state>
     <state x="843" y="429" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1697614260843" />
-    <state x="919" y="-589" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697622490463" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697680400590" />
   </component>
 </application>

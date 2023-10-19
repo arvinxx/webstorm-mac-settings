@@ -383,17 +383,17 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – .env.example" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697614107514" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – .env.example" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697681277466" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721074846" />
+              <option name="buildTimestamp" value="1692721036017" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
               <frame x="207" y="-1055" width="1457" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697595966949" />
+              <option name="projectOpenTimestamp" value="1697680428294" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
