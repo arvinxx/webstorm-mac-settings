@@ -6,6 +6,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-search-engine" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat-agents" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobehub-monorepo" value="true" />
         <entry key="$USER_HOME$/CodeProjects/NFTEditor" value="true" />
@@ -35,6 +36,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/CodeProjects/ant-design" />
+        <option value="$USER_HOME$/CodeProjects/LobeHub" />
       </list>
     </option>
   </component>

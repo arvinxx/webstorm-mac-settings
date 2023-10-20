@@ -36,7 +36,7 @@
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="1092" />
   </component>
   <component name="WindowManager">
-    <frame x="20" y="45" width="1400" height="835" />
+    <frame x="-256" y="-1055" width="960" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1697775390287">
