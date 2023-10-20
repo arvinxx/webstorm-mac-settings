@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobechat-plugin-monorepo – chat-plugin-web-crawler/package.json" projectWorkspaceId="2USrmi5XmVpPCA2Fnsq2hLaMVKz">
-              <option name="activationTimestamp" value="1693039712066" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721033048" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="20" y="45" width="1400" height="835" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1693034541693" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/zustand-middleware-yjs">
           <value>
             <RecentProjectMetaInfo frameTitle="zustand-middleware-yjs – package.json" projectWorkspaceId="2Gj1pADoAAk5uIwHVEyUAF99FjJ">
@@ -317,22 +301,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – .prettierrc.js" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1697180588171" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721066992" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="-256" y="-1055" width="960" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697179189315" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/tsx-eval">
           <value>
             <RecentProjectMetaInfo frameTitle="tsx-eval – Checker.tsx" projectWorkspaceId="2WhJNPVCBGVA6hDQuNajls6tDdw">
@@ -346,22 +314,6 @@
               <frame x="579" y="-1055" width="1085" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1697184624644" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1697427811524" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721066992" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="720" y="25" width="720" height="875" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697426599341" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -381,25 +333,96 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1697705049394" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721036017" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="704" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697684906984" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobechat-plugin-monorepo – README.md" projectWorkspaceId="2USrmi5XmVpPCA2Fnsq2hLaMVKz">
+              <option name="activationTimestamp" value="1697768903291" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721036017" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="389" y="-1055" width="1275" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697709555275" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – .env.example" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1697681277466" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – README.zh-CN.md" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1697775366853" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721036017" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="207" y="-1055" width="1457" height="1055" />
+              <frame x="20" y="45" width="1400" height="835" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697680428294" />
+              <option name="projectOpenTimestamp" value="1697769984687" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/pro-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-chat – README.md" projectWorkspaceId="2X0oVx9TLyvBXLdTf8bInOs4kpn">
+              <option name="activationTimestamp" value="1697775388752" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="20" y="45" width="1400" height="835" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-chat">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2X0oVx9TLyvBXLdTf8bInOs4kpn">
+              <option name="activationTimestamp" value="1697777318903" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721036017" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697775404270" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pro-editor – .prettierrc.js" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1697777352915" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721036017" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-256" y="-1055" width="960" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1697775501813" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-editor" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
