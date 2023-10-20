@@ -395,7 +395,7 @@
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-chat">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2X0oVx9TLyvBXLdTf8bInOs4kpn">
-              <option name="activationTimestamp" value="1697783576818" />
+              <option name="activationTimestamp" value="1697789409969" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721036017" />
@@ -407,7 +407,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
-              <option name="activationTimestamp" value="1697777772372" />
+              <option name="activationTimestamp" value="1697784921424" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721036017" />
@@ -421,17 +421,17 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – README.md" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1697777874991" />
+            <RecentProjectMetaInfo frameTitle="pro-editor – basic.tsx" opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1697788710089" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721036017" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="-256" y="-1055" width="960" height="1055" />
+              <frame x="704" y="-1055" width="960" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1697777837028" />
+              <option name="projectOpenTimestamp" value="1697788507748" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
