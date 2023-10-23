@@ -16,7 +16,7 @@
       <i c="129" l="1698030697090" />
     </e>
     <e n="$Undo">
-      <i c="1058" l="1698031355052" />
+      <i c="1061" l="1698042411638" />
     </e>
     <e n="Annotate">
       <i c="8" l="1697681271128" />
@@ -55,7 +55,7 @@
       <i c="28" l="1697594362071" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
-      <i c="13" l="1697775633431" />
+      <i c="14" l="1698031839628" />
     </e>
     <e n="ChangesView.UnshelveSilently">
       <i c="1" l="1695372336910" />
@@ -94,7 +94,7 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5691" l="1698031138527" />
+      <i c="5710" l="1698042443046" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1327" l="1698031129718" />
@@ -127,7 +127,7 @@
       <i c="1" l="1698029981122" />
     </e>
     <e n="EditorDown">
-      <i c="2223" l="1698030014637" />
+      <i c="2224" l="1698042388093" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="505" l="1698030015884" />
@@ -154,16 +154,16 @@
       <i c="631" l="1698031167081" />
     </e>
     <e n="EditorLineEnd">
-      <i c="701" l="1698031285371" />
+      <i c="702" l="1698042442562" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="331" l="1698031166604" />
+      <i c="333" l="1698042388321" />
     </e>
     <e n="EditorLineStart">
       <i c="451" l="1698030014959" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="289" l="1698030013300" />
+      <i c="290" l="1698042442774" />
     </e>
     <e n="EditorNextWord">
       <i c="835" l="1697787884995" />
@@ -238,7 +238,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="113" l="1697795231926" />
+      <i c="115" l="1698031847769" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="3" l="1697786962251" />
@@ -301,7 +301,7 @@
       <i c="26" l="1697004430799" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="121" l="1697795194287" />
+      <i c="123" l="1698031748756" />
     </e>
     <e n="GotoDeclaration">
       <i c="781" l="1697787428575" />
@@ -412,7 +412,7 @@
       <i c="1" l="1696647966897" />
     </e>
     <e n="SaveAll">
-      <i c="963" l="1698031355899" />
+      <i c="967" l="1698042443272" />
     </e>
     <e n="SearchEverywhere">
       <i c="16" l="1697608863871" />
@@ -490,7 +490,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="60" l="1698025560872" />
+      <i c="61" l="1698041299990" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="4" l="1697775375623" />
@@ -553,7 +553,7 @@
       <i c="1" l="1695289459431" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="48" l="1697788506331" />
+      <i c="49" l="1698031731882" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="1" l="1693883517340" />
@@ -607,7 +607,7 @@
       <i c="24" l="1697709678877" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2365" l="1698030493145" />
+      <i c="2373" l="1698042378724" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />

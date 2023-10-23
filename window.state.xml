@@ -2,14 +2,14 @@
   <component name="DimensionService">
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="888" y="-1720" />
     <location key="find.popup.0.0.2880.1800@192dpi" x="1050" y="374" />
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="2418" height="1088" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="2418" height="1088" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2418" height="1088" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2418" height="1088" />
-    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="1088" />
-    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="1088" />
-    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2748" height="1088" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2748" height="1088" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="1788" height="1022" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="1788" height="1022" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="1788" height="1022" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="1788" height="1022" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="1288" height="764" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="1288" height="764" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="1288" height="764" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="1288" height="764" />
     <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="1704" height="1018" />
     <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="1704" height="1018" />
     <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="1704" height="1018" />
@@ -38,6 +38,18 @@
     <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="1092" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="25" width="1420" height="855" extendedState="6" />
+    <frame x="720" y="25" width="720" height="875" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="355" height="128" key="ShowUsagesActions.dimensionServiceKey" timestamp="1697785977435">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="355" height="128" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1697785977435" />
+    <state width="306" height="100" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1697784571990" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1698043000886">
+      <screen x="-256" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1698042224353" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698043000886" />
   </component>
 </application>
