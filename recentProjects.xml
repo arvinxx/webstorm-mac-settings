@@ -442,15 +442,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
-            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – App.svelte" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1698141890173" />
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – App.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1698142229174" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721030117" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="720" y="25" width="720" height="875" />
+              <frame x="36" y="25" width="1404" height="875" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1698138923728" />
             </RecentProjectMetaInfo>
