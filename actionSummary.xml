@@ -13,7 +13,7 @@
       <i c="38" l="1698031186030" />
     </e>
     <e n="$SelectAll">
-      <i c="129" l="1698030697090" />
+      <i c="132" l="1698227823183" />
     </e>
     <e n="$Undo">
       <i c="1078" l="1698226737708" />
@@ -70,7 +70,7 @@
       <i c="636" l="1697795127824" />
     </e>
     <e n="CollapseAllRegions">
-      <i c="160" l="1698226676161" />
+      <i c="162" l="1698227200135" />
     </e>
     <e n="CollapseRegion">
       <i c="41" l="1698226676155" />
@@ -94,7 +94,7 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5737" l="1698227119733" />
+      <i c="5746" l="1698227815051" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1334" l="1698227014533" />
@@ -115,19 +115,19 @@
       <i c="10" l="1696758590800" />
     </e>
     <e n="EditorCopy">
-      <i c="1519" l="1698227123033" />
+      <i c="1523" l="1698227823372" />
     </e>
     <e n="EditorCut">
       <i c="277" l="1698226738685" />
     </e>
     <e n="EditorDelete">
-      <i c="31" l="1696667252820" />
+      <i c="33" l="1698227793517" />
     </e>
     <e n="EditorDeleteLine">
       <i c="1" l="1698029981122" />
     </e>
     <e n="EditorDown">
-      <i c="2228" l="1698227012669" />
+      <i c="2229" l="1698227777651" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="507" l="1698226903997" />
@@ -136,7 +136,7 @@
       <i c="136" l="1698226902165" />
     </e>
     <e n="EditorEnter">
-      <i c="1905" l="1698227013008" />
+      <i c="1911" l="1698227821999" />
     </e>
     <e n="EditorEscape">
       <i c="277" l="1697787631714" />
@@ -154,13 +154,13 @@
       <i c="644" l="1698226906913" />
     </e>
     <e n="EditorLineEnd">
-      <i c="705" l="1698227115506" />
+      <i c="707" l="1698227779533" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="341" l="1698226906536" />
     </e>
     <e n="EditorLineStart">
-      <i c="454" l="1698226900780" />
+      <i c="455" l="1698227778200" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="292" l="1698227005433" />
@@ -169,10 +169,10 @@
       <i c="836" l="1698141846241" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="600" l="1698227114340" />
+      <i c="601" l="1698227778500" />
     </e>
     <e n="EditorPaste">
-      <i c="1800" l="1698227125317" />
+      <i c="1803" l="1698227821639" />
     </e>
     <e n="EditorPreviousWord">
       <i c="950" l="1698227125630" />
@@ -181,7 +181,7 @@
       <i c="780" l="1698227122777" />
     </e>
     <e n="EditorRight">
-      <i c="1984" l="1698227114109" />
+      <i c="1985" l="1698227779101" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="525" l="1698227125821" />
@@ -202,10 +202,10 @@
       <i c="32" l="1697787882961" />
     </e>
     <e n="EditorUp">
-      <i c="1396" l="1698226908245" />
+      <i c="1397" l="1698227777361" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="159" l="1698029780267" />
+      <i c="161" l="1698227808597" />
     </e>
     <e n="ExpandAllRegions">
       <i c="1" l="1693473903373" />
@@ -553,7 +553,7 @@
       <i c="1" l="1695289459431" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="50" l="1698226519099" />
+      <i c="52" l="1698227752150" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="1" l="1693883517340" />
@@ -607,7 +607,7 @@
       <i c="24" l="1697709678877" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2384" l="1698226937696" />
+      <i c="2386" l="1698227760112" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />

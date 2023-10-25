@@ -386,22 +386,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
-          <value>
-            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – App.svelte" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1698142229174" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721030117" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="36" y="25" width="1404" height="875" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1698138923728" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="pro-chat – Assistant.tsx" projectWorkspaceId="2X0oVx9TLyvBXLdTf8bInOs4kpn">
@@ -418,26 +402,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/arvinxx/react-holographic-card">
-          <value>
-            <RecentProjectMetaInfo frameTitle="react-holographic-card – index.tsx" projectWorkspaceId="2WW62629d21GCtQ3tzxfBj1k66w">
-              <option name="activationTimestamp" value="1698226505773" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721074153" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="104" y="-2346" width="1859" height="1266" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1698226486976" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
             <RecentProjectMetaInfo frameTitle="techui-lab – card.ts" opened="true" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1698227101376" />
+              <option name="activationTimestamp" value="1698227745314" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721074153" />
@@ -450,9 +418,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/arvinxx/react-holographic-card">
+          <value>
+            <RecentProjectMetaInfo frameTitle="react-holographic-card – Card.tsx" projectWorkspaceId="2WW62629d21GCtQ3tzxfBj1k66w">
+              <option name="activationTimestamp" value="1698227748125" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721074153" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-233" y="-1018" width="1877" height="1039" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1698227165613" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pokemon-cards-css – App.svelte" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
+              <option name="activationTimestamp" value="1698142229174" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721074153" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="36" y="25" width="1404" height="875" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1698227754498" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/TechUI/techui-lab" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/pokemon-cards-css" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
