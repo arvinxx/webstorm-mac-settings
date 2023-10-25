@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="3708" height="798" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="3708" height="798" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="3708" height="798" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="3708" height="798" />
+  </component>
+  <component name="WindowManager">
+    <frame x="104" y="-2346" width="1859" height="1266" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="329" y="196" key="MultipleFileMergeDialog" timestamp="1698216146354">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="329" y="196" key="MultipleFileMergeDialog/0.25.1440.875" timestamp="1698216146354" />
+    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698211859773">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="355" height="128" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1697785977435" />
+    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698211859773" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1698226453285">
+      <screen x="-256" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1698212093986" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698226453285" />
+  </component>
+</application>
