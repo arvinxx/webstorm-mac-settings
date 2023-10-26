@@ -8,6 +8,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "ColorChooser.RecentColors": "1-28-47-255",
     "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6018412",
     "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.70657897",
     "FindSplitterProportion": "0.37209302",
@@ -26,6 +27,7 @@
     "VitestJavaScriptTestRunnerSupport.selectFirtsDefect": "true",
     "appcds.runOnSecondStart": "WS-232.9559.58-b7614fd900c3f4aae42386dbc4da2228406500cafa58f6d5b9cacc6d585c30cb",
     "bundled.plugins.list.saved.version": "WS-232.9559.58",
+    "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
     "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
     "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "evlsprt3.232": "25",
