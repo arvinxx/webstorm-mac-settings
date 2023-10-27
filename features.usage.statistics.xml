@@ -69,7 +69,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695465571391" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="830" last-shown="0" last-used="1698375136672" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="831" last-shown="0" last-used="1698375323728" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="7" last-shown="0" last-used="1698313455892" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -98,7 +98,7 @@
     <feature id="navigation.replace.in.files" count="13" last-shown="0" last-used="1697786903876" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.quickjavadoc" count="38" last-shown="0" last-used="1698374617905" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="40" last-shown="0" last-used="1698375316105" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.move.statement.up.down" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
