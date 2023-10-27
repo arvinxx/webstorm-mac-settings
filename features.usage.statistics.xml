@@ -76,7 +76,7 @@
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="131" last-shown="0" last-used="1698414919854" shown-count="0" />
+    <feature id="codeassists.context.actions" count="132" last-shown="0" last-used="1698415126510" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="8" last-shown="0" last-used="1698308272974" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -104,14 +104,14 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="9167" />
-      <option name="invocations" value="1415" />
+      <option name="sparedCharacters" value="9185" />
+      <option name="invocations" value="1416" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="37" />
       <option name="lastDate" value="1698336000000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="132" />
+      <option name="invocations" value="133" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="28" />
       <option name="lastDate" value="1698336000000" />

@@ -55,7 +55,7 @@
       <i c="30" l="1698399696383" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
-      <i c="15" l="1698414285601" />
+      <i c="16" l="1698415166342" />
     </e>
     <e n="ChangesView.UnshelveSilently">
       <i c="1" l="1695372336910" />
@@ -94,7 +94,7 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6498" l="1698414971342" />
+      <i c="6505" l="1698415138904" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1503" l="1698414961249" />
@@ -130,7 +130,7 @@
       <i c="2644" l="1698414895414" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="655" l="1698414223284" />
+      <i c="656" l="1698415122716" />
     </e>
     <e n="EditorDuplicate">
       <i c="180" l="1698414948789" />
@@ -148,7 +148,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="2370" l="1698414949728" />
+      <i c="2374" l="1698415136924" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="752" l="1698414692499" />
@@ -169,7 +169,7 @@
       <i c="1002" l="1698414039772" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="662" l="1698414221867" />
+      <i c="663" l="1698415121645" />
     </e>
     <e n="EditorPaste">
       <i c="2018" l="1698414916926" />
@@ -181,7 +181,7 @@
       <i c="882" l="1698414916321" />
     </e>
     <e n="EditorRight">
-      <i c="2245" l="1698414928389" />
+      <i c="2248" l="1698415137703" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="620" l="1698414124533" />
@@ -238,7 +238,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="118" l="1698414290998" />
+      <i c="120" l="1698415169245" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="3" l="1697786962251" />
@@ -301,7 +301,7 @@
       <i c="28" l="1698411085405" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="130" l="1698414220228" />
+      <i c="131" l="1698415120033" />
     </e>
     <e n="GotoDeclaration">
       <i c="890" l="1698414924699" />
@@ -388,7 +388,7 @@
       <i c="10" l="1697091822863" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="3289" l="1698414971392" />
+      <i c="3290" l="1698415043607" />
     </e>
     <e n="RenameElement">
       <i c="181" l="1698414858682" />
@@ -421,7 +421,7 @@
       <i c="473" l="1698413694974" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="123" l="1698414919846" />
+      <i c="124" l="1698415126507" />
     </e>
     <e n="ShowNpmScripts">
       <i c="1" l="1697180990490" />
@@ -577,7 +577,7 @@
       <i c="6" l="1696001384100" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="52" l="1698414264209" />
+      <i c="53" l="1698415153877" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="4" l="1696648302935" />
@@ -610,7 +610,7 @@
       <i c="26" l="1698399624195" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2448" l="1698414913960" />
+      <i c="2454" l="1698415164987" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
