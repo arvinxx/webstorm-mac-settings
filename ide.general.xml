@@ -16,6 +16,7 @@
     <entry key="ide.animate.toolwindows" value="true" />
     <entry key="editor.focus.mode.color.light" value="6b727d" />
     <entry key="editor.focus.mode.color.dark" value="6b727d" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
