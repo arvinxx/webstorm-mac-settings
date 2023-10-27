@@ -16,7 +16,7 @@
       <i c="139" l="1698307204064" />
     </e>
     <e n="$Undo">
-      <i c="1542" l="1698395873789" />
+      <i c="1545" l="1698399701648" />
     </e>
     <e n="Annotate">
       <i c="9" l="1698300508527" />
@@ -52,7 +52,7 @@
       <i c="1" l="1697608405822" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="29" l="1698226934261" />
+      <i c="30" l="1698399696383" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
       <i c="14" l="1698031839628" />
@@ -79,7 +79,7 @@
       <i c="8" l="1698393641173" />
     </e>
     <e n="CommentByLineComment">
-      <i c="366" l="1698395783187" />
+      <i c="369" l="1698399748444" />
     </e>
     <e n="CopyReferencePopupGroup">
       <i c="1" l="1696757409823" />
@@ -94,10 +94,10 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6359" l="1698395709803" />
+      <i c="6364" l="1698399580600" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1464" l="1698395521373" />
+      <i c="1465" l="1698399583612" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="431" l="1698395899333" />
@@ -118,7 +118,7 @@
       <i c="1678" l="1698395723255" />
     </e>
     <e n="EditorCut">
-      <i c="308" l="1698395504849" />
+      <i c="309" l="1698399630766" />
     </e>
     <e n="EditorDelete">
       <i c="33" l="1698227793517" />
@@ -136,10 +136,10 @@
       <i c="174" l="1698395778493" />
     </e>
     <e n="EditorEnter">
-      <i c="2135" l="1698395555519" />
+      <i c="2137" l="1698399626297" />
     </e>
     <e n="EditorEscape">
-      <i c="340" l="1698395228334" />
+      <i c="341" l="1698399575133" />
     </e>
     <e n="EditorHungryBackSpace">
       <i c="1" l="1697179113886" />
@@ -148,13 +148,13 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="2290" l="1698395779573" />
+      <i c="2291" l="1698399572972" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="719" l="1698395504416" />
     </e>
     <e n="EditorLineEnd">
-      <i c="792" l="1698395551573" />
+      <i c="794" l="1698399554342" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="391" l="1698395504177" />
@@ -163,7 +163,7 @@
       <i c="502" l="1698394718690" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="326" l="1698394644696" />
+      <i c="328" l="1698399630429" />
     </e>
     <e n="EditorNextWord">
       <i c="955" l="1698395865642" />
@@ -205,7 +205,7 @@
       <i c="1643" l="1698395494287" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="203" l="1698392708289" />
+      <i c="204" l="1698399554897" />
     </e>
     <e n="ExpandAllRegions">
       <i c="5" l="1698392726303" />
@@ -370,7 +370,7 @@
       <i c="77" l="1698393554873" />
     </e>
     <e n="NextWindow">
-      <i c="30" l="1698395874276" />
+      <i c="37" l="1698399592516" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1696835748054" />
@@ -388,7 +388,7 @@
       <i c="10" l="1697091822863" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="3228" l="1698395780438" />
+      <i c="3231" l="1698399586795" />
     </e>
     <e n="RenameElement">
       <i c="180" l="1698393553769" />
@@ -412,7 +412,7 @@
       <i c="1" l="1696647966897" />
     </e>
     <e n="SaveAll">
-      <i c="1255" l="1698395899758" />
+      <i c="1261" l="1698399749428" />
     </e>
     <e n="SearchEverywhere">
       <i c="16" l="1697608863871" />
@@ -589,10 +589,10 @@
       <i c="6" l="1698311416526" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="895" l="1698392129862" />
+      <i c="899" l="1698399695316" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="134" l="1698386569824" />
+      <i c="137" l="1698399692738" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="8" l="1697775420683" />
@@ -607,10 +607,10 @@
       <i c="1" l="1695652101198" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="24" l="1697709678877" />
+      <i c="26" l="1698399624195" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2427" l="1698392886897" />
+      <i c="2428" l="1698399639386" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />

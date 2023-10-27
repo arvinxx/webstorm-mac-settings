@@ -405,7 +405,7 @@
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
             <RecentProjectMetaInfo frameTitle="techui-lab – card.ts" opened="true" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1698395890288" />
+              <option name="activationTimestamp" value="1698399602747" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721074153" />
@@ -437,7 +437,7 @@
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
             <RecentProjectMetaInfo frameTitle="pokemon-cards-css – App.svelte" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1698395853810" />
+              <option name="activationTimestamp" value="1698399747718" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721074153" />
@@ -452,7 +452,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/TechUI/techui-lab" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/pokemon-cards-css" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
