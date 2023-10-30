@@ -421,7 +421,7 @@
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
             <RecentProjectMetaInfo frameTitle="techui-lab – Card.tsx" opened="true" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1698635596535" />
+              <option name="activationTimestamp" value="1698642028123" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721071640" />
@@ -450,9 +450,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/app">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2XT96gdSicwoFcBUswgWcmHZyQ0">
+              <option name="activationTimestamp" value="1698642655061" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721071640" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1698642029704" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/TechUI/techui-lab" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Downloads/app" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
