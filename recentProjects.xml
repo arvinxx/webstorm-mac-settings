@@ -421,7 +421,7 @@
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab">
           <value>
             <RecentProjectMetaInfo frameTitle="techui-lab – Card.tsx" opened="true" projectWorkspaceId="2GwYMzFcgN3KIHeqZujoQzZ7aMr">
-              <option name="activationTimestamp" value="1698642028123" />
+              <option name="activationTimestamp" value="1698645570036" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721071640" />
@@ -437,7 +437,7 @@
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css">
           <value>
             <RecentProjectMetaInfo frameTitle="pokemon-cards-css – Card.svelte" opened="true" projectWorkspaceId="2VKMKDTEnLqOLeNidyrR0kODK3e">
-              <option name="activationTimestamp" value="1698632634034" />
+              <option name="activationTimestamp" value="1698645773598" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721071640" />
@@ -453,7 +453,7 @@
         <entry key="$USER_HOME$/Downloads/app">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2XT96gdSicwoFcBUswgWcmHZyQ0">
-              <option name="activationTimestamp" value="1698643993045" />
+              <option name="activationTimestamp" value="1698645575165" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721071640" />
@@ -467,7 +467,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Downloads/app" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/pokemon-cards-css" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
