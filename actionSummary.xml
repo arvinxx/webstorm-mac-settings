@@ -94,7 +94,7 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6510" l="1698632503827" />
+      <i c="6517" l="1698632790274" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1503" l="1698414961249" />
@@ -115,7 +115,7 @@
       <i c="10" l="1696758590800" />
     </e>
     <e n="EditorCopy">
-      <i c="1717" l="1698632519333" />
+      <i c="1718" l="1698632751366" />
     </e>
     <e n="EditorCut">
       <i c="317" l="1698414542739" />
@@ -130,7 +130,7 @@
       <i c="2646" l="1698632637345" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="656" l="1698415122716" />
+      <i c="657" l="1698632657527" />
     </e>
     <e n="EditorDuplicate">
       <i c="181" l="1698632500643" />
@@ -148,7 +148,7 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="2374" l="1698415136924" />
+      <i c="2375" l="1698632656337" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="752" l="1698414692499" />
@@ -169,7 +169,7 @@
       <i c="1005" l="1698632506294" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="663" l="1698415121645" />
+      <i c="664" l="1698632656583" />
     </e>
     <e n="EditorPaste">
       <i c="2021" l="1698632519977" />
@@ -178,10 +178,10 @@
       <i c="1161" l="1698414228470" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="882" l="1698414916321" />
+      <i c="883" l="1698632659946" />
     </e>
     <e n="EditorRight">
-      <i c="2253" l="1698632480853" />
+      <i c="2255" l="1698632657330" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="622" l="1698632481109" />
@@ -238,7 +238,7 @@
       <i c="1" l="1696835754473" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="120" l="1698415169245" />
+      <i c="121" l="1698632671252" />
     </e>
     <e n="Git.Configure.Remotes">
       <i c="3" l="1697786962251" />
@@ -250,7 +250,7 @@
       <i c="2" l="1695483570025" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="146" l="1698221250068" />
+      <i c="147" l="1698632799834" />
     </e>
     <e n="Git.Merge.Abort">
       <i c="1" l="1693888659951" />
@@ -274,7 +274,7 @@
       <i c="19" l="1697611270489" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="62" l="1698411091726" />
+      <i c="63" l="1698632792782" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="13" l="1697118670628" />
@@ -289,7 +289,7 @@
       <i c="14" l="1697784280118" />
     </e>
     <e n="GitRebaseBranchAction">
-      <i c="3" l="1696903609067" />
+      <i c="4" l="1698632746488" />
     </e>
     <e n="GitRenameBranchAction">
       <i c="3" l="1695739257420" />
@@ -301,7 +301,7 @@
       <i c="28" l="1698411085405" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="131" l="1698415120033" />
+      <i c="132" l="1698632655549" />
     </e>
     <e n="GotoDeclaration">
       <i c="891" l="1698632256250" />
@@ -421,7 +421,7 @@
       <i c="473" l="1698413694974" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="124" l="1698415126507" />
+      <i c="125" l="1698632668376" />
     </e>
     <e n="ShowNpmScripts">
       <i c="1" l="1697180990490" />
@@ -463,7 +463,7 @@
       <i c="1" l="1696660228792" />
     </e>
     <e n="Vcs.CherryPick">
-      <i c="5" l="1696666313066" />
+      <i c="6" l="1698632803425" />
     </e>
     <e n="Vcs.GetVersion">
       <i c="1" l="1693885208921" />
@@ -472,7 +472,7 @@
       <i c="1" l="1695820398178" />
     </e>
     <e n="Vcs.Push">
-      <i c="78" l="1697787338687" />
+      <i c="79" l="1698632804838" />
     </e>
     <e n="Vcs.Push.Force">
       <i c="14" l="1697611299294" />
@@ -490,7 +490,7 @@
       <i c="1" l="1694768849674" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="64" l="1698631428838" />
+      <i c="65" l="1698635596635" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="4" l="1697775375623" />
@@ -610,7 +610,7 @@
       <i c="26" l="1698399624195" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2467" l="1698632572431" />
+      <i c="2469" l="1698632795375" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
@@ -706,7 +706,7 @@
       <i c="12" l="1697777322843" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
-      <i c="30" l="1698410878804" />
+      <i c="32" l="1698632787336" />
     </e>
     <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$DeleteBranchAction">
       <i c="1" l="1697118616143" />
