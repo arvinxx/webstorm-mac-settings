@@ -1,18 +1,20 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="758" y="-1670" />
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="1788" height="892" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="1788" height="892" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="1788" height="892" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="1788" height="892" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="1050" y="378" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="3708" height="802" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="3708" height="802" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="3708" height="802" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="3708" height="802" />
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="1072" />
     <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="1070" />
     <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="1070" />
     <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2748" height="1070" />
     <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2748" height="1070" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="996" />
   </component>
   <component name="WindowManager">
-    <frame x="260" y="-1055" width="1404" height="1055" />
+    <frame x="-598" y="-2346" width="2276" height="1102" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="329" y="196" key="MultipleFileMergeDialog" timestamp="1698631415571">
