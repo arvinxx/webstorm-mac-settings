@@ -436,8 +436,8 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-editor – data.test.ts" opened="true" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
-              <option name="activationTimestamp" value="1698745485780" />
+            <RecentProjectMetaInfo frameTitle="pro-editor – data.test.ts" projectWorkspaceId="1zfswpzTG9Ld3qkeL6eI3Fghb5m">
+              <option name="activationTimestamp" value="1698976957833" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721071640" />
@@ -452,7 +452,7 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-flow">
           <value>
-            <RecentProjectMetaInfo frameTitle="pro-flow – index.md" opened="true" projectWorkspaceId="2QB9ZyyToiHdHAvviUa6RwbHG1a">
+            <RecentProjectMetaInfo frameTitle="pro-flow – generalActionSlice.ts" projectWorkspaceId="2QB9ZyyToiHdHAvviUa6RwbHG1a">
               <option name="activationTimestamp" value="1698815026340" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
@@ -460,7 +460,7 @@
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="-598" y="-2346" width="2276" height="1102" extendedState="6" />
+              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1698745487646" />
             </RecentProjectMetaInfo>
@@ -468,7 +468,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/pro-flow" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/TechUI/pro-editor" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
