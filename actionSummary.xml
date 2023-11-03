@@ -16,7 +16,7 @@
       <i c="142" l="1698644847024" />
     </e>
     <e n="$Undo">
-      <i c="1601" l="1698985813242" />
+      <i c="1605" l="1698987507669" />
     </e>
     <e n="Annotate">
       <i c="9" l="1698300508527" />
@@ -67,7 +67,7 @@
       <i c="1" l="1695472754847" />
     </e>
     <e n="CodeCompletion">
-      <i c="728" l="1698986214764" />
+      <i c="729" l="1698986973663" />
     </e>
     <e n="CollapseAllRegions">
       <i c="208" l="1698745589017" />
@@ -79,7 +79,7 @@
       <i c="9" l="1698413509517" />
     </e>
     <e n="CommentByLineComment">
-      <i c="406" l="1698986206000" />
+      <i c="407" l="1698987453653" />
     </e>
     <e n="CopyContentRootPath">
       <i c="1" l="1698657377464" />
@@ -100,7 +100,7 @@
       <i c="16" l="1697775778543" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6628" l="1698986500077" />
+      <i c="6634" l="1698987548962" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1514" l="1698986215952" />
@@ -133,7 +133,7 @@
       <i c="1" l="1698029981122" />
     </e>
     <e n="EditorDown">
-      <i c="2655" l="1698986006386" />
+      <i c="2656" l="1698987452447" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="660" l="1698745714584" />
@@ -154,31 +154,31 @@
       <i c="1" l="1693474374887" />
     </e>
     <e n="EditorLeft">
-      <i c="2397" l="1698986214547" />
+      <i c="2399" l="1698986978124" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="765" l="1698986278205" />
+      <i c="767" l="1698987440596" />
     </e>
     <e n="EditorLineEnd">
       <i c="837" l="1698986150133" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="407" l="1698986277633" />
+      <i c="408" l="1698987440204" />
     </e>
     <e n="EditorLineStart">
-      <i c="524" l="1698984486042" />
+      <i c="525" l="1698986972142" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="355" l="1698986146342" />
     </e>
     <e n="EditorNextWord">
-      <i c="1012" l="1698985911282" />
+      <i c="1019" l="1698986973393" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="676" l="1698985911637" />
     </e>
     <e n="EditorPaste">
-      <i c="2041" l="1698986212770" />
+      <i c="2042" l="1698986970570" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1171" l="1698985910953" />
@@ -187,13 +187,13 @@
       <i c="894" l="1698984489994" />
     </e>
     <e n="EditorRight">
-      <i c="2282" l="1698986402864" />
+      <i c="2284" l="1698986977176" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="623" l="1698652925989" />
     </e>
     <e n="EditorSelectWord">
-      <i c="734" l="1698986799448" />
+      <i c="735" l="1698986970146" />
     </e>
     <e n="EditorSplitLine">
       <i c="3" l="1698373249856" />
@@ -310,7 +310,7 @@
       <i c="134" l="1698745710608" />
     </e>
     <e n="GotoDeclaration">
-      <i c="916" l="1698986126522" />
+      <i c="918" l="1698987355054" />
     </e>
     <e n="GotoNextError">
       <i c="1" l="1697614072373" />
@@ -394,7 +394,7 @@
       <i c="12" l="1698644942405" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="3316" l="1698986217016" />
+      <i c="3317" l="1698987216499" />
     </e>
     <e n="RenameElement">
       <i c="188" l="1698986402299" />
@@ -406,7 +406,7 @@
       <i c="13" l="1697786903684" />
     </e>
     <e n="Rerun">
-      <i c="166" l="1698986375659" />
+      <i c="169" l="1698987377729" />
     </e>
     <e n="Resume">
       <i c="2" l="1697185670540" />
@@ -418,7 +418,7 @@
       <i c="1" l="1696647966897" />
     </e>
     <e n="SaveAll">
-      <i c="1353" l="1698986285232" />
+      <i c="1359" l="1698987550203" />
     </e>
     <e n="SearchEverywhere">
       <i c="16" l="1697608863871" />
@@ -616,7 +616,7 @@
       <i c="28" l="1698986013318" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2541" l="1698986511207" />
+      <i c="2546" l="1698987218638" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1694747488914" />
@@ -625,7 +625,7 @@
       <i c="1" l="1698300738162" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
-      <i c="134" l="1698986020415" />
+      <i c="135" l="1698987229611" />
     </e>
     <e n="com.intellij.terminal.actions.TerminalActionWrapper">
       <i c="8" l="1697608074510" />
