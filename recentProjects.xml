@@ -162,22 +162,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
-          <value>
-            <RecentProjectMetaInfo frameTitle="antd-style – fix-switch-theme-fouc.md" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
-              <option name="activationTimestamp" value="1695740574907" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721038855" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="20" y="45" width="1400" height="835" extendedState="6" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1695739816909" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/lenis/website">
           <value>
             <RecentProjectMetaInfo frameTitle="website – home/index.js" projectWorkspaceId="2VNMAdxxIaYulmdrN6hu9lr2Tkv">
@@ -453,7 +437,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – client.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1698980383970" />
+              <option name="activationTimestamp" value="1698982067769" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721060515" />
@@ -466,9 +450,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
+          <value>
+            <RecentProjectMetaInfo frameTitle="antd-style – fix-switch-theme-fouc.md" opened="true" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
+              <option name="activationTimestamp" value="1698982099101" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721060515" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="20" y="45" width="1400" height="835" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1698982069322" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/ant-design/antd-style" />
     <option name="lastProjectLocation" value="$USER_HOME$/CodeProjects" />
   </component>
 </application>
