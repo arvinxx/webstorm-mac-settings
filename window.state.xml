@@ -2,10 +2,10 @@
   <component name="DimensionService">
     <location key="find.popup.-512.-2160.3840.2160@192dpi" x="758" y="-1670" />
     <location key="find.popup.0.0.2880.1800@192dpi" x="1050" y="378" />
-    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="3188" height="852" />
-    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="3188" height="852" />
-    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="3188" height="852" />
-    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="3188" height="852" />
+    <size key="GridCell.Tab.0.left.-512.-2160.3840.2160@192dpi" width="1788" height="562" />
+    <size key="GridCell.Tab.0.center.-512.-2160.3840.2160@192dpi" width="1788" height="562" />
+    <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="1788" height="562" />
+    <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="1788" height="562" />
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="1072" />
     <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="1070" />
     <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="1070" />
@@ -22,11 +22,11 @@
     </state>
     <state x="329" y="196" key="MultipleFileMergeDialog/0.25.1440.875" timestamp="1698216146354" />
     <state x="329" y="196" key="MultipleFileMergeDialog/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698631415571" />
-    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698401394689">
+    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698983576140">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="355" height="128" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1697785977435" />
-    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698401394689" />
+    <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698983576140" />
     <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1698979366204">
       <screen x="-256" y="-1055" width="1920" height="1055" />
     </state>
