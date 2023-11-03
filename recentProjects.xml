@@ -436,15 +436,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – client.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1698987542817" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – next.config.mjs" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1698987598866" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721060515" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="-256" y="-1055" width="960" height="1055" />
+              <frame x="0" y="0" width="1440" height="875" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1698979372607" />
             </RecentProjectMetaInfo>
