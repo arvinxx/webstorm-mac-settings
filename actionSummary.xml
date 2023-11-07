@@ -91,10 +91,10 @@
       <i c="2" l="1699323867080" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="1" l="1699334756796" />
+      <i c="2" l="1699334848578" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="2" l="1699334747549" />
+      <i c="3" l="1699334821063" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="1" l="1699323758790" />
@@ -127,7 +127,13 @@
       <i c="1" l="1699323502148" />
     </e>
     <e n="Vcs.Push">
-      <i c="1" l="1699324103778" />
+      <i c="2" l="1699334833926" />
+    </e>
+    <e n="Vcs.Push.Force">
+      <i c="1" l="1699334836606" />
+    </e>
+    <e n="WebStormMigrationGuide">
+      <i c="1" l="1699334861296" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
       <i c="1" l="1699324028738" />
@@ -136,13 +142,19 @@
       <i c="2" l="1699323838801" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="6" l="1699334779536" />
+      <i c="7" l="1699334789319" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1699323878458" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="18" l="1699334741008" />
+      <i c="19" l="1699334852575" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
+      <i c="1" l="1699334843875" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$RebaseAction">
+      <i c="1" l="1699334829678" />
     </e>
   </component>
 </application>
