@@ -1,0 +1,139 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="1" l="1699323369896" />
+    </e>
+    <e n="$Undo">
+      <i c="6" l="1699323915236" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="2" l="1699323102038" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="4" l="1699324020637" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1699323795951" />
+    </e>
+    <e n="EditSource">
+      <i c="1" l="1699323860807" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="26" l="1699324024758" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1699323924809" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="3" l="1699323463518" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1699323977734" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1699323368268" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="8" l="1699323806888" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="7" l="1699323462015" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1699323795756" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1699323907705" />
+    </e>
+    <e n="EditorLeft">
+      <i c="9" l="1699323923311" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1699323501912" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1699323816591" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="2" l="1699323796971" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="11" l="1699323814219" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="3" l="1699324013953" />
+    </e>
+    <e n="EditorPaste">
+      <i c="8" l="1699323873906" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="6" l="1699323813812" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1699323656984" />
+    </e>
+    <e n="EditorRight">
+      <i c="12" l="1699324024481" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1699324023390" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="8" l="1699323496066" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1699323501163" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1699323733044" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="2" l="1699323867080" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1699322803774" />
+    </e>
+    <e n="GitCheckoutAsNewBranch">
+      <i c="1" l="1699323758790" />
+    </e>
+    <e n="GitDeleteBranchAction">
+      <i c="1" l="1699323755463" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="1" l="1699322696337" />
+    </e>
+    <e n="Gitmoji.GitCommitAction">
+      <i c="1" l="1699323804814" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="10" l="1699323974203" />
+    </e>
+    <e n="Javascript.Linters.EsLint.Fix">
+      <i c="4" l="1699323546303" />
+    </e>
+    <e n="ReformatWithPrettierAction">
+      <i c="15" l="1699324026136" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1699324027300" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1699323872541" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="1" l="1699323502148" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1699323838801" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1699323859826" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1699323878458" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="17" l="1699323951887" />
+    </e>
+  </component>
+</application>
