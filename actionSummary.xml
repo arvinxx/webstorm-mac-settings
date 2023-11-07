@@ -90,17 +90,20 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="2" l="1699323867080" />
     </e>
+    <e n="Git.Log.Branches.Change.Branch.Filter">
+      <i c="1" l="1699334756796" />
+    </e>
     <e n="GitCheckoutAction">
-      <i c="1" l="1699322803774" />
+      <i c="2" l="1699334747549" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="1" l="1699323758790" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="1" l="1699323755463" />
+      <i c="2" l="1699334753494" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="1" l="1699322696337" />
+      <i c="2" l="1699334739459" />
     </e>
     <e n="Gitmoji.GitCommitAction">
       <i c="1" l="1699323804814" />
@@ -133,13 +136,13 @@
       <i c="2" l="1699323838801" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="5" l="1699323859826" />
+      <i c="6" l="1699334779536" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1699323878458" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="17" l="1699323951887" />
+      <i c="18" l="1699334741008" />
     </e>
   </component>
 </application>
