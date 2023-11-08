@@ -10,7 +10,7 @@
       <i c="4" l="1699414648069" />
     </e>
     <e n="$Undo">
-      <i c="33" l="1699423972978" />
+      <i c="34" l="1699437609003" />
     </e>
     <e n="Annotate">
       <i c="1" l="1699409644915" />
@@ -25,7 +25,7 @@
       <i c="2" l="1699410751975" />
     </e>
     <e n="CodeCompletion">
-      <i c="11" l="1699418752216" />
+      <i c="12" l="1699437447201" />
     </e>
     <e n="CollapseAllRegions">
       <i c="2" l="1699423759155" />
@@ -43,7 +43,7 @@
       <i c="238" l="1699423927408" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="12" l="1699418754109" />
+      <i c="15" l="1699437557646" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="5" l="1699418751200" />
@@ -52,7 +52,7 @@
       <i c="3" l="1699417085225" />
     </e>
     <e n="EditorCopy">
-      <i c="59" l="1699418641372" />
+      <i c="65" l="1699437593893" />
     </e>
     <e n="EditorCut">
       <i c="15" l="1699417512474" />
@@ -100,7 +100,7 @@
       <i c="35" l="1699418822865" />
     </e>
     <e n="EditorPaste">
-      <i c="107" l="1699423932928" />
+      <i c="111" l="1699437597566" />
     </e>
     <e n="EditorPreviousWord">
       <i c="66" l="1699418913144" />
@@ -115,7 +115,7 @@
       <i c="26" l="1699418791132" />
     </e>
     <e n="EditorSelectWord">
-      <i c="12" l="1699417400582" />
+      <i c="14" l="1699437517968" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699417335358" />
@@ -128,6 +128,9 @@
     </e>
     <e n="EditorUpWithSelection">
       <i c="14" l="1699417387388" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1699437518442" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1699323733044" />
@@ -160,10 +163,10 @@
       <i c="9" l="1699418821226" />
     </e>
     <e n="GotoDeclaration">
-      <i c="22" l="1699414262175" />
+      <i c="24" l="1699437529743" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="6" l="1699418754976" />
+      <i c="7" l="1699437610975" />
     </e>
     <e n="Markdown.Layout.EditorAndPreview">
       <i c="2" l="1699417417689" />
@@ -184,10 +187,10 @@
       <i c="1" l="1699423967428" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="54" l="1699423762535" />
+      <i c="61" l="1699437614327" />
     </e>
     <e n="SaveAll">
-      <i c="22" l="1699418815381" />
+      <i c="23" l="1699437617367" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1699323872541" />
@@ -205,10 +208,16 @@
       <i c="1" l="1699334836606" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="4" l="1699423699175" />
+      <i c="5" l="1699437382883" />
     </e>
     <e n="WebStormMigrationGuide">
       <i c="1" l="1699334861296" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="3" l="1699437352911" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1699437522810" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
       <i c="1" l="1699324028738" />
@@ -229,7 +238,7 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="60" l="1699437136267" />
+      <i c="64" l="1699437525067" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="1" l="1699416861844" />
