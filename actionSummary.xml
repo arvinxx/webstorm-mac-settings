@@ -1,13 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Redo">
-      <i c="1" l="1699323369896" />
+      <i c="6" l="1699417193746" />
     </e>
     <e n="$SelectAll">
-      <i c="2" l="1699414580876" />
+      <i c="4" l="1699414648069" />
     </e>
     <e n="$Undo">
-      <i c="18" l="1699414583056" />
+      <i c="31" l="1699417192419" />
     </e>
     <e n="Annotate">
       <i c="1" l="1699409644915" />
@@ -25,13 +25,13 @@
       <i c="7" l="1699414196932" />
     </e>
     <e n="CommentByLineComment">
-      <i c="8" l="1699414237926" />
+      <i c="11" l="1699416881843" />
     </e>
     <e n="EditSource">
       <i c="1" l="1699323860807" />
     </e>
     <e n="EditorBackSpace">
-      <i c="156" l="1699414580264" />
+      <i c="200" l="1699417404166" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="10" l="1699414204933" />
@@ -40,79 +40,85 @@
       <i c="4" l="1699408614827" />
     </e>
     <e n="EditorCodeBlockEnd">
-      <i c="1" l="1699410287312" />
+      <i c="3" l="1699417085225" />
     </e>
     <e n="EditorCopy">
-      <i c="29" l="1699414581123" />
+      <i c="56" l="1699417413192" />
     </e>
     <e n="EditorCut">
-      <i c="8" l="1699414581715" />
+      <i c="14" l="1699417402660" />
     </e>
     <e n="EditorDeleteLine">
       <i c="1" l="1699323368268" />
     </e>
     <e n="EditorDown">
-      <i c="34" l="1699414112265" />
+      <i c="42" l="1699417368415" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="18" l="1699410716791" />
+      <i c="19" l="1699417274671" />
     </e>
     <e n="EditorDuplicate">
-      <i c="11" l="1699414112660" />
+      <i c="12" l="1699417121966" />
     </e>
     <e n="EditorEnter">
-      <i c="39" l="1699414277641" />
+      <i c="50" l="1699417343437" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1699323907705" />
     </e>
     <e n="EditorLeft">
-      <i c="24" l="1699410733669" />
+      <i c="58" l="1699417369633" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="17" l="1699414116539" />
+      <i c="19" l="1699417151693" />
     </e>
     <e n="EditorLineEnd">
-      <i c="18" l="1699414138199" />
+      <i c="31" l="1699417341956" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="9" l="1699410614123" />
+      <i c="16" l="1699417282936" />
     </e>
     <e n="EditorLineStart">
-      <i c="16" l="1699414141089" />
+      <i c="26" l="1699417398613" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="6" l="1699410658976" />
+      <i c="9" l="1699417374398" />
     </e>
     <e n="EditorNextWord">
-      <i c="29" l="1699414113934" />
+      <i c="44" l="1699417247294" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="17" l="1699410713970" />
+      <i c="32" l="1699417402274" />
     </e>
     <e n="EditorPaste">
-      <i c="69" l="1699414577396" />
+      <i c="97" l="1699417414970" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="37" l="1699410665043" />
+      <i c="45" l="1699417316075" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="12" l="1699414182040" />
+      <i c="22" l="1699417135705" />
     </e>
     <e n="EditorRight">
-      <i c="37" l="1699410716447" />
+      <i c="82" l="1699417401941" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="16" l="1699414136334" />
+      <i c="22" l="1699417155173" />
     </e>
     <e n="EditorSelectWord">
-      <i c="9" l="1699409691538" />
+      <i c="12" l="1699417400582" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1699417335358" />
+    </e>
+    <e n="EditorUnSelectWord">
+      <i c="1" l="1699417218330" />
     </e>
     <e n="EditorUp">
-      <i c="44" l="1699414142999" />
+      <i c="52" l="1699417152141" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="3" l="1699410582869" />
+      <i c="14" l="1699417387388" />
     </e>
     <e n="FindUsages">
       <i c="1" l="1699323733044" />
@@ -147,6 +153,9 @@
     <e n="Javascript.Linters.EsLint.Fix">
       <i c="5" l="1699414207777" />
     </e>
+    <e n="Markdown.Layout.EditorAndPreview">
+      <i c="1" l="1699417198021" />
+    </e>
     <e n="MoveLineDown">
       <i c="30" l="1699410616527" />
     </e>
@@ -154,16 +163,16 @@
       <i c="3" l="1699414113313" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="39" l="1699414577964" />
+      <i c="50" l="1699417380668" />
     </e>
     <e n="SaveAll">
-      <i c="8" l="1699414280661" />
+      <i c="16" l="1699417415739" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1699323872541" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="2" l="1699409800112" />
+      <i c="3" l="1699417414689" />
     </e>
     <e n="ShowIntentionActions">
       <i c="1" l="1699408657702" />
@@ -187,16 +196,22 @@
       <i c="3" l="1699408687255" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="13" l="1699414264155" />
+      <i c="14" l="1699417064391" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1699323878458" />
     </e>
+    <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
+      <i c="1" l="1699414652355" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="34" l="1699414571492" />
+      <i c="41" l="1699417052213" />
+    </e>
+    <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
+      <i c="1" l="1699416861844" />
     </e>
     <e n="copilot.applyInlays">
-      <i c="8" l="1699414258843" />
+      <i c="9" l="1699416958537" />
     </e>
     <e n="copilot.disposeInlays">
       <i c="1" l="1699409827488" />
