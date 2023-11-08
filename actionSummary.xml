@@ -7,16 +7,16 @@
       <i c="4" l="1699414648069" />
     </e>
     <e n="$Undo">
-      <i c="31" l="1699417192419" />
+      <i c="33" l="1699423972978" />
     </e>
     <e n="Annotate">
       <i c="1" l="1699409644915" />
     </e>
     <e n="ChangesView.AddUnversioned">
-      <i c="1" l="1699409659515" />
+      <i c="2" l="1699424463023" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="3" l="1699417646589" />
+      <i c="4" l="1699424466480" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
       <i c="2" l="1699410751975" />
@@ -37,7 +37,7 @@
       <i c="1" l="1699323860807" />
     </e>
     <e n="EditorBackSpace">
-      <i c="234" l="1699423729428" />
+      <i c="238" l="1699423927408" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="12" l="1699418754109" />
@@ -73,7 +73,7 @@
       <i c="2" l="1699418713860" />
     </e>
     <e n="EditorLeft">
-      <i c="71" l="1699418823596" />
+      <i c="72" l="1699423959309" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="19" l="1699417151693" />
@@ -91,19 +91,19 @@
       <i c="9" l="1699417374398" />
     </e>
     <e n="EditorNextWord">
-      <i c="54" l="1699418620095" />
+      <i c="56" l="1699423959656" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="35" l="1699418822865" />
     </e>
     <e n="EditorPaste">
-      <i c="106" l="1699423757673" />
+      <i c="107" l="1699423932928" />
     </e>
     <e n="EditorPreviousWord">
       <i c="66" l="1699418913144" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="23" l="1699418824237" />
+      <i c="24" l="1699423959959" />
     </e>
     <e n="EditorRight">
       <i c="97" l="1699418825181" />
@@ -171,8 +171,14 @@
     <e n="MoveLineUp">
       <i c="3" l="1699414113313" />
     </e>
+    <e n="NewFile">
+      <i c="1" l="1699423923629" />
+    </e>
     <e n="NewTypeScriptFile">
       <i c="1" l="1699423753144" />
+    </e>
+    <e n="NextWindow">
+      <i c="1" l="1699423967428" />
     </e>
     <e n="ReformatWithPrettierAction">
       <i c="54" l="1699423762535" />
@@ -220,7 +226,7 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="56" l="1699423735673" />
+      <i c="58" l="1699424459722" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="1" l="1699416861844" />
