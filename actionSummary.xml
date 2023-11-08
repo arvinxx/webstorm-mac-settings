@@ -9,8 +9,11 @@
     <e n="ChangesView.Revert">
       <i c="2" l="1699323102038" />
     </e>
+    <e n="ChangesView.ShowCommitOptions">
+      <i c="1" l="1699408690357" />
+    </e>
     <e n="CodeCompletion">
-      <i c="4" l="1699324020637" />
+      <i c="5" l="1699408610378" />
     </e>
     <e n="CommentByLineComment">
       <i c="2" l="1699323795951" />
@@ -19,13 +22,13 @@
       <i c="1" l="1699323860807" />
     </e>
     <e n="EditorBackSpace">
-      <i c="26" l="1699324024758" />
+      <i c="30" l="1699408660537" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="4" l="1699323924809" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="3" l="1699323463518" />
+      <i c="4" l="1699408614827" />
     </e>
     <e n="EditorCopy">
       <i c="6" l="1699323977734" />
@@ -33,8 +36,11 @@
     <e n="EditorDeleteLine">
       <i c="1" l="1699323368268" />
     </e>
+    <e n="EditorDown">
+      <i c="3" l="1699408640113" />
+    </e>
     <e n="EditorDownWithSelection">
-      <i c="8" l="1699323806888" />
+      <i c="11" l="1699408622477" />
     </e>
     <e n="EditorDuplicate">
       <i c="7" l="1699323462015" />
@@ -46,13 +52,13 @@
       <i c="1" l="1699323907705" />
     </e>
     <e n="EditorLeft">
-      <i c="9" l="1699323923311" />
+      <i c="13" l="1699408657385" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1699323501912" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1" l="1699323816591" />
+      <i c="4" l="1699408659811" />
     </e>
     <e n="EditorLineStart">
       <i c="2" l="1699323796971" />
@@ -61,19 +67,19 @@
       <i c="11" l="1699323814219" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="3" l="1699324013953" />
+      <i c="8" l="1699408649890" />
     </e>
     <e n="EditorPaste">
       <i c="8" l="1699323873906" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="6" l="1699323813812" />
+      <i c="14" l="1699408649624" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="1" l="1699323656984" />
+      <i c="2" l="1699408641127" />
     </e>
     <e n="EditorRight">
-      <i c="12" l="1699324024481" />
+      <i c="18" l="1699408647196" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1699324023390" />
@@ -88,13 +94,13 @@
       <i c="1" l="1699323733044" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="2" l="1699323867080" />
+      <i c="4" l="1699408693132" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
       <i c="2" l="1699334848578" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="3" l="1699334821063" />
+      <i c="4" l="1699408671877" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="1" l="1699323758790" />
@@ -103,10 +109,10 @@
       <i c="2" l="1699334753494" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="2" l="1699334739459" />
+      <i c="3" l="1699408669128" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="1" l="1699323804814" />
+      <i c="6" l="1699408645635" />
     </e>
     <e n="GotoDeclaration">
       <i c="10" l="1699323974203" />
@@ -118,7 +124,7 @@
       <i c="15" l="1699324026136" />
     </e>
     <e n="SaveAll">
-      <i c="4" l="1699324027300" />
+      <i c="5" l="1699408615830" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1699323872541" />
@@ -126,11 +132,17 @@
     <e n="SelectNextOccurrence">
       <i c="1" l="1699323502148" />
     </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1699408657702" />
+    </e>
     <e n="Vcs.Push">
       <i c="2" l="1699334833926" />
     </e>
     <e n="Vcs.Push.Force">
       <i c="1" l="1699334836606" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1699408598826" />
     </e>
     <e n="WebStormMigrationGuide">
       <i c="1" l="1699334861296" />
@@ -139,16 +151,16 @@
       <i c="1" l="1699324028738" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="2" l="1699323838801" />
+      <i c="3" l="1699408687255" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="7" l="1699334789319" />
+      <i c="8" l="1699408596443" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1699323878458" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="19" l="1699334852575" />
+      <i c="21" l="1699409527507" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
       <i c="1" l="1699334843875" />
