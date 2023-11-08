@@ -24,6 +24,12 @@
     <e n="CodeCompletion">
       <i c="11" l="1699418752216" />
     </e>
+    <e n="CollapseAllRegions">
+      <i c="2" l="1699423759155" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="1" l="1699423759141" />
+    </e>
     <e n="CommentByLineComment">
       <i c="12" l="1699418815188" />
     </e>
@@ -31,7 +37,7 @@
       <i c="1" l="1699323860807" />
     </e>
     <e n="EditorBackSpace">
-      <i c="219" l="1699418803918" />
+      <i c="234" l="1699423729428" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="12" l="1699418754109" />
@@ -55,19 +61,19 @@
       <i c="45" l="1699418750479" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="22" l="1699417497879" />
+      <i c="25" l="1699418825592" />
     </e>
     <e n="EditorDuplicate">
       <i c="12" l="1699417121966" />
     </e>
     <e n="EditorEnter">
-      <i c="53" l="1699418746716" />
+      <i c="54" l="1699423762199" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1699418713860" />
     </e>
     <e n="EditorLeft">
-      <i c="69" l="1699418719437" />
+      <i c="71" l="1699418823596" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="19" l="1699417151693" />
@@ -88,19 +94,19 @@
       <i c="54" l="1699418620095" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="34" l="1699417512101" />
+      <i c="35" l="1699418822865" />
     </e>
     <e n="EditorPaste">
-      <i c="105" l="1699418642636" />
+      <i c="106" l="1699423757673" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="62" l="1699418629497" />
+      <i c="66" l="1699418913144" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="22" l="1699417135705" />
+      <i c="23" l="1699418824237" />
     </e>
     <e n="EditorRight">
-      <i c="95" l="1699418624228" />
+      <i c="97" l="1699418825181" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="26" l="1699418791132" />
@@ -115,7 +121,7 @@
       <i c="1" l="1699417218330" />
     </e>
     <e n="EditorUp">
-      <i c="53" l="1699417507935" />
+      <i c="54" l="1699418823403" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="14" l="1699417387388" />
@@ -124,13 +130,13 @@
       <i c="1" l="1699323733044" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="7" l="1699417543024" />
+      <i c="8" l="1699418890194" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
       <i c="3" l="1699409599931" />
     </e>
     <e n="Git.Reset.In.Log">
-      <i c="1" l="1699409588038" />
+      <i c="2" l="1699423717450" />
     </e>
     <e n="GitCheckoutAction">
       <i c="5" l="1699418658197" />
@@ -148,7 +154,7 @@
       <i c="4" l="1699418654817" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="8" l="1699417495710" />
+      <i c="9" l="1699418821226" />
     </e>
     <e n="GotoDeclaration">
       <i c="22" l="1699414262175" />
@@ -165,8 +171,11 @@
     <e n="MoveLineUp">
       <i c="3" l="1699414113313" />
     </e>
+    <e n="NewTypeScriptFile">
+      <i c="1" l="1699423753144" />
+    </e>
     <e n="ReformatWithPrettierAction">
-      <i c="53" l="1699418754348" />
+      <i c="54" l="1699423762535" />
     </e>
     <e n="SaveAll">
       <i c="22" l="1699418815381" />
@@ -187,7 +196,7 @@
       <i c="1" l="1699334836606" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="3" l="1699417438849" />
+      <i c="4" l="1699423699175" />
     </e>
     <e n="WebStormMigrationGuide">
       <i c="1" l="1699334861296" />
@@ -211,16 +220,22 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="52" l="1699418700821" />
+      <i c="56" l="1699423735673" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="1" l="1699416861844" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1699423755476" />
     </e>
     <e n="copilot.applyInlays">
       <i c="9" l="1699416958537" />
     </e>
     <e n="copilot.disposeInlays">
       <i c="1" l="1699409827488" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$CheckoutAsNewBranch">
+      <i c="1" l="1699423727640" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
       <i c="1" l="1699334843875" />
