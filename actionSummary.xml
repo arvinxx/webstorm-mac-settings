@@ -40,7 +40,7 @@
       <i c="1" l="1699323860807" />
     </e>
     <e n="EditorBackSpace">
-      <i c="247" l="1699506482697" />
+      <i c="252" l="1699506566717" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="19" l="1699506493889" />
@@ -64,7 +64,7 @@
       <i c="46" l="1699506460488" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="25" l="1699418825592" />
+      <i c="28" l="1699506545420" />
     </e>
     <e n="EditorDuplicate">
       <i c="12" l="1699417121966" />
@@ -76,7 +76,7 @@
       <i c="4" l="1699506498609" />
     </e>
     <e n="EditorLeft">
-      <i c="73" l="1699506456407" />
+      <i c="74" l="1699506544091" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="19" l="1699417151693" />
@@ -97,7 +97,7 @@
       <i c="57" l="1699506457490" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="35" l="1699418822865" />
+      <i c="36" l="1699506544299" />
     </e>
     <e n="EditorPaste">
       <i c="113" l="1699506503408" />
@@ -109,7 +109,7 @@
       <i c="26" l="1699506456784" />
     </e>
     <e n="EditorRight">
-      <i c="98" l="1699506457687" />
+      <i c="100" l="1699506545051" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="26" l="1699418791132" />
@@ -136,7 +136,7 @@
       <i c="1" l="1699323733044" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="8" l="1699418890194" />
+      <i c="9" l="1699506568941" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
       <i c="3" l="1699409599931" />
@@ -154,13 +154,13 @@
       <i c="2" l="1699334753494" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="1" l="1699417487899" />
+      <i c="2" l="1699506561456" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
       <i c="4" l="1699418654817" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="9" l="1699418821226" />
+      <i c="10" l="1699506543361" />
     </e>
     <e n="GotoDeclaration">
       <i c="24" l="1699437529743" />
@@ -238,10 +238,10 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="71" l="1699506389268" />
+      <i c="72" l="1699506540804" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
-      <i c="1" l="1699416861844" />
+      <i c="2" l="1699506529418" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="1" l="1699423755476" />
