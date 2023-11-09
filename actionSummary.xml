@@ -139,25 +139,25 @@
       <i c="9" l="1699506568941" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="3" l="1699409599931" />
+      <i c="5" l="1699507707918" />
     </e>
     <e n="Git.Reset.In.Log">
       <i c="2" l="1699423717450" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="6" l="1699506151880" />
+      <i c="7" l="1699507679663" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="1" l="1699323758790" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="2" l="1699334753494" />
+      <i c="6" l="1699507714878" />
     </e>
     <e n="GitNewBranchAction">
       <i c="2" l="1699506561456" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="4" l="1699418654817" />
+      <i c="5" l="1699507676257" />
     </e>
     <e n="Gitmoji.GitCommitAction">
       <i c="10" l="1699506543361" />
@@ -238,7 +238,7 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="72" l="1699506540804" />
+      <i c="74" l="1699507695951" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="2" l="1699506529418" />
