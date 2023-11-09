@@ -19,7 +19,7 @@
       <i c="2" l="1699424463023" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="4" l="1699424466480" />
+      <i c="5" l="1699495270290" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
       <i c="2" l="1699410751975" />
@@ -43,7 +43,7 @@
       <i c="238" l="1699423927408" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="15" l="1699437557646" />
+      <i c="16" l="1699495298121" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="5" l="1699418751200" />
@@ -187,7 +187,7 @@
       <i c="1" l="1699423967428" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="61" l="1699437614327" />
+      <i c="62" l="1699495298520" />
     </e>
     <e n="SaveAll">
       <i c="23" l="1699437617367" />
@@ -220,7 +220,7 @@
       <i c="1" l="1699437522810" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="1" l="1699324028738" />
+      <i c="2" l="1699495315681" />
     </e>
     <e n="com.intellij.lang.typescript.tsconfig.TypeScriptStatusBarWidget$2$2">
       <i c="1" l="1699418706100" />
@@ -229,7 +229,7 @@
       <i c="4" l="1699417566939" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="24" l="1699417645452" />
+      <i c="25" l="1699437619976" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1699323878458" />
@@ -238,7 +238,7 @@
       <i c="1" l="1699414652355" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="64" l="1699437525067" />
+      <i c="65" l="1699437623586" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="1" l="1699416861844" />
