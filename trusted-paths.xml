@@ -4,7 +4,9 @@
       <map>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/TechUI/pro-editor" value="true" />
         <entry key="$USER_HOME$/CodeProjects/TechUI/techui-lab" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-chat" value="true" />
         <entry key="$USER_HOME$/CodeProjects/pokemon-cards-css" value="true" />
       </map>
     </option>
@@ -13,6 +15,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/CodeProjects/LobeHub" />
+        <option value="$USER_HOME$/CodeProjects/TechUI" />
       </list>
     </option>
   </component>
