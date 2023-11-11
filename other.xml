@@ -21,6 +21,7 @@
     "got.it.tooltip.copilot.inlayGotIt": "1",
     "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
     "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.show.diff.in.editor": "1",
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
     "migrated.non.roamable.values.from.general.settings": "true",

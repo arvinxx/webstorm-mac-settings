@@ -7,10 +7,10 @@
     <size key="GridCell.Tab.0.right.-512.-2160.3840.2160@192dpi" width="2796" height="562" />
     <size key="GridCell.Tab.0.bottom.-512.-2160.3840.2160@192dpi" width="2796" height="562" />
     <size key="find.popup.-512.-2160.3840.2160@192dpi" width="1340" height="956" />
-    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="592" />
-    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="592" />
-    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2748" height="592" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2748" height="592" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2748" height="1152" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2748" height="1152" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2748" height="1152" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2748" height="1152" />
     <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="956" />
   </component>
   <component name="WindowManager">
