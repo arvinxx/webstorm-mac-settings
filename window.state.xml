@@ -14,7 +14,7 @@
     <size key="find.popup.0.0.2880.1800@192dpi" width="1340" height="996" />
   </component>
   <component name="WindowManager">
-    <frame x="362" y="-1055" width="1302" height="1055" />
+    <frame x="200" y="-1055" width="1464" height="1055" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="329" y="196" key="MultipleFileMergeDialog" timestamp="1698631415571">
@@ -27,10 +27,10 @@
     </state>
     <state width="355" height="128" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875" timestamp="1697785977435" />
     <state width="489" height="100" key="ShowUsagesActions.dimensionServiceKey/0.25.1440.875/-256.-1055.1920.1055" timestamp="1698983576140" />
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1699596572262">
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN" timestamp="1699610837328">
       <screen x="-256" y="-1055" width="1920" height="1055" />
     </state>
     <state x="720" y="425" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1698410787848" />
-    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1699596572262" />
+    <state x="704" y="-595" width="800" height="650" key="WELCOME_SCREEN/0.25.1440.875/-256.-1055.1920.1055" timestamp="1699610837328" />
   </component>
 </application>

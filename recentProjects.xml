@@ -84,15 +84,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – FileUpload.tsx" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1699610636462" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – Lightbox.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1699610832026" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721047185" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="362" y="-1055" width="1302" height="1055" />
+              <frame x="200" y="-1055" width="1464" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1699596592847" />
             </RecentProjectMetaInfo>

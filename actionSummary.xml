@@ -91,7 +91,7 @@
       <i c="81" l="1699609753050" />
     </e>
     <e n="EditorLeft">
-      <i c="475" l="1699610574953" />
+      <i c="477" l="1699610688423" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="119" l="1699610565328" />
@@ -166,7 +166,7 @@
       <i c="1" l="1699323733044" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="12" l="1699610588395" />
+      <i c="14" l="1699610692707" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
       <i c="10" l="1699593520293" />
@@ -193,7 +193,7 @@
       <i c="5" l="1699507676257" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="15" l="1699610573811" />
+      <i c="16" l="1699610688768" />
     </e>
     <e n="GotoDeclaration">
       <i c="178" l="1699610493650" />
