@@ -1,0 +1,44 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SF NS Text" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "GeneralSettings.initiallyConfigured": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "RunOnceActivity.svelte.init.key": "true",
+    "appcds.runOnSecondStart": "WS-232.9559.58-daedbc7145cf82b18cf9e46aa5c5afd201682f5133101ab825a40f76b0110b4a",
+    "bundled.plugins.list.saved.version": "WS-232.9559.58",
+    "evlsprt3.232": "22",
+    "experimental.ui.used.version": "232.9559.58",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "16.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "js.rename.search.for.text.occurrences": "false",
+    "js.rename.search.in.comments": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "One Dark Design",
+    "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
