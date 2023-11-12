@@ -10,10 +10,10 @@
       <i c="1" l="1699690982044" />
     </e>
     <e n="$Undo">
-      <i c="40" l="1699710921900" />
+      <i c="43" l="1699747275964" />
     </e>
     <e n="CodeCompletion">
-      <i c="49" l="1699709786386" />
+      <i c="57" l="1699747389273" />
     </e>
     <e n="CollapseAllRegions">
       <i c="10" l="1699705225225" />
@@ -25,13 +25,13 @@
       <i c="22" l="1699709802617" />
     </e>
     <e n="EditorBackSpace">
-      <i c="280" l="1699710990394" />
+      <i c="290" l="1699747362630" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="133" l="1699710917358" />
+      <i c="139" l="1699747365938" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="39" l="1699710871204" />
+      <i c="42" l="1699747390581" />
     </e>
     <e n="EditorCodeBlockEnd">
       <i c="1" l="1699704944815" />
@@ -43,28 +43,28 @@
       <i c="18" l="1699706342446" />
     </e>
     <e n="EditorDown">
-      <i c="130" l="1699710826538" />
+      <i c="139" l="1699747388238" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="20" l="1699708722481" />
     </e>
     <e n="EditorDuplicate">
-      <i c="9" l="1699704784390" />
+      <i c="10" l="1699747255353" />
     </e>
     <e n="EditorEnter">
-      <i c="137" l="1699710878229" />
+      <i c="140" l="1699747359569" />
     </e>
     <e n="EditorEscape">
-      <i c="15" l="1699709787321" />
+      <i c="16" l="1699747312654" />
     </e>
     <e n="EditorLeft">
-      <i c="162" l="1699710923273" />
+      <i c="169" l="1699747386407" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="28" l="1699710916042" />
     </e>
     <e n="EditorLineEnd">
-      <i c="42" l="1699710875475" />
+      <i c="43" l="1699747358647" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="15" l="1699710922747" />
@@ -76,7 +76,7 @@
       <i c="15" l="1699710827083" />
     </e>
     <e n="EditorNextWord">
-      <i c="45" l="1699709772441" />
+      <i c="49" l="1699747258149" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="8" l="1699709650416" />
@@ -85,19 +85,19 @@
       <i c="97" l="1699710923500" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="52" l="1699710874822" />
+      <i c="56" l="1699747389007" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="46" l="1699710825730" />
     </e>
     <e n="EditorRight">
-      <i c="93" l="1699711615036" />
+      <i c="99" l="1699747276429" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="10" l="1699709697912" />
+      <i c="11" l="1699747194467" />
     </e>
     <e n="EditorSelectWord">
-      <i c="22" l="1699706275000" />
+      <i c="25" l="1699747245871" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699691145501" />
@@ -112,7 +112,7 @@
       <i c="2" l="1699691750976" />
     </e>
     <e n="EditorUp">
-      <i c="84" l="1699710867245" />
+      <i c="85" l="1699747388699" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="3" l="1699690003153" />
@@ -130,16 +130,16 @@
       <i c="1" l="1699691116852" />
     </e>
     <e n="FindUsages">
-      <i c="2" l="1699678299446" />
+      <i c="3" l="1699747349177" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="2" l="1699711000560" />
     </e>
     <e n="GotoDeclaration">
-      <i c="50" l="1699709557478" />
+      <i c="52" l="1699747302710" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="69" l="1699710925521" />
+      <i c="78" l="1699747391786" />
     </e>
     <e n="MergeSettings">
       <i c="1" l="1699675784214" />
@@ -163,19 +163,22 @@
       <i c="5" l="1699691400732" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="185" l="1699710925307" />
+      <i c="196" l="1699747391230" />
     </e>
     <e n="RenameElement">
       <i c="5" l="1699691393962" />
     </e>
+    <e n="Replace">
+      <i c="1" l="1699747311030" />
+    </e>
     <e n="SaveAll">
-      <i c="86" l="1699710928679" />
+      <i c="87" l="1699747396148" />
     </e>
     <e n="SearchEverywhere">
       <i c="2" l="1699708997439" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="5" l="1699709731094" />
+      <i c="6" l="1699747337172" />
     </e>
     <e n="ShowIntentionActions">
       <i c="5" l="1699690988848" />
@@ -187,7 +190,7 @@
       <i c="1" l="1699710537718" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="1" l="1699691415241" />
+      <i c="2" l="1699747312464" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1699691120203" />
@@ -202,7 +205,7 @@
       <i c="2" l="1699709000295" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="45" l="1699710974656" />
+      <i c="56" l="1699747731260" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="2" l="1699708215392" />
@@ -212,6 +215,9 @@
     </e>
     <e n="copilot.applyInlays">
       <i c="9" l="1699705181589" />
+    </e>
+    <e n="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+      <i c="12" l="1699747209173" />
     </e>
   </component>
 </application>
