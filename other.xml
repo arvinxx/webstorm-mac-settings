@@ -35,7 +35,8 @@
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3",
     "vcs.branch.view.splitter.proportion": "0.1388584",
-    "vcs.log.changes.splitter.proportion": "0.6609337"
+    "vcs.log.changes.splitter.proportion": "0.7044293",
+    "vcs.log.details.splitter.proportion": "0.93897367"
   },
   "keyToStringList": {
     "fileTypeDetectors": [

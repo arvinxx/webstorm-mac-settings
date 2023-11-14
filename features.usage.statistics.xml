@@ -69,7 +69,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695465571391" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="1207" last-shown="0" last-used="1699946644287" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1209" last-shown="0" last-used="1699948620518" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="9" last-shown="0" last-used="1699927144493" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
