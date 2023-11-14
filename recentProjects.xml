@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1699948772715" />
+              <option name="activationTimestamp" value="1699954264753" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
@@ -19,11 +19,15 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
-              <option name="activationTimestamp" value="1699948878650" />
+            <RecentProjectMetaInfo frameTitle="lobe-ui – SpotlightCard/index.tsx" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
+              <option name="activationTimestamp" value="1699949109673" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="218" y="-1055" width="1446" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1699704286574" />
             </RecentProjectMetaInfo>
@@ -31,6 +35,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-ui" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
   </component>
 </application>
