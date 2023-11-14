@@ -18,7 +18,7 @@
     "bundled.plugins.list.saved.version": "WS-232.9559.58",
     "evlsprt3.232": "22",
     "experimental.ui.used.version": "232.9559.58",
-    "file.gist.reindex.count": "20",
+    "file.gist.reindex.count": "22",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "16.0",
@@ -33,7 +33,9 @@
     "previousColorScheme": "One Dark Design",
     "registry.to.advanced.settings.migration.build": "WS-232.9559.58",
     "tasks.pass.word.conversion.enforced": "true",
-    "ts.lib.d.ts.version": "5.1.3"
+    "ts.lib.d.ts.version": "5.1.3",
+    "vcs.branch.view.splitter.proportion": "0.1388584",
+    "vcs.log.changes.splitter.proportion": "0.6609337"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
