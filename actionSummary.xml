@@ -37,13 +37,13 @@
       <i c="2" l="1699921428291" />
     </e>
     <e n="CommentByLineComment">
-      <i c="51" l="1699932096020" />
+      <i c="52" l="1699932830847" />
     </e>
     <e n="EditSource">
       <i c="1" l="1699843905634" />
     </e>
     <e n="EditorBackSpace">
-      <i c="744" l="1699932034181" />
+      <i c="746" l="1699932836482" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="269" l="1699931778610" />
@@ -55,7 +55,7 @@
       <i c="1" l="1699704944815" />
     </e>
     <e n="EditorCopy">
-      <i c="208" l="1699931903056" />
+      <i c="211" l="1699933008321" />
     </e>
     <e n="EditorCut">
       <i c="42" l="1699932032517" />
@@ -67,37 +67,37 @@
       <i c="325" l="1699931811614" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="37" l="1699929899834" />
+      <i c="39" l="1699932941975" />
     </e>
     <e n="EditorDuplicate">
       <i c="16" l="1699926625220" />
     </e>
     <e n="EditorEnter">
-      <i c="345" l="1699932095640" />
+      <i c="347" l="1699932842342" />
     </e>
     <e n="EditorEscape">
       <i c="45" l="1699932058712" />
     </e>
     <e n="EditorLeft">
-      <i c="322" l="1699932095137" />
+      <i c="323" l="1699933007783" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="71" l="1699931791027" />
     </e>
     <e n="EditorLineEnd">
-      <i c="103" l="1699931765504" />
+      <i c="104" l="1699932843262" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="45" l="1699931790761" />
+      <i c="46" l="1699933008109" />
     </e>
     <e n="EditorLineStart">
-      <i c="61" l="1699931408440" />
+      <i c="62" l="1699932941169" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="51" l="1699931808053" />
     </e>
     <e n="EditorNextWord">
-      <i c="131" l="1699931254045" />
+      <i c="133" l="1699932841840" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="59" l="1699931254369" />
@@ -106,7 +106,7 @@
       <i c="216" l="1699931831943" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="156" l="1699931760790" />
+      <i c="160" l="1699932842125" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="131" l="1699931829149" />
@@ -133,7 +133,7 @@
       <i c="3" l="1699842805196" />
     </e>
     <e n="EditorUp">
-      <i c="196" l="1699931759805" />
+      <i c="197" l="1699932941466" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="23" l="1699926623871" />
@@ -205,7 +205,7 @@
       <i c="1" l="1699924770622" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="455" l="1699932059606" />
+      <i c="457" l="1699932856475" />
     </e>
     <e n="RenameElement">
       <i c="11" l="1699931741661" />
@@ -277,10 +277,10 @@
       <i c="4" l="1699932046010" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="236" l="1699932020173" />
+      <i c="237" l="1699933174668" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
-      <i c="9" l="1699932022407" />
+      <i c="10" l="1699932102945" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="1" l="1699683198070" />
@@ -289,7 +289,7 @@
       <i c="2" l="1699920685733" />
     </e>
     <e n="copilot.applyInlays">
-      <i c="36" l="1699931230807" />
+      <i c="37" l="1699932855971" />
     </e>
     <e n="de.netnexus.CamelCasePlugin.ToggleCamelCase">
       <i c="12" l="1699747209173" />
