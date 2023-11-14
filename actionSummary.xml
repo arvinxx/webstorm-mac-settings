@@ -43,7 +43,7 @@
       <i c="1" l="1699843905634" />
     </e>
     <e n="EditorBackSpace">
-      <i c="746" l="1699932836482" />
+      <i c="750" l="1699933340012" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="269" l="1699931778610" />
@@ -67,7 +67,7 @@
       <i c="325" l="1699931811614" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="39" l="1699932941975" />
+      <i c="40" l="1699933329163" />
     </e>
     <e n="EditorDuplicate">
       <i c="16" l="1699926625220" />
@@ -79,7 +79,7 @@
       <i c="45" l="1699932058712" />
     </e>
     <e n="EditorLeft">
-      <i c="323" l="1699933007783" />
+      <i c="325" l="1699933334497" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="71" l="1699931791027" />
@@ -100,7 +100,7 @@
       <i c="133" l="1699932841840" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="59" l="1699931254369" />
+      <i c="60" l="1699933327911" />
     </e>
     <e n="EditorPaste">
       <i c="216" l="1699931831943" />
@@ -109,16 +109,16 @@
       <i c="160" l="1699932842125" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="131" l="1699931829149" />
+      <i c="132" l="1699933334827" />
     </e>
     <e n="EditorRight">
-      <i c="315" l="1699931830463" />
+      <i c="318" l="1699933335122" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="35" l="1699931895226" />
     </e>
     <e n="EditorSelectWord">
-      <i c="52" l="1699926564244" />
+      <i c="53" l="1699933335964" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699691145501" />
@@ -169,13 +169,13 @@
       <i c="1" l="1699843725587" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="3" l="1699929897492" />
+      <i c="4" l="1699933326012" />
     </e>
     <e n="GotoDeclaration">
-      <i c="100" l="1699931753061" />
+      <i c="101" l="1699934065099" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="152" l="1699932049157" />
+      <i c="153" l="1699933297677" />
     </e>
     <e n="MergeSettings">
       <i c="1" l="1699675784214" />
@@ -205,7 +205,7 @@
       <i c="1" l="1699924770622" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="457" l="1699932856475" />
+      <i c="458" l="1699933298357" />
     </e>
     <e n="RenameElement">
       <i c="11" l="1699931741661" />
@@ -238,10 +238,10 @@
       <i c="2" l="1699843982610" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="11" l="1699925213583" />
+      <i c="13" l="1699933289176" />
     </e>
     <e n="Vcs.Push">
-      <i c="3" l="1699843936676" />
+      <i c="4" l="1699933382425" />
     </e>
     <e n="Vcs.Push.Force">
       <i c="1" l="1699844034495" />
@@ -268,16 +268,16 @@
       <i c="6" l="1699929956471" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="85" l="1699931305241" />
+      <i c="90" l="1699933319776" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="3" l="1699843783236" />
+      <i c="4" l="1699933317703" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="4" l="1699932046010" />
+      <i c="6" l="1699933293275" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="237" l="1699933174668" />
+      <i c="240" l="1699934027919" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="10" l="1699932102945" />
