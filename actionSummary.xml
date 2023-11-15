@@ -55,7 +55,7 @@
       <i c="2" l="1699951758657" />
     </e>
     <e n="EditorBackSpace">
-      <i c="919" l="1700036484955" />
+      <i c="922" l="1700039197518" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="316" l="1700036483268" />
@@ -91,7 +91,7 @@
       <i c="395" l="1700036484133" />
     </e>
     <e n="EditorEscape">
-      <i c="56" l="1700036014797" />
+      <i c="57" l="1700036662576" />
     </e>
     <e n="EditorLeft">
       <i c="396" l="1700036150579" />
@@ -238,10 +238,10 @@
       <i c="2" l="1700027309312" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="532" l="1700036486094" />
+      <i c="534" l="1700039198337" />
     </e>
     <e n="RenameElement">
-      <i c="12" l="1700036228206" />
+      <i c="14" l="1700036531424" />
     </e>
     <e n="Replace">
       <i c="2" l="1700032054818" />
@@ -250,7 +250,7 @@
       <i c="2" l="1700035097579" />
     </e>
     <e n="Rerun">
-      <i c="49" l="1700036488379" />
+      <i c="51" l="1700036679372" />
     </e>
     <e n="RerunTests">
       <i c="1" l="1699925230943" />
@@ -262,7 +262,7 @@
       <i c="2" l="1699708997439" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="25" l="1700031887588" />
+      <i c="45" l="1700036659979" />
     </e>
     <e n="ShelvedChanges.ShowHideDeleted">
       <i c="1" l="1699945870197" />
@@ -277,10 +277,10 @@
       <i c="1" l="1699801299227" />
     </e>
     <e n="Stop">
-      <i c="7" l="1700035811721" />
+      <i c="8" l="1700036621451" />
     </e>
     <e n="SynchronizeCurrentFile">
-      <i c="2" l="1700032168685" />
+      <i c="3" l="1700036628749" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="15" l="1700032076554" />
@@ -331,7 +331,7 @@
       <i c="7" l="1699951594066" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="136" l="1700035891220" />
+      <i c="137" l="1700036586546" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="41" l="1700035254510" />
@@ -340,7 +340,7 @@
       <i c="9" l="1700032080532" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="385" l="1700035919659" />
+      <i c="394" l="1700039192639" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="11" l="1699944758144" />
