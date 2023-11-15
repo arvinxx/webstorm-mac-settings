@@ -4,14 +4,15 @@
       <map>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700014335415" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – layout.desktop.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1700027521775" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
+                <RecentProjectColorInfo associatedIndex="4" />
               </option>
+              <frame x="164" y="-1055" width="1500" height="1055" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1699675761160" />
             </RecentProjectMetaInfo>
@@ -33,18 +34,50 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
+          <value>
+            <RecentProjectMetaInfo frameTitle="antd-style – withStyleProviderContainer.tsx" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
+              <option name="activationTimestamp" value="1700027624453" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721073003" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-456" y="-2315" width="2335" height="1181" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700027525723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1700030624747" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721073003" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700027734003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
-              <option name="activationTimestamp" value="1700014580925" />
+            <RecentProjectMetaInfo frameTitle="lobe-tts – package.json" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
+              <option name="activationTimestamp" value="1700032365638" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
+              <frame x="15" y="-980" width="1400" height="835" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700014337814" />
+              <option name="projectOpenTimestamp" value="1700030623358" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
