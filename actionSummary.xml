@@ -55,10 +55,10 @@
       <i c="2" l="1699951758657" />
     </e>
     <e n="EditorBackSpace">
-      <i c="922" l="1700039197518" />
+      <i c="928" l="1700041864774" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="316" l="1700036483268" />
+      <i c="318" l="1700041867760" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="94" l="1700035258898" />
@@ -79,7 +79,7 @@
       <i c="1" l="1699926514063" />
     </e>
     <e n="EditorDown">
-      <i c="414" l="1700036483030" />
+      <i c="417" l="1700041867448" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="57" l="1700035543860" />
@@ -121,7 +121,7 @@
       <i c="245" l="1700036150866" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="187" l="1700036012261" />
+      <i c="189" l="1700041856407" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="159" l="1700036151532" />
@@ -238,7 +238,7 @@
       <i c="2" l="1700027309312" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="534" l="1700039198337" />
+      <i c="539" l="1700041868075" />
     </e>
     <e n="RenameElement">
       <i c="14" l="1700036531424" />
@@ -256,13 +256,13 @@
       <i c="1" l="1699925230943" />
     </e>
     <e n="SaveAll">
-      <i c="159" l="1700036498278" />
+      <i c="163" l="1700041868802" />
     </e>
     <e n="SearchEverywhere">
       <i c="2" l="1699708997439" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="45" l="1700036659979" />
+      <i c="46" l="1700041793173" />
     </e>
     <e n="ShelvedChanges.ShowHideDeleted">
       <i c="1" l="1699945870197" />
@@ -298,7 +298,7 @@
       <i c="3" l="1700031490855" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="5" l="1700035478179" />
+      <i c="6" l="1700041822268" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1699710537718" />
@@ -331,16 +331,16 @@
       <i c="7" l="1699951594066" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="137" l="1700036586546" />
+      <i c="142" l="1700041858982" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="41" l="1700035254510" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="9" l="1700032080532" />
+      <i c="10" l="1700041805686" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="395" l="1700040741606" />
+      <i c="399" l="1700041829916" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="11" l="1699944758144" />
