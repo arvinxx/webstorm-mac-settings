@@ -310,7 +310,7 @@
       <i c="3" l="1700031490855" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="7" l="1700103749647" />
+      <i c="8" l="1700123971398" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
       <i c="1" l="1699710537718" />
@@ -328,7 +328,7 @@
       <i c="2" l="1700035050185" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="6" l="1700116354758" />
+      <i c="7" l="1700125119980" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="5" l="1699925301493" />
@@ -377,6 +377,9 @@
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="3" l="1700112036006" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1700123970402" />
     </e>
     <e n="copilot.applyInlays">
       <i c="58" l="1700116437175" />
