@@ -68,7 +68,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-tts – package.json" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
-              <option name="activationTimestamp" value="1700042541813" />
+              <option name="activationTimestamp" value="1700100675564" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
@@ -78,6 +78,21 @@
               <frame x="15" y="-980" width="1400" height="835" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1700030623358" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-sdk">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2YEmnXRFr6TuareEmIddCsCU5fX">
+              <option name="activationTimestamp" value="1700099932950" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721073003" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700099283561" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
