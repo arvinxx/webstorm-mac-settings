@@ -104,8 +104,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="15304" />
-      <option name="invocations" value="2396" />
+      <option name="sparedCharacters" value="15316" />
+      <option name="invocations" value="2397" />
       <option name="startDate" value="1692892800000" />
       <option name="dayCount" value="50" />
       <option name="lastDate" value="1700064000000" />
