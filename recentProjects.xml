@@ -68,38 +68,38 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – TTS.tsx" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700108699771" />
+            <RecentProjectMetaInfo frameTitle="lobe-chat – TTS.tsx" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1700116803514" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721073003" />
+              <option name="buildTimestamp" value="1692721050924" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
               <frame x="607" y="-1055" width="1057" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700100892324" />
+              <option name="projectOpenTimestamp" value="1700115772790" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-tts – index.ts" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
-              <option name="activationTimestamp" value="1700115600321" />
+            <RecentProjectMetaInfo frameTitle="lobe-tts – OpenaiSTTWithSR.tsx" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
+              <option name="activationTimestamp" value="1700116693430" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721050924" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="-232" y="-1055" width="1896" height="1055" extendedState="6" />
+              <frame x="417" y="-1055" width="1247" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700111444037" />
+              <option name="projectOpenTimestamp" value="1700116358427" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-tts" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
   </component>
 </application>
