@@ -36,32 +36,17 @@
         </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-editor">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
-              <option name="activationTimestamp" value="1700030624747" />
+            <RecentProjectMetaInfo frameTitle="pro-editor – package.json" projectWorkspaceId="2PpPbyQeTxe3dUnpWdXTuDl1dix">
+              <option name="activationTimestamp" value="1700101746535" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
+                <RecentProjectColorInfo associatedIndex="7" />
               </option>
+              <frame x="-245" y="-1053" width="1905" height="1049" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1700027734003" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-tts – index.d.ts" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
-              <option name="activationTimestamp" value="1700100876112" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721073003" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="136" y="-1055" width="1528" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700030623358" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -84,7 +69,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – layout.desktop.tsx" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700101413874" />
+              <option name="activationTimestamp" value="1700102824814" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721073003" />
@@ -97,8 +82,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-tts – index.d.ts" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
+              <option name="activationTimestamp" value="1700103174730" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721073003" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="136" y="-1055" width="1528" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700101758942" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-tts" />
   </component>
 </application>
