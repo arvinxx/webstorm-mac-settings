@@ -205,7 +205,7 @@
       <i c="10" l="1700100644707" />
     </e>
     <e n="GotoDeclaration">
-      <i c="144" l="1700105797220" />
+      <i c="145" l="1700106061070" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
       <i c="171" l="1699954332805" />
@@ -325,13 +325,13 @@
       <i c="5" l="1699925301493" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="2" l="1700103780846" />
+      <i c="3" l="1700105993320" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.actions.JsbtReloadTasksAction">
       <i c="1" l="1700099612081" />
     </e>
     <e n="com.intellij.lang.typescript.tsconfig.TypeScriptStatusBarWidget$2$2">
-      <i c="2" l="1700027510676" />
+      <i c="3" l="1700106044220" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="12" l="1700103349435" />
@@ -346,7 +346,7 @@
       <i c="12" l="1700103841088" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="489" l="1700105973441" />
+      <i c="491" l="1700106062858" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="11" l="1699944758144" />
