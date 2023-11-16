@@ -31,13 +31,13 @@
       <i c="1" l="1699945863814" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="4" l="1700042558909" />
+      <i c="5" l="1700101520787" />
     </e>
     <e n="ChangesView.ShowCommitOptions">
       <i c="3" l="1700035590779" />
     </e>
     <e n="CodeCompletion">
-      <i c="191" l="1700100761641" />
+      <i c="197" l="1700101630300" />
     </e>
     <e n="CollapseAllRegions">
       <i c="54" l="1699931754241" />
@@ -52,22 +52,22 @@
       <i c="53" l="1700099650280" />
     </e>
     <e n="EditSource">
-      <i c="2" l="1699951758657" />
+      <i c="3" l="1700101529716" />
     </e>
     <e n="EditorBackSpace">
-      <i c="981" l="1700100836861" />
+      <i c="982" l="1700101469944" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="329" l="1700100762796" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="107" l="1700100759513" />
+      <i c="111" l="1700101634076" />
     </e>
     <e n="EditorCodeBlockEnd">
       <i c="2" l="1699946571899" />
     </e>
     <e n="EditorCopy">
-      <i c="238" l="1700100319239" />
+      <i c="239" l="1700101625535" />
     </e>
     <e n="EditorCut">
       <i c="54" l="1700100379931" />
@@ -79,7 +79,7 @@
       <i c="1" l="1699926514063" />
     </e>
     <e n="EditorDown">
-      <i c="442" l="1700100762570" />
+      <i c="445" l="1700101585941" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="57" l="1700035543860" />
@@ -118,7 +118,7 @@
       <i c="92" l="1700100430364" />
     </e>
     <e n="EditorPaste">
-      <i c="250" l="1700100381668" />
+      <i c="251" l="1700101611421" />
     </e>
     <e n="EditorPreviousWord">
       <i c="201" l="1700100420402" />
@@ -178,13 +178,13 @@
       <i c="13" l="1700100667923" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="51" l="1700099560208" />
+      <i c="54" l="1700101358677" />
     </e>
     <e n="Git.Squash.Commits">
       <i c="1" l="1699953400861" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="3" l="1699944396077" />
+      <i c="5" l="1700101239981" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="3" l="1700030844344" />
@@ -196,13 +196,13 @@
       <i c="1" l="1699843974299" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="4" l="1700031372209" />
+      <i c="6" l="1700101217919" />
     </e>
     <e n="Gitmoji.GitCommitAction">
       <i c="10" l="1700100644707" />
     </e>
     <e n="GotoDeclaration">
-      <i c="123" l="1700100781315" />
+      <i c="125" l="1700101534036" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
       <i c="171" l="1699954332805" />
@@ -250,13 +250,13 @@
       <i c="2" l="1700035097579" />
     </e>
     <e n="Rerun">
-      <i c="62" l="1700100521558" />
+      <i c="64" l="1700101614166" />
     </e>
     <e n="RerunTests">
       <i c="1" l="1699925230943" />
     </e>
     <e n="SaveAll">
-      <i c="182" l="1700100841934" />
+      <i c="187" l="1700101634435" />
     </e>
     <e n="SearchEverywhere">
       <i c="2" l="1699708997439" />
@@ -271,7 +271,7 @@
       <i c="2" l="1699945868720" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="9" l="1699930950824" />
+      <i c="10" l="1700101563029" />
     </e>
     <e n="SplitVertically">
       <i c="1" l="1699801299227" />
@@ -316,7 +316,7 @@
       <i c="2" l="1700035050185" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="1" l="1699948777016" />
+      <i c="2" l="1700100889160" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="5" l="1699925301493" />
@@ -334,7 +334,7 @@
       <i c="8" l="1700100676554" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="153" l="1700100785428" />
+      <i c="156" l="1700101541525" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="59" l="1700100538941" />
@@ -343,7 +343,7 @@
       <i c="10" l="1700041805686" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="436" l="1700100733874" />
+      <i c="448" l="1700101588757" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="11" l="1699944758144" />
@@ -376,7 +376,7 @@
       <i c="2" l="1700099532263" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
-      <i c="2" l="1700031384522" />
+      <i c="3" l="1700101258218" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$RebaseAction">
       <i c="5" l="1700031396332" />
