@@ -50,22 +50,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-tts – createEdgeSpeech.ts" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
-              <option name="activationTimestamp" value="1700118711238" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721027655" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="207" y="-1055" width="1457" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700118677821" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/pro-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="pro-chat – preview.yml" projectWorkspaceId="2X0oVx9TLyvBXLdTf8bInOs4kpn">
@@ -82,40 +66,56 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-chat – tts/route.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700205474180" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721072433" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="94" y="-947" width="1400" height="835" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700187557574" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui">
           <value>
-            <RecentProjectMetaInfo frameTitle="lobe-ui – SpotlightCard/index.tsx" opened="true" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
-              <option name="activationTimestamp" value="1700207895670" />
+            <RecentProjectMetaInfo frameTitle="lobe-ui – package.json" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
+              <option name="activationTimestamp" value="1700209994234" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721072433" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="218" y="-1055" width="1446" height="1055" />
+              <frame x="-95" y="-1055" width="1759" height="1055" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700200470203" />
+              <option name="projectOpenTimestamp" value="1700209843782" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-tts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-tts – createEdgeSpeech.ts" opened="true" projectWorkspaceId="2YC0crgVBYtWYa3dmXGft3CgB0o">
+              <option name="activationTimestamp" value="1700210722602" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721072433" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="207" y="-1055" width="1457" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700210231854" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-chat – createChatCompletion.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
+              <option name="activationTimestamp" value="1700213821948" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721072433" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="73" y="-1055" width="1591" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700210691301" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-ui" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
   </component>
 </application>
