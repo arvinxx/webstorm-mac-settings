@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui">
-          <value>
-            <RecentProjectMetaInfo frameTitle="lobe-ui – SpotlightCard/index.tsx" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
-              <option name="activationTimestamp" value="1699949109673" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721073003" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="218" y="-1055" width="1446" height="1055" />
-              <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1699704286574" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style">
           <value>
             <RecentProjectMetaInfo frameTitle="antd-style – withStyleProviderContainer.tsx" projectWorkspaceId="2JnSDhF8SSZ2RUv7Us7jIieRdz0">
@@ -101,7 +85,7 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – tts/route.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700199356819" />
+              <option name="activationTimestamp" value="1700205474180" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721072433" />
@@ -114,8 +98,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-ui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lobe-ui – SpotlightCard/index.tsx" opened="true" projectWorkspaceId="2QRoj1VbUjqRXnhe4Kkdbm3eb2k">
+              <option name="activationTimestamp" value="1700206180967" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.9559.58" />
+              <option name="buildTimestamp" value="1692721072433" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="218" y="-1055" width="1446" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1700200470203" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" />
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobe-ui" />
   </component>
 </application>
