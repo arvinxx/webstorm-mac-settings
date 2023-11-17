@@ -58,10 +58,10 @@
       <i c="3" l="1700101529716" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1524" l="1700188547517" />
+      <i c="1528" l="1700189587179" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="553" l="1700116505159" />
+      <i c="554" l="1700189627742" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="168" l="1700116811036" />
@@ -85,7 +85,7 @@
       <i c="1" l="1699926514063" />
     </e>
     <e n="EditorDown">
-      <i c="686" l="1700188549643" />
+      <i c="688" l="1700189627511" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="90" l="1700187998346" />
@@ -100,7 +100,7 @@
       <i c="101" l="1700116458711" />
     </e>
     <e n="EditorLeft">
-      <i c="604" l="1700188545799" />
+      <i c="606" l="1700189553466" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="164" l="1700114006988" />
@@ -109,7 +109,7 @@
       <i c="190" l="1700116130726" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="73" l="1700114006365" />
+      <i c="74" l="1700189554998" />
     </e>
     <e n="EditorLineStart">
       <i c="112" l="1700116131507" />
@@ -121,7 +121,7 @@
       <i c="284" l="1700116451882" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="186" l="1700187996342" />
+      <i c="187" l="1700189553673" />
     </e>
     <e n="EditorPaste">
       <i c="427" l="1700189541182" />
@@ -133,7 +133,7 @@
       <i c="272" l="1700188549181" />
     </e>
     <e n="EditorRight">
-      <i c="605" l="1700188550013" />
+      <i c="611" l="1700189586238" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="102" l="1700116448880" />
@@ -157,7 +157,7 @@
       <i c="357" l="1700116781821" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="31" l="1700108795434" />
+      <i c="34" l="1700189583493" />
     </e>
     <e n="ExpandAllRegions">
       <i c="2" l="1699929067328" />
@@ -184,22 +184,22 @@
       <i c="24" l="1700116975395" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="64" l="1700188131606" />
+      <i c="65" l="1700189661772" />
     </e>
     <e n="Git.Squash.Commits">
-      <i c="2" l="1700114678051" />
+      <i c="3" l="1700189582147" />
     </e>
     <e n="Git.Unstash">
       <i c="1" l="1700111487313" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="6" l="1700188113940" />
+      <i c="8" l="1700189688223" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="3" l="1700030844344" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="3" l="1700189536974" />
+      <i c="4" l="1700189676964" />
     </e>
     <e n="GitRebaseBranchAction">
       <i c="1" l="1699843974299" />
@@ -211,7 +211,7 @@
       <i c="8" l="1700188110485" />
     </e>
     <e n="Gitmoji.GitCommitAction">
-      <i c="15" l="1700187990586" />
+      <i c="17" l="1700189552609" />
     </e>
     <e n="GotoDeclaration">
       <i c="230" l="1700116765639" />
@@ -307,10 +307,10 @@
       <i c="2" l="1699954275281" />
     </e>
     <e n="Vcs.Push">
-      <i c="14" l="1700188030234" />
+      <i c="15" l="1700189623958" />
     </e>
     <e n="Vcs.Push.Force">
-      <i c="3" l="1700031490855" />
+      <i c="4" l="1700189631827" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="9" l="1700187575523" />
@@ -364,7 +364,7 @@
       <i c="12" l="1700103841088" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="623" l="1700189092525" />
+      <i c="626" l="1700190497767" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="14" l="1700188874549" />
