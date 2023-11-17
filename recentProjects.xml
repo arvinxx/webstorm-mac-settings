@@ -101,16 +101,16 @@
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
           <value>
             <RecentProjectMetaInfo frameTitle="lobe-chat – tts/route.ts" opened="true" projectWorkspaceId="2VjjCvdOYnZksheDtt13AO6mcxC">
-              <option name="activationTimestamp" value="1700116937580" />
+              <option name="activationTimestamp" value="1700188868717" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
-              <option name="buildTimestamp" value="1692721059469" />
+              <option name="buildTimestamp" value="1692721072433" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="241" y="-1055" width="1423" height="1055" />
+              <frame x="94" y="-947" width="1400" height="835" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1700125123301" />
+              <option name="projectOpenTimestamp" value="1700187557574" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
