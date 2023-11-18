@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="15" l="1700114016255" />
+      <i c="17" l="1700215079429" />
     </e>
     <e n="$Cut">
       <i c="1" l="1699929561307" />
@@ -16,7 +16,7 @@
       <i c="11" l="1700203340219" />
     </e>
     <e n="$SelectAll">
-      <i c="59" l="1700212072545" />
+      <i c="61" l="1700214943626" />
     </e>
     <e n="$Undo">
       <i c="334" l="1700213142307" />
@@ -58,7 +58,7 @@
       <i c="4" l="1700209854078" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1852" l="1700213837785" />
+      <i c="1854" l="1700215092919" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="634" l="1700213559381" />
@@ -76,7 +76,7 @@
       <i c="1" l="1700210966637" />
     </e>
     <e n="EditorCopy">
-      <i c="482" l="1700213610444" />
+      <i c="485" l="1700214943900" />
     </e>
     <e n="EditorCut">
       <i c="98" l="1700213391348" />
@@ -112,7 +112,7 @@
       <i c="233" l="1700213573000" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="95" l="1700213555352" />
+      <i c="96" l="1700214386437" />
     </e>
     <e n="EditorLineStart">
       <i c="137" l="1700213572439" />
@@ -127,7 +127,7 @@
       <i c="214" l="1700213602854" />
     </e>
     <e n="EditorPaste">
-      <i c="504" l="1700213611709" />
+      <i c="506" l="1700215088204" />
     </e>
     <e n="EditorPreviousWord">
       <i c="445" l="1700213550642" />
@@ -136,7 +136,7 @@
       <i c="317" l="1700213544529" />
     </e>
     <e n="EditorRight">
-      <i c="700" l="1700213604135" />
+      <i c="703" l="1700215104766" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="111" l="1700213564268" />
@@ -250,10 +250,10 @@
       <i c="80" l="1700203365305" />
     </e>
     <e n="NewDir">
-      <i c="15" l="1700110400848" />
+      <i c="16" l="1700215073732" />
     </e>
     <e n="NewFile">
-      <i c="1" l="1699929566872" />
+      <i c="2" l="1700215082651" />
     </e>
     <e n="NewTypeScriptFile">
       <i c="7" l="1700114021523" />
@@ -268,7 +268,7 @@
       <i c="10" l="1700213375210" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1010" l="1700213586579" />
+      <i c="1011" l="1700215093184" />
     </e>
     <e n="RenameElement">
       <i c="46" l="1700201604368" />
@@ -370,7 +370,7 @@
       <i c="1" l="1700200819122" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="337" l="1700213785731" />
+      <i c="338" l="1700214460309" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="81" l="1700209871514" />
@@ -382,7 +382,7 @@
       <i c="12" l="1700103841088" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="689" l="1700213853174" />
+      <i c="690" l="1700213914624" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="16" l="1700202691129" />
