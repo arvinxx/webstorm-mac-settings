@@ -16,10 +16,10 @@
       <i c="11" l="1700203340219" />
     </e>
     <e n="$SelectAll">
-      <i c="64" l="1700446798522" />
+      <i c="65" l="1700451414464" />
     </e>
     <e n="$Undo">
-      <i c="346" l="1700448729957" />
+      <i c="348" l="1700451361526" />
     </e>
     <e n="Annotate">
       <i c="2" l="1700446603265" />
@@ -64,7 +64,7 @@
       <i c="4" l="1700209854078" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1913" l="1700449183402" />
+      <i c="1918" l="1700451412223" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="647" l="1700448733970" />
@@ -82,7 +82,7 @@
       <i c="1" l="1700210966637" />
     </e>
     <e n="EditorCopy">
-      <i c="513" l="1700449203535" />
+      <i c="517" l="1700451414722" />
     </e>
     <e n="EditorCut">
       <i c="104" l="1700448726220" />
@@ -94,61 +94,61 @@
       <i c="1" l="1699926514063" />
     </e>
     <e n="EditorDown">
-      <i c="846" l="1700448534985" />
+      <i c="848" l="1700451402391" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="121" l="1700447548093" />
     </e>
     <e n="EditorDuplicate">
-      <i c="38" l="1700449160179" />
+      <i c="40" l="1700451381669" />
     </e>
     <e n="EditorEnter">
-      <i c="717" l="1700449204740" />
+      <i c="718" l="1700451401140" />
     </e>
     <e n="EditorEscape">
       <i c="120" l="1700448541020" />
     </e>
     <e n="EditorLeft">
-      <i c="716" l="1700449199235" />
+      <i c="720" l="1700451376639" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="198" l="1700449199688" />
+      <i c="201" l="1700451390866" />
     </e>
     <e n="EditorLineEnd">
       <i c="238" l="1700448521002" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="106" l="1700449203312" />
+      <i c="107" l="1700451382814" />
     </e>
     <e n="EditorLineStart">
-      <i c="142" l="1700449204485" />
+      <i c="143" l="1700451385664" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="113" l="1700448719693" />
     </e>
     <e n="EditorNextWord">
-      <i c="364" l="1700447787633" />
+      <i c="366" l="1700451386031" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="223" l="1700448541884" />
+      <i c="224" l="1700451375788" />
     </e>
     <e n="EditorPaste">
-      <i c="539" l="1700449205140" />
+      <i c="542" l="1700451399050" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="453" l="1700449176886" />
+      <i c="454" l="1700451376739" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="323" l="1700448728519" />
+      <i c="328" l="1700451386894" />
     </e>
     <e n="EditorRight">
-      <i c="736" l="1700449175970" />
+      <i c="745" l="1700451391383" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="114" l="1700448729131" />
+      <i c="122" l="1700451396059" />
     </e>
     <e n="EditorSelectWord">
-      <i c="170" l="1700449187805" />
+      <i c="171" l="1700451398755" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699691145501" />
@@ -163,7 +163,7 @@
       <i c="15" l="1700449188190" />
     </e>
     <e n="EditorUp">
-      <i c="500" l="1700449206426" />
+      <i c="504" l="1700451401646" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="50" l="1700447302851" />
@@ -274,7 +274,7 @@
       <i c="10" l="1700213375210" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1069" l="1700449205697" />
+      <i c="1074" l="1700451412572" />
     </e>
     <e n="RenameElement">
       <i c="48" l="1700215478059" />
@@ -298,7 +298,7 @@
       <i c="3" l="1700109246254" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="84" l="1700448542301" />
+      <i c="85" l="1700451391089" />
     </e>
     <e n="ShelvedChanges.ShowHideDeleted">
       <i c="1" l="1699945870197" />
@@ -319,7 +319,7 @@
       <i c="3" l="1700036628749" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="37" l="1700447769628" />
+      <i c="39" l="1700451338656" />
     </e>
     <e n="Vcs.CherryPick">
       <i c="4" l="1700031461931" />
@@ -343,7 +343,7 @@
       <i c="1" l="1699710537718" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="80" l="1700448663712" />
+      <i c="82" l="1700451345508" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="2" l="1699747312464" />
@@ -394,10 +394,10 @@
       <i c="1" l="1700215472296" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="12" l="1700103841088" />
+      <i c="13" l="1700451340689" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="710" l="1700448737840" />
+      <i c="711" l="1700451405183" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="19" l="1700446142435" />
