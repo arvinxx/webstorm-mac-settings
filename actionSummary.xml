@@ -193,7 +193,7 @@
       <i c="42" l="1700451652929" />
     </e>
     <e n="Git.Log.Branches.Change.Branch.Filter">
-      <i c="67" l="1700445403296" />
+      <i c="68" l="1700460648113" />
     </e>
     <e n="Git.Revert.In.Log">
       <i c="1" l="1700206126621" />
@@ -214,7 +214,7 @@
       <i c="3" l="1700030844344" />
     </e>
     <e n="GitDeleteBranchAction">
-      <i c="6" l="1700444792025" />
+      <i c="8" l="1700460644173" />
     </e>
     <e n="GitNewBranchAction">
       <i c="2" l="1700451631286" />
@@ -355,7 +355,7 @@
       <i c="2" l="1700035050185" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="11" l="1700210688875" />
+      <i c="12" l="1700461174851" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="7" l="1700213762307" />
@@ -379,7 +379,7 @@
       <i c="1" l="1700446674568" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="355" l="1700451531173" />
+      <i c="356" l="1700460674198" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$FindByShortcutAction">
       <i c="1" l="1700447528766" />
@@ -397,7 +397,7 @@
       <i c="13" l="1700451340689" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="714" l="1700451553785" />
+      <i c="716" l="1700461193230" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="19" l="1700446142435" />
@@ -463,7 +463,7 @@
       <i c="3" l="1700445424332" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
-      <i c="5" l="1700445386795" />
+      <i c="6" l="1700460623736" />
     </e>
   </component>
 </application>

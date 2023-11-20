@@ -3,6 +3,7 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" value="true" />
+        <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style" value="true" />
       </map>
     </option>
   </component>
@@ -10,6 +11,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/CodeProjects/LobeHub" />
+        <option value="$USER_HOME$/CodeProjects/ant-design" />
       </list>
     </option>
   </component>
