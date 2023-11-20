@@ -19,7 +19,7 @@
       <i c="64" l="1700446798522" />
     </e>
     <e n="$Undo">
-      <i c="345" l="1700447458609" />
+      <i c="346" l="1700448729957" />
     </e>
     <e n="Annotate">
       <i c="2" l="1700446603265" />
@@ -46,7 +46,7 @@
       <i c="11" l="1700201717003" />
     </e>
     <e n="CodeCompletion">
-      <i c="360" l="1700446802031" />
+      <i c="369" l="1700448535328" />
     </e>
     <e n="CollapseAllRegions">
       <i c="64" l="1700210881249" />
@@ -64,10 +64,10 @@
       <i c="4" l="1700209854078" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1881" l="1700447591212" />
+      <i c="1913" l="1700449183402" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="636" l="1700446183046" />
+      <i c="647" l="1700448733970" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="188" l="1700446836492" />
@@ -82,10 +82,10 @@
       <i c="1" l="1700210966637" />
     </e>
     <e n="EditorCopy">
-      <i c="494" l="1700447333029" />
+      <i c="513" l="1700449203535" />
     </e>
     <e n="EditorCut">
-      <i c="101" l="1700447514005" />
+      <i c="104" l="1700448726220" />
     </e>
     <e n="EditorDelete">
       <i c="8" l="1700213579209" />
@@ -94,61 +94,61 @@
       <i c="1" l="1699926514063" />
     </e>
     <e n="EditorDown">
-      <i c="840" l="1700447555254" />
+      <i c="846" l="1700448534985" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="121" l="1700447548093" />
     </e>
     <e n="EditorDuplicate">
-      <i c="36" l="1700213451902" />
+      <i c="38" l="1700449160179" />
     </e>
     <e n="EditorEnter">
-      <i c="705" l="1700447590976" />
+      <i c="717" l="1700449204740" />
     </e>
     <e n="EditorEscape">
-      <i c="118" l="1700446838680" />
+      <i c="120" l="1700448541020" />
     </e>
     <e n="EditorLeft">
-      <i c="696" l="1700447548912" />
+      <i c="716" l="1700449199235" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="188" l="1700447096979" />
+      <i c="198" l="1700449199688" />
     </e>
     <e n="EditorLineEnd">
-      <i c="236" l="1700447093614" />
+      <i c="238" l="1700448521002" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="97" l="1700447455060" />
+      <i c="106" l="1700449203312" />
     </e>
     <e n="EditorLineStart">
-      <i c="141" l="1700447299433" />
+      <i c="142" l="1700449204485" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="110" l="1700446340735" />
+      <i c="113" l="1700448719693" />
     </e>
     <e n="EditorNextWord">
-      <i c="363" l="1700447096147" />
+      <i c="364" l="1700447787633" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="215" l="1700215458895" />
+      <i c="223" l="1700448541884" />
     </e>
     <e n="EditorPaste">
-      <i c="520" l="1700447580807" />
+      <i c="539" l="1700449205140" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="450" l="1700447095867" />
+      <i c="453" l="1700449176886" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="321" l="1700447096484" />
+      <i c="323" l="1700448728519" />
     </e>
     <e n="EditorRight">
-      <i c="722" l="1700447093190" />
+      <i c="736" l="1700449175970" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="111" l="1700213564268" />
+      <i c="114" l="1700448729131" />
     </e>
     <e n="EditorSelectWord">
-      <i c="167" l="1700447332556" />
+      <i c="170" l="1700449187805" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1699691145501" />
@@ -160,10 +160,10 @@
       <i c="5" l="1699926518816" />
     </e>
     <e n="EditorUnSelectWord">
-      <i c="14" l="1700116109334" />
+      <i c="15" l="1700449188190" />
     </e>
     <e n="EditorUp">
-      <i c="496" l="1700447555632" />
+      <i c="500" l="1700449206426" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="50" l="1700447302851" />
@@ -232,13 +232,13 @@
       <i c="24" l="1700215457861" />
     </e>
     <e n="GotoDeclaration">
-      <i c="253" l="1700447147423" />
+      <i c="254" l="1700448505882" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1700116164261" />
     </e>
     <e n="Javascript.Linters.EsLint.Fix">
-      <i c="269" l="1700447085206" />
+      <i c="280" l="1700449191049" />
     </e>
     <e n="JumpToLastWindow">
       <i c="1" l="1700211818433" />
@@ -274,7 +274,7 @@
       <i c="10" l="1700213375210" />
     </e>
     <e n="ReformatWithPrettierAction">
-      <i c="1045" l="1700447591510" />
+      <i c="1069" l="1700449205697" />
     </e>
     <e n="RenameElement">
       <i c="48" l="1700215478059" />
@@ -286,19 +286,19 @@
       <i c="2" l="1700035097579" />
     </e>
     <e n="Rerun">
-      <i c="130" l="1700446841301" />
+      <i c="131" l="1700447709555" />
     </e>
     <e n="RerunTests">
       <i c="1" l="1699925230943" />
     </e>
     <e n="SaveAll">
-      <i c="281" l="1700447591999" />
+      <i c="284" l="1700449206897" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1700109246254" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="82" l="1700212443552" />
+      <i c="84" l="1700448542301" />
     </e>
     <e n="ShelvedChanges.ShowHideDeleted">
       <i c="1" l="1699945870197" />
@@ -319,7 +319,7 @@
       <i c="3" l="1700036628749" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="35" l="1700446689016" />
+      <i c="37" l="1700447769628" />
     </e>
     <e n="Vcs.CherryPick">
       <i c="4" l="1700031461931" />
@@ -343,7 +343,7 @@
       <i c="1" l="1699710537718" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="79" l="1700447587015" />
+      <i c="80" l="1700448663712" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="2" l="1699747312464" />
@@ -397,7 +397,7 @@
       <i c="12" l="1700103841088" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="707" l="1700447142995" />
+      <i c="710" l="1700448737840" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="19" l="1700446142435" />
