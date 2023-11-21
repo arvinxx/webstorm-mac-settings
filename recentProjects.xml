@@ -100,11 +100,15 @@
         </entry>
         <entry key="$USER_HOME$/Downloads/standalone">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2YObzfq9mAfV0rmEuM6cqOVGAzz">
-              <option name="activationTimestamp" value="1700533576940" />
+            <RecentProjectMetaInfo frameTitle="standalone – chat.ts" projectWorkspaceId="2YObzfq9mAfV0rmEuM6cqOVGAzz">
+              <option name="activationTimestamp" value="1700533746759" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.9559.58" />
               <option name="buildTimestamp" value="1692721072433" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="18" y="43" width="1404" height="839" extendedState="6" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1700532510141" />
             </RecentProjectMetaInfo>

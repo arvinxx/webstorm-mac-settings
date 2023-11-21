@@ -286,7 +286,7 @@
       <i c="2" l="1700035097579" />
     </e>
     <e n="Rerun">
-      <i c="159" l="1700473784090" />
+      <i c="160" l="1700533724479" />
     </e>
     <e n="RerunTests">
       <i c="1" l="1699925230943" />
@@ -364,7 +364,7 @@
       <i c="8" l="1700473913759" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="11" l="1700532537161" />
+      <i c="14" l="1700533706597" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.actions.JsbtReloadTasksAction">
       <i c="1" l="1700099612081" />
@@ -403,7 +403,7 @@
       <i c="13" l="1700451340689" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="840" l="1700533417949" />
+      <i c="841" l="1700533721330" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="23" l="1700471250659" />
