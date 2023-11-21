@@ -208,7 +208,7 @@
       <i c="1" l="1700111487313" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="16" l="1700465404330" />
+      <i c="17" l="1700532523202" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="3" l="1700030844344" />
@@ -364,7 +364,7 @@
       <i c="8" l="1700473913759" />
     </e>
     <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
-      <i c="10" l="1700446051346" />
+      <i c="11" l="1700532537161" />
     </e>
     <e n="com.intellij.lang.javascript.buildTools.base.actions.JsbtReloadTasksAction">
       <i c="1" l="1700099612081" />
@@ -403,7 +403,7 @@
       <i c="13" l="1700451340689" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="830" l="1700474862973" />
+      <i c="831" l="1700532532059" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="23" l="1700471250659" />
