@@ -2,6 +2,7 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-sdk" value="true" />
         <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat" value="true" />
         <entry key="$USER_HOME$/CodeProjects/ant-design/antd-style" value="true" />
         <entry key="$USER_HOME$/Downloads/standalone" value="true" />
