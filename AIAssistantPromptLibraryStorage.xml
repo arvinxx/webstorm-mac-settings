@@ -2,6 +2,17 @@
   <component name="AIAssistantPromptLibraryStorage">
     <option name="prompts">
       <map>
+        <entry key="8bab2352-3cf7-45ed-a76d-6804df6d27cb">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="content" value="请解读以下代码：&#10;&#10;$SELECTION" />
+              <option name="createdAt" value="1700639812" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="8bab2352-3cf7-45ed-a76d-6804df6d27cb" />
+              <option name="name" value="代码解读" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
         <entry key="builtin_findproblems">
           <value>
             <AIAssistantStoredPrompt>
