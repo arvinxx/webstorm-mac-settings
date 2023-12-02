@@ -13,11 +13,6 @@
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="debugger.new.tool.window.layout" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
-    <entry key="ide.editor.tab.selection.animation" value="true" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="ide.animate.toolwindows" value="true" />
-    <entry key="editor.focus.mode.color.light" value="6b727d" />
-    <entry key="editor.focus.mode.color.dark" value="6b727d" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
