@@ -22239,6 +22239,178 @@
           }
         }
       }
+    },
+    "com.intellij.configurationType": {
+      "featureMap": {
+        "CompoundRunConfigurationType": {
+          "displayName": "复合",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ShConfigurationType": {
+          "displayName": "Shell Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.sh",
+            "nullablePluginName": "Shell Script",
+            "isBundled": true
+          }
+        },
+        "HttpClient.HttpRequestRunConfigurationType": {
+          "displayName": "HTTP 请求",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client",
+            "isBundled": true
+          }
+        },
+        "SwaggerCodegen": {
+          "displayName": "OpenAPI/Swagger 代码生成器",
+          "pluginData": {
+            "pluginIdString": "com.intellij.swagger",
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerJest": {
+          "displayName": "Jest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerVitest": {
+          "displayName": "Vitest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerProtractor": {
+          "displayName": "Protractor",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.grunt": {
+          "displayName": "Grunt.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.gulp": {
+          "displayName": "Gulp.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.npm": {
+          "displayName": "npm",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "NodeWebKit": {
+          "displayName": "NW.js",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ChromiumRemoteDebugType": {
+          "displayName": "附加到 Node.js/Chrome",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "FirefoxRemoteDebugType": {
+          "displayName": "Firefox Remote",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ReactNative": {
+          "displayName": "React Native",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "JavascriptDebugType": {
+          "displayName": "JavaScript 调试",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "cucumber.js": {
+          "displayName": "Cucumber.js",
+          "pluginData": {
+            "pluginIdString": "cucumber-javascript",
+            "nullablePluginName": "Cucumber.js",
+            "isBundled": true
+          }
+        },
+        "NodeJSConfigurationType": {
+          "displayName": "Node.js",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "NodeunitConfigurationType": {
+          "displayName": "Nodeunit",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "mocha-javascript-test-runner": {
+          "displayName": "Mocha",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerKarma": {
+          "displayName": "Karma",
+          "pluginData": {
+            "pluginIdString": "Karma",
+            "nullablePluginName": "Karma",
+            "isBundled": true
+          }
+        },
+        "docker-deploy": {
+          "displayName": "Docker",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        }
+      }
     }
   }
 }]]></component>

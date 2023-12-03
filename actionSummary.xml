@@ -1,10 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="3" l="1701580216566" />
+    </e>
+    <e n="$Undo">
+      <i c="9" l="1701580215985" />
+    </e>
     <e n="CodeCompletion">
       <i c="1" l="1701579765684" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5" l="1701580188411" />
+      <i c="11" l="1701580269212" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1701579943011" />
@@ -15,6 +21,9 @@
     <e n="EditorDown">
       <i c="3" l="1701579943544" />
     </e>
+    <e n="EditorDownWithSelection">
+      <i c="2" l="1701580266273" />
+    </e>
     <e n="EditorDuplicate">
       <i c="5" l="1701580187577" />
     </e>
@@ -22,10 +31,13 @@
       <i c="4" l="1701579961510" />
     </e>
     <e n="EditorLeft">
-      <i c="3" l="1701579961303" />
+      <i c="4" l="1701580264922" />
     </e>
     <e n="EditorLineEnd">
       <i c="1" l="1701579960767" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1701580265149" />
     </e>
     <e n="EditorPaste">
       <i c="2" l="1701579899252" />
@@ -34,13 +46,16 @@
       <i c="3" l="1701579943979" />
     </e>
     <e n="EditorRight">
-      <i c="4" l="1701580185114" />
+      <i c="6" l="1701580265967" />
     </e>
     <e n="EditorUp">
       <i c="4" l="1701580188141" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="1" l="1701580006621" />
+      <i c="2" l="1701580272251" />
+    </e>
+    <e n="Gitmoji.GitCommitAction">
+      <i c="1" l="1701580263935" />
     </e>
     <e n="GotoDeclaration">
       <i c="8" l="1701579818595" />
@@ -64,7 +79,7 @@
       <i c="3" l="1701579876575" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="10" l="1701580073657" />
+      <i c="12" l="1701580285724" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1701579754633" />
