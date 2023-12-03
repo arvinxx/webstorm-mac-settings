@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CodeCompletion">
+      <i c="1" l="1701579765684" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1701580188411" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1701579943011" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1701580178356" />
+    </e>
+    <e n="EditorDown">
+      <i c="3" l="1701579943544" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="5" l="1701580187577" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1701579961510" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1701579961303" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1701579960767" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1701579899252" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="3" l="1701579943979" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1701580185114" />
+    </e>
+    <e n="EditorUp">
+      <i c="4" l="1701580188141" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1701580006621" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="8" l="1701579818595" />
+    </e>
+    <e n="Javascript.Linters.EsLint.Fix">
+      <i c="3" l="1701579961903" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="1" l="1701579965426" />
+    </e>
+    <e n="ReformatWithPrettierAction">
+      <i c="6" l="1701580188794" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1701580189074" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1701580030834" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1701579876575" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="10" l="1701580073657" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1701579754633" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1701579736316" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$1">
+      <i c="1" l="1701579734853" />
+    </e>
+  </component>
+</application>

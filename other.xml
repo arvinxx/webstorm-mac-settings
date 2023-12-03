@@ -5,28 +5,37 @@
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFontsWasMigrated" value="true" />
   </component>
-  <component name="PropertyService">{
-  &quot;keyToString&quot;: {
-    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
-    &quot;GeneralSettings.initiallyConfigured&quot;: &quot;true&quot;,
-    &quot;bundled.plugins.list.saved.version&quot;: &quot;WS-232.10227.9&quot;,
-    &quot;evlsprt3.232&quot;: &quot;4&quot;,
-    &quot;experimental.ui.used.version&quot;: &quot;232.10227.9&quot;,
-    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
-    &quot;fontSizeToResetConsole&quot;: &quot;12.0&quot;,
-    &quot;fontSizeToResetEditor&quot;: &quot;16.0&quot;,
-    &quot;previousColorScheme&quot;: &quot;One Dark Design&quot;,
-    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Endpoints.split": "0.65",
+    "GeneralSettings.initiallyConfigured": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "appcds.runOnSecondStart": "WS-232.10227.9-995c8cc999a33f225fe9a8ab1d43df727b2d3c12be40440a0270f171723424d8",
+    "bundled.plugins.list.saved.version": "WS-232.10227.9",
+    "evlsprt3.232": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "232.10227.9",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "16.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "One Dark Design",
+    "registry.to.advanced.settings.migration.build": "WS-232.10227.9",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;fileTypeDetectors&quot;: [
-      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
-      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
-      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
-      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
-      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
-      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
-}</component>
+}]]></component>
 </application>

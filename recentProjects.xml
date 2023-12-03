@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobe-chat">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2SQSgD3ByqE6U2XnJwkQ1HHQ8Gz">
+              <option name="activationTimestamp" value="1701580064851" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.10227.9" />
+              <option name="buildTimestamp" value="1699722880879" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1701579725159" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/chat-plugin-sdk">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chat-plugin-sdk – market.ts" projectWorkspaceId="2V8q9qODM4ot5z1PGXUDG3tTo1L">
+              <option name="activationTimestamp" value="1701580039095" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.10227.9" />
+              <option name="buildTimestamp" value="1699722880879" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="164" y="77" width="1400" height="1000" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1701579842876" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UD4Qx9zAjzTKk3zJiHR4WUbfdC">
+              <option name="activationTimestamp" value="1701580173923" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-232.10227.9" />
+              <option name="buildTimestamp" value="1699722880879" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1701580066163" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo" />
+  </component>
+</application>
