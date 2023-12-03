@@ -22417,5 +22417,9 @@
   <component name="editorConfigEncodings">
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-sdk/.git/AUTO_MERGE" charset="utf-8" />
     <file url="file://$USER_HOME$/CodeProjects/LobeHub/chat-plugin-sdk/.git/refs/tags/v1.25.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-search-engine/refs/tags/v1.6.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-sdk/refs/tags/v1.26.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-sdk/refs/tags/v1.25.0" charset="utf-8" />
+    <file url="file://$USER_HOME$/CodeProjects/LobeHub/lobechat-plugin-monorepo/.git/modules/packages/chat-plugin-web-crawler/refs/tags/v1.3.0" charset="utf-8" />
   </component>
 </application>
