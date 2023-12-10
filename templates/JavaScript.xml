@@ -3,7 +3,7 @@
     <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
@@ -11,7 +11,7 @@
     <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
     <context>
-      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
@@ -19,7 +19,7 @@
     <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
     <context>
-      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
