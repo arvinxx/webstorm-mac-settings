@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
