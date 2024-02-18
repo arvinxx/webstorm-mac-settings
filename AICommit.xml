@@ -8,7 +8,7 @@
         <option name="name" value="Emoji" />
       </Prompt>
     </option>
-    <option name="lastVersion" value="1.5.0" />
+    <option name="lastVersion" value="1.5.1" />
     <option name="openAIHost" value="https://api.openai.com" />
     <option name="openAIHosts">
       <set>
