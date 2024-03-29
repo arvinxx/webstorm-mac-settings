@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T07:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2024-03-29T12:59:44</property>
+    <property name="modified">2024-03-30T00:37:41</property>
     <property name="originalScheme">Real Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -18,7 +18,7 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
