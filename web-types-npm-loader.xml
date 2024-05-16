@@ -1,5 +1,5 @@
 <application>
-  <component name="WebTypesNpmLoader" timestamp="1715829888583">
+  <component name="WebTypesNpmLoader" timestamp="1715774502744">
     <package name="@web-types/bootstrap-vue">
       <version value="2.0.0-rc.20.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.20.2.tgz" />
       <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-1.tgz" />
@@ -15,17 +15,6 @@
     </package>
     <package name="@web-types/lit">
       <version value="2.0.0-3" url="https://registry.npmjs.org/@web-types/lit/-/lit-2.0.0-3.tgz" />
-    </package>
-    <package name="@web-types/vue">
-      <version value="3.0.0-1" url="https://registry.npmjs.org/@web-types/vue/-/vue-3.0.0-1.tgz" />
-      <version value="2.5.0-4" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.5.0-4.tgz" />
-      <version value="2.4.0-2" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.4.0-2.tgz" />
-      <version value="2.3.0-2" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.3.0-2.tgz" />
-      <version value="2.2.0-4" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.2.0-4.tgz" />
-      <version value="2.1.8-4" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.1.8-4.tgz" />
-      <version value="2.1.0-4" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.1.0-4.tgz" />
-      <version value="2.0.0-5" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.0.0-5.tgz" />
-      <version value="1.0.0-5" url="https://registry.npmjs.org/@web-types/vue/-/vue-1.0.0-5.tgz" />
     </package>
     <package name="@web-types/vue-router">
       <version value="3.1.0-1" url="https://registry.npmjs.org/@web-types/vue-router/-/vue-router-3.1.0-1.tgz" />
