@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目文件" />
-    <option name="defaultScopeName" value="项目文件" />
-    <option name="SEARCH_SCOPE" value="项目文件" />
+    <option name="customScope" value="选定文件" />
+    <option name="defaultScopeName" value="选定文件" />
+    <option name="SEARCH_SCOPE" value="选定文件" />
   </component>
 </application>
