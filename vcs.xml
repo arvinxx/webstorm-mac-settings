@@ -10,6 +10,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Hash" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
@@ -23,8 +24,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
-  </component>
-  <component name="VcsEditorTab.Settings">
-    <option name="openInNewWindow" value="true" />
   </component>
 </application>
