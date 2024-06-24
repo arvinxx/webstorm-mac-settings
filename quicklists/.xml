@@ -1,0 +1,15 @@
+<list display="部署" description="部署操作">
+  <action id="PublishGroup.Upload" />
+  <action id="PublishGroup.UploadTo" />
+  <action id="PublishGroup.Download" />
+  <action id="PublishGroup.DownloadFrom" />
+  <action id="PublishGroup.CompareLocalVsRemote" />
+  <action id="OpenInBrowser" />
+  <action id="QuickList.$Separator$" />
+  <action id="SelectInRemoteHost" />
+  <action id="WebDeployment.BrowseServers" />
+  <action id="RemoteHostView.CreateFolder" />
+  <action id="RemoteHostView.SetPermissions" />
+  <action id="QuickList.$Separator$" />
+  <action id="WebDeployment.Configuration" />
+</list>

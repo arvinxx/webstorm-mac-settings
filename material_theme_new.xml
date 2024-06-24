@@ -21,6 +21,7 @@
       <MTMetadataState>
         <option name="allowDataCollection" value="true" />
         <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
         <option name="userId" value="534784f7:173736383df:-8000" />
         <option name="version" value="9.3.1" />
         <option name="wizardShown" value="true" />
@@ -33,7 +34,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="ONE_DARK" />
       </MTThemeConfigState>
     </option>
     <option name="uiComponentsState">
