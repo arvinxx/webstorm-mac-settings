@@ -3,7 +3,7 @@
     <laf themeId="ONE_DARK" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
-      <laf-to-scheme laf="Dark" scheme="One Dark Design" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="One Dark Design" />
       <laf-to-scheme laf="ONE_DARK" scheme="One Dark Design" />
     </lafs-to-previous-schemes>
   </component>
