@@ -23,13 +23,17 @@
         <option name="migrated" value="true" />
         <option name="userId" value="534784f7:173736383df:-8000" />
         <option name="version" value="9.3.1" />
-        <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
     <option name="tabsState">
       <MTTabsConfigState>
         <option name="tabsHeight" value="24" />
       </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="ONE_DARK" />
+      </MTThemeConfigState>
     </option>
     <option name="uiComponentsState">
       <MTUiComponentsConfigState>
