@@ -1202,10 +1202,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JADE_FILE_PATH" baseAttributes="" />
+    <option name="JADE_FILTER_NAME" baseAttributes="" />
+    <option name="JADE_JS_BLOCK" baseAttributes="" />
+    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -2980,14 +2980,14 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="252b39" />
