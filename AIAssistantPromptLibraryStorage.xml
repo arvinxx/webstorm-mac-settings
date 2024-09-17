@@ -18,7 +18,7 @@
               <option name="builtIn" value="true" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_findproblems" />
-              <option name="name" value="Find problems in code" />
+              <option name="name" value="查找问题" />
               <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
               <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
@@ -31,7 +31,7 @@
               <option name="builtIn" value="true" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_newchat" />
-              <option name="name" value="New chat using selection" />
+              <option name="name" value="使用选区新建聊天" />
               <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
               <option name="waitForInput" value="true" />
