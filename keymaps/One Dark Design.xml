@@ -28,6 +28,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
