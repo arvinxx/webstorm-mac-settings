@@ -9,6 +9,7 @@
     <option name="compactState">
       <MTCompactConfigState>
         <option name="compactDropdowns" value="true" />
+        <option name="compactListItems" value="true" />
         <option name="compactTables" value="true" />
       </MTCompactConfigState>
     </option>
@@ -26,6 +27,12 @@
         <option name="version" value="9.5.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
+    </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="customLineHeight" value="24" />
+        <option name="customLineHeightEnabled" value="true" />
+      </MTProjectTreeConfigState>
     </option>
     <option name="tabsState">
       <MTTabsConfigState>
