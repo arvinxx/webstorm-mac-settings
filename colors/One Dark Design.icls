@@ -1049,12 +1049,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="" />
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
@@ -3645,16 +3645,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
-    <option name="XML_CUSTOM_TAG_NAME" baseAttributes="" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_CUSTOM_TAG_NAME" baseAttributes="XML_TAG_NAME" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
