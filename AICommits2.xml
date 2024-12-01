@@ -8,7 +8,7 @@
         <option name="name" value="Emoji" />
       </Prompt>
     </option>
-    <option name="lastVersion" value="2.7.1" />
+    <option name="lastVersion" value="2.8.0" />
     <option name="locale" value="und" />
     <llmClientConfigurations>
       <OpenAiClientConfiguration host="https://api.openai.com" id="af279a4c-b2be-4cd2-b829-e36aa2a839a1" />
