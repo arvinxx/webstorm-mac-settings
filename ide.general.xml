@@ -16,6 +16,7 @@
     <option name="widgets">
       <map>
         <entry key="FlowJSInfo" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="Translation.Widget" value="false" />
         <entry key="git" value="true" />
         <entry key="mtThemeFactory" value="false" />
