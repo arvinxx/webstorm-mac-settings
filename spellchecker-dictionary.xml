@@ -6,6 +6,7 @@
       <w>codellama</w>
       <w>dalle</w>
       <w>hitu</w>
+      <w>langchain</w>
       <w>langfuse</w>
       <w>lobehub</w>
       <w>mfsu</w>
@@ -16,6 +17,7 @@
       <w>reactflow</w>
       <w>timestamptz</w>
       <w>vercel</w>
+      <w>zarinpal</w>
       <w>zhipu</w>
     </words>
   </component>
