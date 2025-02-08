@@ -79,6 +79,9 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
+      <action id="com.wallaby.javascript.actions.GoToPreviousError">
+        <abbreviation name="wallaby" />
+      </action>
       <action id="com.wallaby.javascript.actions.CopyValueAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
@@ -140,6 +143,9 @@
       </action>
       <action id="com.wallaby.javascript.actions.RunTestFileAction">
         <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.GoToNextError">
         <abbreviation name="wallaby" />
       </action>
       <action id="com.wallaby.javascript.actions.UpdateTestSnapshotsAction">
