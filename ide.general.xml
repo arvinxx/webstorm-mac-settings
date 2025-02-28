@@ -7,4 +7,11 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="ide.animate.toolwindows" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
