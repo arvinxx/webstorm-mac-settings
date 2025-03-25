@@ -1,11 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="更改" />
-    <option name="defaultScopeName" value="更改" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="更改" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.shtm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.ats</mask>
+    <mask>*.cts</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
