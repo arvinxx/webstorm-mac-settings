@@ -1,0 +1,7 @@
+<application>
+  <component name="FindUsagesSettings">
+    <option name="customScope" value="项目文件" />
+    <option name="defaultScopeName" value="项目文件" />
+    <option name="SEARCH_SCOPE" value="项目文件" />
+  </component>
+</application>
