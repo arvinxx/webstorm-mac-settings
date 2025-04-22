@@ -1,0 +1,7 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="rainbowifyTagNameInXML" value="true" />
+    <option name="version" value="2023.3.6" />
+  </component>
+</application>

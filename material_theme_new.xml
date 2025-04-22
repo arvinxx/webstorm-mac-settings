@@ -1,0 +1,45 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="1677ff" />
+        <option name="overrideAccentColor" value="false" />
+      </MTAccentConfigState>
+    </option>
+    <option name="compactState">
+      <MTCompactConfigState>
+        <option name="compactDropdowns" value="true" />
+        <option name="compactTables" value="true" />
+      </MTCompactConfigState>
+    </option>
+    <option name="contrastState">
+      <MTContrastConfigState>
+        <option name="contrastMode" value="true" />
+      </MTContrastConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="534784f7:173736383df:-8000" />
+        <option name="version" value="9.5.0" />
+        <option name="wizardShown" value="true" />
+      </MTMetadataState>
+    </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="tabsHeight" value="24" />
+      </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="ONE_DARK" />
+      </MTThemeConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="upperCaseButtons" value="false" />
+      </MTUiComponentsConfigState>
+    </option>
+  </component>
+</application>

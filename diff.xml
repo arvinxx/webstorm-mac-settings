@@ -1,0 +1,54 @@
+<application>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
+              <option value="com.intellij.ml.llm.core.diff.AIOneSideDiffTool" />
+              <option value="com.intellij.ml.llm.core.diff.AITwoSideDiffTool" />
+              <option value="com.intellij.ml.llm.core.diff.AIUnifiedDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
+              <option value="com.intellij.ml.llm.core.diff.AIUnifiedDiffTool" />
+              <option value="com.intellij.ml.llm.core.diff.AITwoSideDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
+</application>

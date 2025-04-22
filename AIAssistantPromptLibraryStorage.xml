@@ -1,0 +1,58 @@
+<application>
+  <component name="AIAssistantPromptLibraryStorage">
+    <option name="prompts">
+      <map>
+        <entry key="8bab2352-3cf7-45ed-a76d-6804df6d27cb">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="8bab2352-3cf7-45ed-a76d-6804df6d27cb" />
+              <option name="name" value="代码解读" />
+              <option name="content" value="请解读以下代码：&#10;&#10;$SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_findproblems">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_findproblems" />
+              <option name="name" value="查找问题" />
+              <option name="priority" value="100500" />
+              <option name="showInInput" value="false" />
+              <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_newchat">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_newchat" />
+              <option name="name" value="使用选区新建聊天" />
+              <option name="priority" value="100500" />
+              <option name="showInInput" value="false" />
+              <option name="waitForInput" value="true" />
+              <option name="content" value="&#10;&#10;$SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_refactoring">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_refactoring" />
+              <option name="name" value="Suggest refactoring" />
+              <option name="priority" value="100500" />
+              <option name="showInInput" value="false" />
+              <option name="content" value="Refactor the following code:&#10;&#10;$SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

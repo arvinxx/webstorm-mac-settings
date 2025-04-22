@@ -1,0 +1,9 @@
+<application>
+  <component name="OpenAiClientSharedState">
+    <hosts>
+      <option value="https://api.openai.com/v1" />
+      <option value="https://api.openai.com" />
+      <option value="https://openai-proxy.arvinx.app" />
+    </hosts>
+  </component>
+</application>

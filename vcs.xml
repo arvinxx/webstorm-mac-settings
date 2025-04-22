@@ -1,0 +1,28 @@
+<application>
+  <component name="DiffApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Date" />
+        <option value="Default.Author" />
+        <option value="Default.Hash" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Hash.ColumnIdVisibility" value="true" />
+        <entry key="Table.Space.CommitStatus.ColumnIdVisibility" value="false" />
+      </map>
+    </option>
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+  </component>
+</application>

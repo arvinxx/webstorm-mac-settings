@@ -1,0 +1,92 @@
+<keymap version="1" name="One Dark Design" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangesView.Diff" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ServiceView.JumpToServices">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Stylelint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="Tool_External Tools_fix stylelint">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
