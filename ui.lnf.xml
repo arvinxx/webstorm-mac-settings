@@ -2,6 +2,5 @@
   <component name="UISettings">
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
-    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
