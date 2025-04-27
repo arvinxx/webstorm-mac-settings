@@ -1,5 +1,6 @@
 <application>
   <component name="LafManager">
+    <laf themeId="ONE_DARK" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
       <laf-to-scheme laf="ExperimentalDark" scheme="One Dark Design" />

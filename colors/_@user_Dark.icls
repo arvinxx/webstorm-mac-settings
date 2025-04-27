@@ -8,24 +8,24 @@
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="2b2d30" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_DELETED" value="59626f" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="CARET_ROW_COLOR" value="2B2D30" />
+    <option name="FILESTATUS_ADDED" value="C3E887" />
+    <option name="FILESTATUS_DELETED" value="59626F" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72A038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6f737a" />
-    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="LINE_NUMBERS_COLOR" value="4e5157" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9da0a8" />
-    <option name="SELECTED_INDENT_GUIDE" value="6f737a" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6F737A" />
+    <option name="FILESTATUS_MODIFIED" value="E5C17C" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="LINE_NUMBERS_COLOR" value="4E5157" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9DA0A8" />
+    <option name="SELECTED_INDENT_GUIDE" value="6F737A" />
   </colors>
   <attributes>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">

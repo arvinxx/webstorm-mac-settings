@@ -42,15 +42,15 @@
     <option name="FILESTATUS_DELETED" value="59626F" />
     <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FC9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FC9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FC9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="D69A6B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="DE6A66" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="DE6A66" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="DE6A66" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="C3E88D" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="C3E88D" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979FAD" />
-    <option name="FILESTATUS_MERGED" value="C792EA" />
+    <option name="FILESTATUS_MERGED" value="CF84CF" />
     <option name="FILESTATUS_MODIFIED" value="E5C17C" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
@@ -3539,7 +3539,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="2b2d30" />
+        <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
