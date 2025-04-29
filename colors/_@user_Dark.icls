@@ -1,0 +1,59 @@
+<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-07-12T01:58:32</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2022.2.0.0</property>
+    <property name="modified">2023-08-20T00:15:43</property>
+    <property name="originalScheme">Dark</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="2B2D30" />
+    <option name="FILESTATUS_ADDED" value="C3E887" />
+    <option name="FILESTATUS_DELETED" value="59626F" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72A038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6F737A" />
+    <option name="FILESTATUS_MODIFIED" value="E5C17C" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="LINE_NUMBERS_COLOR" value="4E5157" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9DA0A8" />
+    <option name="SELECTED_INDENT_GUIDE" value="6F737A" />
+  </colors>
+  <attributes>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a571e6" />
+        <option name="EFFECT_COLOR" value="a571e6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ced9d2" />
+        <option name="BACKGROUND" value="326146" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="1e1f22" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3d3322" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

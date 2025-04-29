@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping ext="index" type="AUTO_DETECTED" />
+      <mapping ext="blockmap" type="AUTO_DETECTED" />
+      <mapping pattern=".swcrc" type="JSON" />
+      <mapping ext="mdc" type="Markdown" />
+      <mapping ext="sketch" type="Native" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="js " type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
